@@ -1,4 +1,4 @@
-{:	data{I"/about/:ET{:default{	:	lastI"Y+<!DOCTYPE HTML>
+{:	data{I"/about/:ET{:default{	:	lastI"Y+<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -3006,7 +3006,7 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
 &lt;/div&gt;</content>
   </entry>
 </feed>
-;T;@,I"/;T{;{	;I"F%<!DOCTYPE html>
+;T;@,I"/;T{;{	;I"u%<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -3047,7 +3047,7 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
   <div id="zurBar" class="container">
     <div class="row">
       <div class="four columns">
-        <h1><a href="/">Free event!</a></h1>
+        <h1><a href="/">Second edition | Made in Italy</a></h1>
       </div>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
@@ -3099,7 +3099,7 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
   	<div class="row">
 
       <div class="four columns">
-        <h1><a href="/info/" class="small-title black">Call for paper</a></h1>
+        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
           <a href="/call/">Send us</a> your cool idea! The 
@@ -3137,31 +3137,31 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
         <h3>Why are we here?</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/info/" >Find more  →</a>
 </p>
 
 <h3>Be our sponsor.</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/sponsor/" >Find more  →</a>
 </p>
 
 <h3>Suggestions? Tell us your idea.</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/help/" >Find more  →</a>
 </p>
 
 <h3>Call for paper!</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/call/" >Find more  →</a>
 </p>
 
 <h3>Students and professors</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/help/" >Find more  →</a>
 </p>
      </div>
 
@@ -3247,63 +3247,63 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
   </script>
 </body>
 </html>
-;T;	I"z<h3>Why are we here?</h3>
+;T;	I"�<h3>Why are we here?</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/info/" >Find more  →</a>
 </p>
 
 <h3>Be our sponsor.</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/sponsor/" >Find more  →</a>
 </p>
 
 <h3>Suggestions? Tell us your idea.</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/help/" >Find more  →</a>
 </p>
 
 <h3>Call for paper!</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/call/" >Find more  →</a>
 </p>
 
 <h3>Students and professors</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/help/" >Find more  →</a>
 </p>;T;
-I"z<h3>Why are we here?</h3>
+I"�<h3>Why are we here?</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/info/" >Find more  →</a>
 </p>
 
 <h3>Be our sponsor.</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/sponsor/" >Find more  →</a>
 </p>
 
 <h3>Suggestions? Tell us your idea.</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/help/" >Find more  →</a>
 </p>
 
 <h3>Call for paper!</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/call/" >Find more  →</a>
 </p>
 
 <h3>Students and professors</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  →</a>
+  <a href="/help/" >Find more  →</a>
 </p>;T;@2I"/privacy/;T{;{	;I"j/<!DOCTYPE HTML>
 <html lang="en">
   <head>
@@ -3696,16 +3696,41 @@ I"z<h3>Why are we here?</h3>
 
   </div>
 </div>;T;
-@9;@8I"/sitemap/;T{;{;I"C<?xml version="1.0" encoding="UTF-8"?>
+@9;@8I"/sitemap/;T{;{;I"�<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rubyday.com/call/</loc>
+    <lastmod>2011-12-29</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rubyday.com/help/</loc>
+    <lastmod>2011-12-29</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://rubyday.com/</loc>
+    <lastmod>2011-12-29</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rubyday.com/info/</loc>
+    <lastmod>2011-12-29</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rubyday.com/register/</loc>
     <lastmod>2011-12-29</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.com/sitemap.xml</loc>
     <lastmod>2011-09-06</lastmod>
+  </url>
+  <url>
+    <loc>http://rubyday.com/sponsor/</loc>
+    <lastmod>2011-12-29</lastmod>
+    <priority>0.5</priority>
   </url>
 </urlset>
 
@@ -6001,4 +6026,1320 @@ I"�
   </p>
 
 </div>;T;
-@j;@i:versioni
+@j;@iI"/call/;T{;{	;I"� <!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta name="description" content="Italian Ruby Day | Call for paper" />
+
+	<title>Italian Ruby Day | Call for paper</title>
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+	<link rel="icon" type="image/ico" href="/images/favicon.ico">
+ 
+	<!-- Included CSS Files -->
+  <link rel="stylesheet" href="/stylesheets/foundation.css">
+  <link rel="stylesheet" href="/stylesheets/presentation.css">
+  <link rel="stylesheet" href="/stylesheets/app.css">
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/stylesheets/ie.css">
+	<![endif]-->
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="/javascripts/foundation.js"></script>
+	<script src="/javascripts/app.js"></script>
+
+</head>
+<body id="-page" class="">
+
+  <!-- ZURBar -->
+  <div id="zurBar" class="container">
+    <div class="row">
+      <div class="four columns">
+        <h1><a href="/">Second edition | Made in Italy</a></h1>
+      </div>
+      <div class="eight columns">
+      	<strong class="right hide-on-phones">
+      		<a href="/register/">Register</a>
+      		<a href="/info/">Info</a>
+          <a href="/call/">Call for paper</a>
+          <a href="/sponsor/">Sponsor</a>
+      		<a href="/help/">Help us</a>
+      	</strong>
+      </div>
+    </div>
+  </div>
+  <!-- /ZURBar -->	
+	<div class="container">
+    <div calss="row">
+      <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
+        <dd><a href="/register/">Register →</a></dd>
+        <dd><a href="/info/">Info →</a></dd>
+        <dd><a href="/call/">Call for paper →</a></dd>
+        <dd><a href="/sponsor/">Sponsor →</a></dd>
+        <dd><a href="/help/">Help us →</a></dd>
+      </dl>
+    </div>
+		<div class="row">
+			<div class="six columns">
+				<div class="foundation-header no-border">
+					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+          <h4 class="subheader big">
+             Spreading the Ruby and Rails way in Italy
+          </h4>
+          <br/>
+				</div>
+      </div>
+      <div class="two columns hide-on-phones" style="margin-top: 30px;">
+        <img src="/images/arrow.png">
+      </div>
+      <div class="four columns">
+				<div class="foundation-header no-border">
+          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h4 class="subheader">
+            CNR Department of Ruby Research<br/>
+            Via della Vergine Donna, 69
+          </h4>
+				</div>
+			</div>
+      <hr>
+		</div>
+
+  	<div class="row">
+
+      <div class="four columns">
+        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h4 class="subheader">
+          Do you have an interesting talk? <br/>
+          <a href="/call/">Send us</a> your cool idea! The 
+          deadline is April 1st, 2012.
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
+        <h4 class="subheader">
+          Don't miss the Italian conference about Ruby and Rails.
+          <a href="/register/">Register</a> and invite your friends!
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <div id="menu-social" class="hide-on-phones">
+          <ul class="menu">
+            <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
+          </ul>
+        </div>
+        
+        <!--<h1><a href="#" class="small-title black">Tell everybody</a></h1>-->
+        <!-- social icons -->
+			</div>
+      <hr>
+		</div>
+    
+
+		<div class="row content">
+      <div class="eight columns">
+        <h3>Send us your ideas</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>
+     </div>
+
+
+			<div class="four columns">
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
+					<dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+			</div>
+    </div>
+
+  	<!-- Footer -->
+	  <footer class="row">
+	    <section class="four columns">
+	      <h5><strong>Made by the Ruby community</strong></h5>
+        <p>
+          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all 
+          this because this language is awesome!
+          </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Be part of the team</strong></h5>
+        <p>
+          Let us know how you want to help us on making great the second Italian Ruby Day. 
+          <a href="mailto:info@rubyday.it?subject=I%20want%20to%20help">Get in touch &rarr;</a>
+        </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Need some help?</strong></h5>
+	      <p>For quick answers or help <a href="mailto:info@rubyday.com">email us &rarr;</a></p>
+
+	      <ul class="block-grid three-up">
+	 			<li>
+			
+	    <iframe allowtransparency="true" frameborder="0" scrolling="no"
+        src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"
+        style="width:65px; height:20px;"></iframe>
+			</li>
+			<li>
+				<iframe src="http://www.facebook.com/plugins/like.php?app_id=273982815961057&amp;href=rubyday.it&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+			</li>
+		</div>
+	    </section>
+	  </footer>
+	  <!-- /Footer -->
+	</div>
+
+  <script> 
+    <!-- TODO -->
+    var _gaq = _gaq || [];
+  	_gaq.push(
+  	  ['_setAccount', 'UA-2195009-2'],
+  	  ['_trackPageview'],
+  	  ['b._setAccount', 'UA-2195009-27'],
+  	  ['b._trackPageview'] 
+  	);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
+;T;	I"<h3>Send us your ideas</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;T;
+I"<h3>Send us your ideas</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;T;@nI"/help/;T{;{	;I"!<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta name="description" content="Italian Ruby Day | Help us" />
+
+	<title>Italian Ruby Day | Help us</title>
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+	<link rel="icon" type="image/ico" href="/images/favicon.ico">
+ 
+	<!-- Included CSS Files -->
+  <link rel="stylesheet" href="/stylesheets/foundation.css">
+  <link rel="stylesheet" href="/stylesheets/presentation.css">
+  <link rel="stylesheet" href="/stylesheets/app.css">
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/stylesheets/ie.css">
+	<![endif]-->
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="/javascripts/foundation.js"></script>
+	<script src="/javascripts/app.js"></script>
+
+</head>
+<body id="-page" class="">
+
+  <!-- ZURBar -->
+  <div id="zurBar" class="container">
+    <div class="row">
+      <div class="four columns">
+        <h1><a href="/">Second edition | Made in Italy</a></h1>
+      </div>
+      <div class="eight columns">
+      	<strong class="right hide-on-phones">
+      		<a href="/register/">Register</a>
+      		<a href="/info/">Info</a>
+          <a href="/call/">Call for paper</a>
+          <a href="/sponsor/">Sponsor</a>
+      		<a href="/help/">Help us</a>
+      	</strong>
+      </div>
+    </div>
+  </div>
+  <!-- /ZURBar -->	
+	<div class="container">
+    <div calss="row">
+      <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
+        <dd><a href="/register/">Register →</a></dd>
+        <dd><a href="/info/">Info →</a></dd>
+        <dd><a href="/call/">Call for paper →</a></dd>
+        <dd><a href="/sponsor/">Sponsor →</a></dd>
+        <dd><a href="/help/">Help us →</a></dd>
+      </dl>
+    </div>
+		<div class="row">
+			<div class="six columns">
+				<div class="foundation-header no-border">
+					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+          <h4 class="subheader big">
+             Spreading the Ruby and Rails way in Italy
+          </h4>
+          <br/>
+				</div>
+      </div>
+      <div class="two columns hide-on-phones" style="margin-top: 30px;">
+        <img src="/images/arrow.png">
+      </div>
+      <div class="four columns">
+				<div class="foundation-header no-border">
+          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h4 class="subheader">
+            CNR Department of Ruby Research<br/>
+            Via della Vergine Donna, 69
+          </h4>
+				</div>
+			</div>
+      <hr>
+		</div>
+
+  	<div class="row">
+
+      <div class="four columns">
+        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h4 class="subheader">
+          Do you have an interesting talk? <br/>
+          <a href="/call/">Send us</a> your cool idea! The 
+          deadline is April 1st, 2012.
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
+        <h4 class="subheader">
+          Don't miss the Italian conference about Ruby and Rails.
+          <a href="/register/">Register</a> and invite your friends!
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <div id="menu-social" class="hide-on-phones">
+          <ul class="menu">
+            <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
+          </ul>
+        </div>
+        
+        <!--<h1><a href="#" class="small-title black">Tell everybody</a></h1>-->
+        <!-- social icons -->
+			</div>
+      <hr>
+		</div>
+    
+
+		<div class="row content">
+      <div class="eight columns">
+        <h3>Help us volunteer</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Spread the word.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+     </div>
+
+
+			<div class="four columns">
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
+					<dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+			</div>
+    </div>
+
+  	<!-- Footer -->
+	  <footer class="row">
+	    <section class="four columns">
+	      <h5><strong>Made by the Ruby community</strong></h5>
+        <p>
+          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all 
+          this because this language is awesome!
+          </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Be part of the team</strong></h5>
+        <p>
+          Let us know how you want to help us on making great the second Italian Ruby Day. 
+          <a href="mailto:info@rubyday.it?subject=I%20want%20to%20help">Get in touch &rarr;</a>
+        </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Need some help?</strong></h5>
+	      <p>For quick answers or help <a href="mailto:info@rubyday.com">email us &rarr;</a></p>
+
+	      <ul class="block-grid three-up">
+	 			<li>
+			
+	    <iframe allowtransparency="true" frameborder="0" scrolling="no"
+        src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"
+        style="width:65px; height:20px;"></iframe>
+			</li>
+			<li>
+				<iframe src="http://www.facebook.com/plugins/like.php?app_id=273982815961057&amp;href=rubyday.it&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+			</li>
+		</div>
+	    </section>
+	  </footer>
+	  <!-- /Footer -->
+	</div>
+
+  <script> 
+    <!-- TODO -->
+    var _gaq = _gaq || [];
+  	_gaq.push(
+  	  ['_setAccount', 'UA-2195009-2'],
+  	  ['_trackPageview'],
+  	  ['b._setAccount', 'UA-2195009-27'],
+  	  ['b._trackPageview'] 
+  	);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
+;T;	I"K<h3>Help us volunteer</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Spread the word.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>;T;
+I"K<h3>Help us volunteer</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Spread the word.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>;T;@tI"/info/;T{;{	;I"1'<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta name="description" content="Italian Ruby Day | Info and Location" />
+
+	<title>Italian Ruby Day | Info and Location</title>
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+	<link rel="icon" type="image/ico" href="/images/favicon.ico">
+ 
+	<!-- Included CSS Files -->
+  <link rel="stylesheet" href="/stylesheets/foundation.css">
+  <link rel="stylesheet" href="/stylesheets/presentation.css">
+  <link rel="stylesheet" href="/stylesheets/app.css">
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/stylesheets/ie.css">
+	<![endif]-->
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="/javascripts/foundation.js"></script>
+	<script src="/javascripts/app.js"></script>
+
+</head>
+<body id="-page" class="">
+
+  <!-- ZURBar -->
+  <div id="zurBar" class="container">
+    <div class="row">
+      <div class="four columns">
+        <h1><a href="/">Second edition | Made in Italy</a></h1>
+      </div>
+      <div class="eight columns">
+      	<strong class="right hide-on-phones">
+      		<a href="/register/">Register</a>
+      		<a href="/info/">Info</a>
+          <a href="/call/">Call for paper</a>
+          <a href="/sponsor/">Sponsor</a>
+      		<a href="/help/">Help us</a>
+      	</strong>
+      </div>
+    </div>
+  </div>
+  <!-- /ZURBar -->	
+	<div class="container">
+    <div calss="row">
+      <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
+        <dd><a href="/register/">Register →</a></dd>
+        <dd><a href="/info/">Info →</a></dd>
+        <dd><a href="/call/">Call for paper →</a></dd>
+        <dd><a href="/sponsor/">Sponsor →</a></dd>
+        <dd><a href="/help/">Help us →</a></dd>
+      </dl>
+    </div>
+		<div class="row">
+			<div class="six columns">
+				<div class="foundation-header no-border">
+					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+          <h4 class="subheader big">
+             Spreading the Ruby and Rails way in Italy
+          </h4>
+          <br/>
+				</div>
+      </div>
+      <div class="two columns hide-on-phones" style="margin-top: 30px;">
+        <img src="/images/arrow.png">
+      </div>
+      <div class="four columns">
+				<div class="foundation-header no-border">
+          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h4 class="subheader">
+            CNR Department of Ruby Research<br/>
+            Via della Vergine Donna, 69
+          </h4>
+				</div>
+			</div>
+      <hr>
+		</div>
+
+  	<div class="row">
+
+      <div class="four columns">
+        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h4 class="subheader">
+          Do you have an interesting talk? <br/>
+          <a href="/call/">Send us</a> your cool idea! The 
+          deadline is April 1st, 2012.
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
+        <h4 class="subheader">
+          Don't miss the Italian conference about Ruby and Rails.
+          <a href="/register/">Register</a> and invite your friends!
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <div id="menu-social" class="hide-on-phones">
+          <ul class="menu">
+            <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
+          </ul>
+        </div>
+        
+        <!--<h1><a href="#" class="small-title black">Tell everybody</a></h1>-->
+        <!-- social icons -->
+			</div>
+      <hr>
+		</div>
+    
+
+		<div class="row content">
+      <div class="eight columns">
+        <h3>Where is the conference?</h3>
+<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+<br/>
+
+<h3>How to reach the conference.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to eat.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to sleep.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>
+     </div>
+
+
+			<div class="four columns">
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
+					<dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+			</div>
+    </div>
+
+  	<!-- Footer -->
+	  <footer class="row">
+	    <section class="four columns">
+	      <h5><strong>Made by the Ruby community</strong></h5>
+        <p>
+          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all 
+          this because this language is awesome!
+          </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Be part of the team</strong></h5>
+        <p>
+          Let us know how you want to help us on making great the second Italian Ruby Day. 
+          <a href="mailto:info@rubyday.it?subject=I%20want%20to%20help">Get in touch &rarr;</a>
+        </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Need some help?</strong></h5>
+	      <p>For quick answers or help <a href="mailto:info@rubyday.com">email us &rarr;</a></p>
+
+	      <ul class="block-grid three-up">
+	 			<li>
+			
+	    <iframe allowtransparency="true" frameborder="0" scrolling="no"
+        src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"
+        style="width:65px; height:20px;"></iframe>
+			</li>
+			<li>
+				<iframe src="http://www.facebook.com/plugins/like.php?app_id=273982815961057&amp;href=rubyday.it&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+			</li>
+		</div>
+	    </section>
+	  </footer>
+	  <!-- /Footer -->
+	</div>
+
+  <script> 
+    <!-- TODO -->
+    var _gaq = _gaq || [];
+  	_gaq.push(
+  	  ['_setAccount', 'UA-2195009-2'],
+  	  ['_trackPageview'],
+  	  ['b._setAccount', 'UA-2195009-27'],
+  	  ['b._trackPageview'] 
+  	);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
+;T;	I"\<h3>Where is the conference?</h3>
+<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+<br/>
+
+<h3>How to reach the conference.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to eat.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to sleep.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>;T;
+I"\<h3>Where is the conference?</h3>
+<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+<br/>
+
+<h3>How to reach the conference.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to eat.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to sleep.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>;T;@zI"/register/;T{;{	;I"s#<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta name="description" content="Italian Ruby Day | Register" />
+
+	<title>Italian Ruby Day | Register</title>
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+	<link rel="icon" type="image/ico" href="/images/favicon.ico">
+ 
+	<!-- Included CSS Files -->
+  <link rel="stylesheet" href="/stylesheets/foundation.css">
+  <link rel="stylesheet" href="/stylesheets/presentation.css">
+  <link rel="stylesheet" href="/stylesheets/app.css">
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/stylesheets/ie.css">
+	<![endif]-->
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="/javascripts/foundation.js"></script>
+	<script src="/javascripts/app.js"></script>
+
+</head>
+<body id="-page" class="">
+
+  <!-- ZURBar -->
+  <div id="zurBar" class="container">
+    <div class="row">
+      <div class="four columns">
+        <h1><a href="/">Second edition | Made in Italy</a></h1>
+      </div>
+      <div class="eight columns">
+      	<strong class="right hide-on-phones">
+      		<a href="/register/">Register</a>
+      		<a href="/info/">Info</a>
+          <a href="/call/">Call for paper</a>
+          <a href="/sponsor/">Sponsor</a>
+      		<a href="/help/">Help us</a>
+      	</strong>
+      </div>
+    </div>
+  </div>
+  <!-- /ZURBar -->	
+	<div class="container">
+    <div calss="row">
+      <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
+        <dd><a href="/register/">Register →</a></dd>
+        <dd><a href="/info/">Info →</a></dd>
+        <dd><a href="/call/">Call for paper →</a></dd>
+        <dd><a href="/sponsor/">Sponsor →</a></dd>
+        <dd><a href="/help/">Help us →</a></dd>
+      </dl>
+    </div>
+		<div class="row">
+			<div class="six columns">
+				<div class="foundation-header no-border">
+					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+          <h4 class="subheader big">
+             Spreading the Ruby and Rails way in Italy
+          </h4>
+          <br/>
+				</div>
+      </div>
+      <div class="two columns hide-on-phones" style="margin-top: 30px;">
+        <img src="/images/arrow.png">
+      </div>
+      <div class="four columns">
+				<div class="foundation-header no-border">
+          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h4 class="subheader">
+            CNR Department of Ruby Research<br/>
+            Via della Vergine Donna, 69
+          </h4>
+				</div>
+			</div>
+      <hr>
+		</div>
+
+  	<div class="row">
+
+      <div class="four columns">
+        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h4 class="subheader">
+          Do you have an interesting talk? <br/>
+          <a href="/call/">Send us</a> your cool idea! The 
+          deadline is April 1st, 2012.
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
+        <h4 class="subheader">
+          Don't miss the Italian conference about Ruby and Rails.
+          <a href="/register/">Register</a> and invite your friends!
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <div id="menu-social" class="hide-on-phones">
+          <ul class="menu">
+            <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
+          </ul>
+        </div>
+        
+        <!--<h1><a href="#" class="small-title black">Tell everybody</a></h1>-->
+        <!-- social icons -->
+			</div>
+      <hr>
+		</div>
+    
+
+		<div class="row content">
+      <div class="eight columns">
+        <h3>Get your ticket and join the Ruby community</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
+     </div>
+
+
+			<div class="four columns">
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
+					<dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+			</div>
+    </div>
+
+  	<!-- Footer -->
+	  <footer class="row">
+	    <section class="four columns">
+	      <h5><strong>Made by the Ruby community</strong></h5>
+        <p>
+          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all 
+          this because this language is awesome!
+          </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Be part of the team</strong></h5>
+        <p>
+          Let us know how you want to help us on making great the second Italian Ruby Day. 
+          <a href="mailto:info@rubyday.it?subject=I%20want%20to%20help">Get in touch &rarr;</a>
+        </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Need some help?</strong></h5>
+	      <p>For quick answers or help <a href="mailto:info@rubyday.com">email us &rarr;</a></p>
+
+	      <ul class="block-grid three-up">
+	 			<li>
+			
+	    <iframe allowtransparency="true" frameborder="0" scrolling="no"
+        src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"
+        style="width:65px; height:20px;"></iframe>
+			</li>
+			<li>
+				<iframe src="http://www.facebook.com/plugins/like.php?app_id=273982815961057&amp;href=rubyday.it&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+			</li>
+		</div>
+	    </section>
+	  </footer>
+	  <!-- /Footer -->
+	</div>
+
+  <script> 
+    <!-- TODO -->
+    var _gaq = _gaq || [];
+  	_gaq.push(
+  	  ['_setAccount', 'UA-2195009-2'],
+  	  ['_trackPageview'],
+  	  ['b._setAccount', 'UA-2195009-27'],
+  	  ['b._trackPageview'] 
+  	);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
+;T;	I"�<h3>Get your ticket and join the Ruby community</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;T;
+I"�<h3>Get your ticket and join the Ruby community</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;T;@{I"/sponsor/;T{;{	;I"�%<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta name="description" content="Italian Ruby Day | Sponsor" />
+
+	<title>Italian Ruby Day | Sponsor</title>
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+	<link rel="icon" type="image/ico" href="/images/favicon.ico">
+ 
+	<!-- Included CSS Files -->
+  <link rel="stylesheet" href="/stylesheets/foundation.css">
+  <link rel="stylesheet" href="/stylesheets/presentation.css">
+  <link rel="stylesheet" href="/stylesheets/app.css">
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/stylesheets/ie.css">
+	<![endif]-->
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="/javascripts/foundation.js"></script>
+	<script src="/javascripts/app.js"></script>
+
+</head>
+<body id="-page" class="">
+
+  <!-- ZURBar -->
+  <div id="zurBar" class="container">
+    <div class="row">
+      <div class="four columns">
+        <h1><a href="/">Second edition | Made in Italy</a></h1>
+      </div>
+      <div class="eight columns">
+      	<strong class="right hide-on-phones">
+      		<a href="/register/">Register</a>
+      		<a href="/info/">Info</a>
+          <a href="/call/">Call for paper</a>
+          <a href="/sponsor/">Sponsor</a>
+      		<a href="/help/">Help us</a>
+      	</strong>
+      </div>
+    </div>
+  </div>
+  <!-- /ZURBar -->	
+	<div class="container">
+    <div calss="row">
+      <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
+        <dd><a href="/register/">Register →</a></dd>
+        <dd><a href="/info/">Info →</a></dd>
+        <dd><a href="/call/">Call for paper →</a></dd>
+        <dd><a href="/sponsor/">Sponsor →</a></dd>
+        <dd><a href="/help/">Help us →</a></dd>
+      </dl>
+    </div>
+		<div class="row">
+			<div class="six columns">
+				<div class="foundation-header no-border">
+					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+          <h4 class="subheader big">
+             Spreading the Ruby and Rails way in Italy
+          </h4>
+          <br/>
+				</div>
+      </div>
+      <div class="two columns hide-on-phones" style="margin-top: 30px;">
+        <img src="/images/arrow.png">
+      </div>
+      <div class="four columns">
+				<div class="foundation-header no-border">
+          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h4 class="subheader">
+            CNR Department of Ruby Research<br/>
+            Via della Vergine Donna, 69
+          </h4>
+				</div>
+			</div>
+      <hr>
+		</div>
+
+  	<div class="row">
+
+      <div class="four columns">
+        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h4 class="subheader">
+          Do you have an interesting talk? <br/>
+          <a href="/call/">Send us</a> your cool idea! The 
+          deadline is April 1st, 2012.
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
+        <h4 class="subheader">
+          Don't miss the Italian conference about Ruby and Rails.
+          <a href="/register/">Register</a> and invite your friends!
+        </h4>
+			</div>
+
+      <div class="four columns">
+        <div id="menu-social" class="hide-on-phones">
+          <ul class="menu">
+            <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
+          </ul>
+        </div>
+        
+        <!--<h1><a href="#" class="small-title black">Tell everybody</a></h1>-->
+        <!-- social icons -->
+			</div>
+      <hr>
+		</div>
+    
+
+		<div class="row content">
+      <div class="eight columns">
+        <h3>Sponsor us.</h3>
+<p class="section">
+  The Italian Ruby Day, is the official annual gathering of Ruby developers in Italy.
+  Founded in 2011, RubyDay 2012 is the 2nd installment of this event. RubyDay has 
+  been the italian venue for announcements regarding the Ruby programming language 
+  usage to show people works, compare notes and involve the community.
+</p>
+
+<h3>Why should you sponsor RubyDay?</h3>
+<p class="section">
+<strong>Visible event</strong>. Many of the most prominent and influential community members 
+present widely publicized and discussed internet-wide. Seats sell out quickly, so sponsorship 
+guarantees a spot. Last, the community provides an opportunity to connect with many Ruby 
+developers one on one. The following sponsorship opportunities are available.
+
+<h3>Golden sponsor | € 1.000</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Large ad in RubyConf program</li>
+  <li>Large banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Silver sponsor | € 500</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Medium ad in RubyConf program</li>
+  <li>Medium banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Media sponsor | Communication</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Small ad in RubyConf program</li>
+  <li>Small banner style logo on conference website</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<p>
+  If you have an idea for a custom sponsorship please contact us. We’d love to discuss your ideas.
+</p>
+     </div>
+
+
+			<div class="four columns">
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
+					<dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+			</div>
+    </div>
+
+  	<!-- Footer -->
+	  <footer class="row">
+	    <section class="four columns">
+	      <h5><strong>Made by the Ruby community</strong></h5>
+        <p>
+          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all 
+          this because this language is awesome!
+          </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Be part of the team</strong></h5>
+        <p>
+          Let us know how you want to help us on making great the second Italian Ruby Day. 
+          <a href="mailto:info@rubyday.it?subject=I%20want%20to%20help">Get in touch &rarr;</a>
+        </p>
+	    </section>
+
+	    <section class="four columns">
+	      <h5><strong>Need some help?</strong></h5>
+	      <p>For quick answers or help <a href="mailto:info@rubyday.com">email us &rarr;</a></p>
+
+	      <ul class="block-grid three-up">
+	 			<li>
+			
+	    <iframe allowtransparency="true" frameborder="0" scrolling="no"
+        src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"
+        style="width:65px; height:20px;"></iframe>
+			</li>
+			<li>
+				<iframe src="http://www.facebook.com/plugins/like.php?app_id=273982815961057&amp;href=rubyday.it&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+			</li>
+		</div>
+	    </section>
+	  </footer>
+	  <!-- /Footer -->
+	</div>
+
+  <script> 
+    <!-- TODO -->
+    var _gaq = _gaq || [];
+  	_gaq.push(
+  	  ['_setAccount', 'UA-2195009-2'],
+  	  ['_trackPageview'],
+  	  ['b._setAccount', 'UA-2195009-27'],
+  	  ['b._trackPageview'] 
+  	);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
+;T;	I"�<h3>Sponsor us.</h3>
+<p class="section">
+  The Italian Ruby Day, is the official annual gathering of Ruby developers in Italy.
+  Founded in 2011, RubyDay 2012 is the 2nd installment of this event. RubyDay has 
+  been the italian venue for announcements regarding the Ruby programming language 
+  usage to show people works, compare notes and involve the community.
+</p>
+
+<h3>Why should you sponsor RubyDay?</h3>
+<p class="section">
+<strong>Visible event</strong>. Many of the most prominent and influential community members 
+present widely publicized and discussed internet-wide. Seats sell out quickly, so sponsorship 
+guarantees a spot. Last, the community provides an opportunity to connect with many Ruby 
+developers one on one. The following sponsorship opportunities are available.
+
+<h3>Golden sponsor | € 1.000</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Large ad in RubyConf program</li>
+  <li>Large banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Silver sponsor | € 500</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Medium ad in RubyConf program</li>
+  <li>Medium banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Media sponsor | Communication</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Small ad in RubyConf program</li>
+  <li>Small banner style logo on conference website</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<p>
+  If you have an idea for a custom sponsorship please contact us. We’d love to discuss your ideas.
+</p>;T;
+I"�<h3>Sponsor us.</h3>
+<p class="section">
+  The Italian Ruby Day, is the official annual gathering of Ruby developers in Italy.
+  Founded in 2011, RubyDay 2012 is the 2nd installment of this event. RubyDay has 
+  been the italian venue for announcements regarding the Ruby programming language 
+  usage to show people works, compare notes and involve the community.
+</p>
+
+<h3>Why should you sponsor RubyDay?</h3>
+<p class="section">
+<strong>Visible event</strong>. Many of the most prominent and influential community members 
+present widely publicized and discussed internet-wide. Seats sell out quickly, so sponsorship 
+guarantees a spot. Last, the community provides an opportunity to connect with many Ruby 
+developers one on one. The following sponsorship opportunities are available.
+
+<h3>Golden sponsor | € 1.000</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Large ad in RubyConf program</li>
+  <li>Large banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Silver sponsor | € 500</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Medium ad in RubyConf program</li>
+  <li>Medium banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Media sponsor | Communication</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Small ad in RubyConf program</li>
+  <li>Small banner style logo on conference website</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<p>
+  If you have an idea for a custom sponsorship please contact us. We’d love to discuss your ideas.
+</p>;T;@�:versioni
