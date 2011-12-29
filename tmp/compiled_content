@@ -3006,7 +3006,7 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
 &lt;/div&gt;</content>
   </entry>
 </feed>
-;T;@,I"/;T{;{	;I"D<!DOCTYPE html>
+;T;@,I"/;T{;{	;I"@%<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -3107,7 +3107,16 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
 			</div>
 
       <div class="four columns">
-        <h1><a href="#" class="small-title black">Tell everybody</a></h1>
+        <div id="menu-social">
+          <ul class="menu">
+            <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
+          </ul>
+        </div>
+        
+        <!--<h1><a href="#" class="small-title black">Tell everybody</a></h1>-->
         <!-- social icons -->
 			</div>
       <hr>
@@ -3116,11 +3125,31 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
 
 		<div class="row content">
       <div class="eight columns">
-        <h3>The Grid</h3>
-<h4 class="subheader">The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.</h4>
-<hr />
-<h4>The Basics</h4>
-<p>The grid is built around three key elements: containers, rows, and columns. Containers create base padding for the page; rows create a max-width and contain the columns; and columns create the final structure. Everything on your page that you don't give a specific structural style to should be within a container, row and column.</p>
+        <h3>Why are we here?</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Be our sponsor.</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Suggestions? Tell us your idea.</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Call for paper. Get into!</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+
+<h3>Students</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
      </div>
 
 
@@ -3220,16 +3249,56 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
   </script>
 </body>
 </html>
-;T;	I"~<h3>The Grid</h3>
-<h4 class="subheader">The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.</h4>
-<hr />
-<h4>The Basics</h4>
-<p>The grid is built around three key elements: containers, rows, and columns. Containers create base padding for the page; rows create a max-width and contain the columns; and columns create the final structure. Everything on your page that you don't give a specific structural style to should be within a container, row and column.</p>;T;
-I"~<h3>The Grid</h3>
-<h4 class="subheader">The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.</h4>
-<hr />
-<h4>The Basics</h4>
-<p>The grid is built around three key elements: containers, rows, and columns. Containers create base padding for the page; rows create a max-width and contain the columns; and columns create the final structure. Everything on your page that you don't give a specific structural style to should be within a container, row and column.</p>;T;@2I"/privacy/;T{;{	;I"j/<!DOCTYPE HTML>
+;T;	I"©<h3>Why are we here?</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Be our sponsor.</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Suggestions? Tell us your idea.</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Call for paper. Get into!</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+
+<h3>Students</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>;T;
+I"©<h3>Why are we here?</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Be our sponsor.</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Suggestions? Tell us your idea.</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+<h3>Call for paper. Get into!</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>
+
+
+<h3>Students</h3>
+<h4 class="subheader">
+  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
+</h4>;T;@2I"/privacy/;T{;{	;I"j/<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">

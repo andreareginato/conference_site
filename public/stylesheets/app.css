@@ -1,30 +1,34 @@
-/* Foundation v2.1.4 http://foundation.zurb.com */
-/* Artfully masterminded by ZURB  */
-
-/* -------------------------------------------------- 
-   Table of Contents
------------------------------------------------------
-:: Shared Styles
-:: Page Name 1
-:: Page Name 2
-*/
-
-
-/* -----------------------------------------
-   Shared Styles
------------------------------------------ */
-
-
-
-/* -----------------------------------------
-   Page Name 1
------------------------------------------ */
-
-
-
-
-/* -----------------------------------------
-   Page Name 2
------------------------------------------ */
-
-
+#menu-social ul.menu {
+  margin: 0;
+  padding: 0; }
+#menu-social ul.menu {
+  border: none;
+  list-style: none;
+  text-align: left;
+  border-image: initial; }
+#menu-social {
+  position:absolute;
+  right:0; }
+#menu-social ul.menu li { 
+  float:left; 
+  margin:0; 
+  width:55px; 
+  height:55px; 
+  display:block; }
+#menu-social ul.menu li a {
+  width:51px;
+  height:55px;
+  display:block;
+  text-indent:-9999px; } 
+#menu-social ul.menu li a.twitter {
+  background:url(/images/social.png) 0 0 no-repeat; }
+#menu-social ul.menu li a.facebook {
+  background: url(/images/social.png) -51px 0px no-repeat; }
+#menu-social ul.menu li a.linkedin {
+  background:url(/images/social.png) -102px 0px no-repeat; }
+#menu-social ul.menu li a.mail {
+  background:url(/images/social.png) -153px 0px no-repeat; }
+#menu-social ul.menu li a.mail:hover {
+  background:url(/images/social.png) -153px -55px no-repeat; }
+#menu-social ul.menu li a:hover {
+  background:url(/images/social.png) 0 -55px no-repeat; }
