@@ -42,7 +42,7 @@
         <h1><a href="/">Free event!</a></h1>
       </div>
       <div class="eight columns">
-      	<strong class="right">
+      	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
       		<a href="/info/">Info</a>
           <a href="/call/">Call for paper</a>
@@ -54,22 +54,31 @@
   </div>
   <!-- /ZURBar -->	
 	<div class="container">
+    <div calss="row">
+      <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
+        <dd><a href="/register/">Register →</a></dd>
+        <dd><a href="/info/">Info →</a></dd>
+        <dd><a href="/call/">Call for paper →</a></dd>
+        <dd><a href="/sponsor/">Sponsor →</a></dd>
+        <dd><a href="/help/">Help us →</a></dd>
+      </dl>
+    </div>
 		<div class="row">
 			<div class="six columns">
 				<div class="foundation-header no-border">
-					<h1><a href="/register/" class="red big-title">Italian Ruby Day</a></h1>
+					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
           <h4 class="subheader big">
              Spreading the Ruby and Rails way in Italy
           </h4>
           <br/>
 				</div>
       </div>
-      <div class="two columns" style="margin-top: 30px;">
+      <div class="two columns hide-on-phones" style="margin-top: 30px;">
         <img src="/images/arrow.png">
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
-          <h1><a href="/info/" class="small-title">Bologna <span class="small red">15.07.2012</span></a></h1>
+          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
           <h4 class="subheader">
             CNR Department of Ruby Research<br/>
             Via della Vergine Donna, 69
@@ -91,7 +100,7 @@
 			</div>
 
       <div class="four columns">
-        <h1><a href="/register/" class="small-title black">Register for <span class="red">free!</span></a></h1>
+        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
         <h4 class="subheader">
           Don't miss the Italian conference about Ruby and Rails.
           <a href="/register/">Register</a> and invite your friends!
@@ -99,7 +108,7 @@
 			</div>
 
       <div class="four columns">
-        <div id="menu-social">
+        <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
             <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
             <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
@@ -118,30 +127,34 @@
 		<div class="row content">
       <div class="eight columns">
         <h3>Why are we here?</h3>
-<h4 class="subheader">
-  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
-</h4>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>
 
 <h3>Be our sponsor.</h3>
-<h4 class="subheader">
-  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
-</h4>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>
 
 <h3>Suggestions? Tell us your idea.</h3>
-<h4 class="subheader">
-  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
-</h4>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>
 
-<h3>Call for paper. Get into!</h3>
-<h4 class="subheader">
-  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
-</h4>
+<h3>Call for paper!</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>
 
-
-<h3>Students</h3>
-<h4 class="subheader">
-  The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites - the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.
-</h4>
+<h3>Students and professors</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  →</a>
+</p>
      </div>
 
 
@@ -172,17 +185,16 @@
 
   	<!-- Footer -->
 	  <footer class="row">
-	    <section class="five columns">
-	      <h6><strong>Made by the Italian Ruby Community</strong></h6>
+	    <section class="four columns">
+	      <h5><strong>Made by the Ruby community</strong></h5>
         <p>
-          The Italian Ruby Day is made by a passionate group of Ruby devs, with the help of its 
-          <a href="/sponsor/">great sponsors</a> located all around the world. We are doing all 
-          this because we want you.
+          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all 
+          this because this language is awesome!
           </p>
 	    </section>
 
-	    <section class="three columns">
-	      <h6><strong>Be part of the team</strong></h6>
+	    <section class="four columns">
+	      <h5><strong>Be part of the team</strong></h5>
         <p>
           Let us know how you want to help us on making great the second Italian Ruby Day. 
           <a href="mailto:info@rubyday.it?subject=I%20want%20to%20help">Get in touch &rarr;</a>
@@ -190,25 +202,11 @@
 	    </section>
 
 	    <section class="four columns">
-	      <h6><strong>Need some help?</strong></h6>
+	      <h5><strong>Need some help?</strong></h5>
 	      <p>For quick answers or help <a href="mailto:info@rubyday.com">email us &rarr;</a></p>
 
 	      <ul class="block-grid three-up">
-	      	<li>
-		      <!-- Place this tag where you want the +1 button to render -->
-          <!-- TODO: +1 does not work properly -->
-				<g:plusone size="medium"></g:plusone>
-
-				<!-- Place this render call where appropriate -->
-				<script>
-				  (function() {
-				    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				    po.src = 'https://apis.google.com/js/plusone.js';
-				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-				  })();
-				</script>
-			</li>
-			<li>
+	 			<li>
 			
 	    <iframe allowtransparency="true" frameborder="0" scrolling="no"
         src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"

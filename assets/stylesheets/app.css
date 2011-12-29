@@ -2,9 +2,29 @@
 	:: Social menu icons
 	-------------------------------------------------- */
 
+p { font-size: 14px !important; line-height: 22px !important; }
+.red-color { color: #e10000 !important; }
+.red { background-color: #e10000 !important; }
+.black { color: #000 !important; }
+.subheader { font-size: 18px !important; }
+.big-title { font-size: 46px !important; }
+.small-title { font-size: 26px !important; }
+.small { font-size: 70% !important; }
+.big { font-size: 200% !important; }
+.no-border { border: none !important; }
+.content { margin-top: 30px; }
+.active.golden { background-color: #f5db00 !important; color: #444 !important; margin-top: 10px !important; }
+.active.silver { background-color: #969696 !important; color: #eee !important; }
+.section { margin-bottom: 40px !important; }
+
+/*	--------------------------------------------------
+	:: Social menu icons
+	-------------------------------------------------- */
+
 #menu-social ul.menu {
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  margin-top: 20px; }
 #menu-social ul.menu {
   border: none;
   list-style: none;

@@ -38,18 +38,6 @@ footer.row a:hover {
 .row.display { background: #f4f4f4; margin-bottom: 10px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; }
 .row.display .column, .row.display .columns { background: #e7e7e7; font-size: 11px; text-indent: 3px; padding-top: 6px; padding-bottom: 6px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; }
 
-.red { color: #e10000 !important; }
-.black { color: #000 !important; }
-.subheader { font-size: 18px !important; }
-.big-title { font-size: 56px !important; }
-.small-title { font-size: 26px !important; }
-.small { font-size: 70% !important; }
-.big { font-size: 200% !important; }
-.no-border { border: none !important; }
-.content { margin-top: 50px; }
-.active.golden {background-color: #f5db00 !important; color: #444 !important; }
-.active.silver {background-color: #969696 !important; color: #eee !important; }
-
 /* ZURB bar */
 #zurBar {
   background: #222222;
