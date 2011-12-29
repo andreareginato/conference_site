@@ -3006,7 +3006,7 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
 &lt;/div&gt;</content>
   </entry>
 </feed>
-;T;@,I"/;T{;{	;I"t<!DOCTYPE html>
+;T;@,I"/;T{;{	;I"D<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -3089,22 +3089,27 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
 
   	<div class="row">
 
-      <div class="six columns">
+      <div class="four columns">
         <h1><a href="/info/" class="small-title black">Call for paper</a></h1>
         <h4 class="subheader">
-          Do you have an interesting talk? <a href="/call/">Send us</a> your cool idea! The 
+          Do you have an interesting talk? <br/>
+          <a href="/call/">Send us</a> your cool idea! The 
           deadline is April 1st, 2012.
         </h4>
 			</div>
 
-      <div class="six columns">
-        <h1><a href="/register/" class="small-title black">Register. <span class="red">It's free!</span></a></h1>
+      <div class="four columns">
+        <h1><a href="/register/" class="small-title black">Register for <span class="red">free!</span></a></h1>
         <h4 class="subheader">
-          Do you really want to miss the best Italian conference about Ruby and Rails?
-          Don't loose more time and <a href="/register/">register</a>!
+          Don't miss the Italian conference about Ruby and Rails.
+          <a href="/register/">Register</a> and invite your friends!
         </h4>
 			</div>
 
+      <div class="four columns">
+        <h1><a href="#" class="small-title black">Tell everybody</a></h1>
+        <!-- social icons -->
+			</div>
       <hr>
 		</div>
     
@@ -3121,17 +3126,26 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
 
 			<div class="four columns">
 				<dl class="nice tabs vertical hide-on-phones">
-					<dd><a href="index.php">Getting Started</a></dd>
-					<dd><a href="grid.php" class="active">Grid</a></dd>
-					<dd><a href="buttons.php">Buttons</a></dd>
-					<dd><a href="forms.php">Forms</a></dd>
-					<dd><a href="layout.php">Layout</a></dd>
-					<dd><a href="ui.php">UI</a></dd>
-					<dd><a href="orbit.php">Orbit</a></dd>
-					<dd><a href="reveal.php">Reveal</a></dd>
-					<dd><a href="gems.php">Gems</a></dd>
-					<dd><a href="qa.php">QA</a></dd>
-				</dl>
+					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
+					<dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
+				<dl class="nice tabs vertical hide-on-phones">
+					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="#">Company logo</a></dd>
+        </dl>
+
 			</div>
     </div>
 

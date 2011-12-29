@@ -42,11 +42,13 @@ footer.row a:hover {
 .black { color: #000 !important; }
 .subheader { font-size: 18px !important; }
 .big-title { font-size: 56px !important; }
-.small-title { font-size: 36px !important; }
+.small-title { font-size: 26px !important; }
 .small { font-size: 70% !important; }
 .big { font-size: 200% !important; }
 .no-border { border: none !important; }
 .content { margin-top: 50px; }
+.active.golden {background-color: #f5db00 !important; color: #444 !important; }
+.active.silver {background-color: #969696 !important; color: #eee !important; }
 
 /* ZURB bar */
 #zurBar {
