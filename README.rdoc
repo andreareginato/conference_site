@@ -3,6 +3,14 @@
 Repository for http://rubyday.it, a static site built with {nanoc}[http://nanoc.stoneship.org/], 
 a Ruby web publishing system for building small to medium-sized websites.
 
+Screenshot for a desktop browser.
+
+http://github.com/andreareginato/conference_site/raw/development/public/screenshots/desktop.png
+
+
+Screenshot for a mobile browser.
+
+http://github.com/andreareginato/conference_site/raw/development/public/screenshots/mobile.png
 
 = Requirements
 
@@ -37,15 +45,15 @@ Fork the repository on github and issue a pull request with your changes.
 
 = Feedback
 
-Use the {issue tracker}[http://github.com/andreareginato/rubyday_site/issues] for any bug you find and write 
-us a {mail}[mailto:dev@rubyday.com] or a {tweet}[http://twitter.com/rubydayit] for any feature or idea 
+Use the {issue tracker}[http://github.com/andreareginato/conference_site/issues] for any bug you find and write 
+us a {mail}[mailto:andrea.reginato@gmail.com] or a {tweet}[http://twitter.com/rubydayit] for any feature or idea 
 that can improve the project. Feedback is always welcome. Always.
 
 
 
 = Links 
 
-* {GIT Repository}[git://github.com/andreareginato/rubyday_site.git]
+* {GIT Repository}[git://github.com/andreareginato/conference_site.git]
 * {Rubyday}[http://rubyday.it]
 
 
