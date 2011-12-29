@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://lelylan.com/</id>
+  <title>Lelylan - reThink your house</title>
+  <updated>2011-12-12T23:00:00Z</updated>
+  <link rel="alternate" href="http://lelylan.com/"/>
+  <link rel="self" href="http://lelylan.com/blog/feed.xml"/>
+  <author>
+    <name>Lelylan Team</name>
+    <uri>http://lelylan.com</uri>
+  </author>
+  <entry>
+    <id>tag:lelylan.com,2011-12-13:/blog/experts/</id>
+    <title type="html">Home automation: experts' point of view</title>
+    <published>2011-12-12T23:00:00Z</published>
+    <updated>2011-12-12T23:00:00Z</updated>
+    <link rel="alternate" href="http://lelylan.com/blog/experts/"/>
+    <content type="html">&lt;div class="article"&gt;
+  
+  &lt;p&gt;
+    Our latest &lt;a href="/blog/sucks"&gt;article&lt;/a&gt; explained why home automation does not work today,
+    at least for us. The article was deliberately provoking, and we received numerous feedback. 
+    Some was good, some not, but all of them taught us something. 
+    In this article we decided to sum up some of the most interesting thoughts, to remember
+    how some experts are approaching home automation.
+  &lt;/p&gt;
+
+  &lt;h4&gt;Group #1. Home automation is my precious.&lt;/h4&gt;
+  &lt;blockquote&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="span6"&gt;
+        &lt;p&gt;
+          I Don't think Automation Sucks. &lt;/br&gt;
+          I think Automation is exactly where it should be. &lt;/br&gt;
+          Otherwise the costs would drop, the profits would &lt;/br&gt;
+          follow and the work load would increase...
+        &lt;/p&gt;
+        &lt;small&gt;Mr. Gollum&lt;/small&gt;
+      &lt;/div&gt;
+      &lt;div class="span3"&gt;
+        &lt;ul class="media-grid"&gt;
+          &lt;li&gt;
+            &lt;a href="#"&gt;
+              &lt;img class="thumbnail" src="/images/blog/experts/1.png" alt=""&gt;
+            &lt;/a&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;
+    For some experts the main goal is profit. They do not care about user experience, 
+    services or innovation. They only care about themselves. Their perfect world is 
+    the one where everything is closed and under their control, so they can become rich.
+    They are the winners, absolutely. 
+  &lt;/p&gt;
+
+
+  &lt;h4&gt;Group #2. Homeowners are a nightmare.&lt;/h4&gt;
+  &lt;blockquote&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="span6"&gt;
+        &lt;p&gt;
+          As long as you are dealing with "A Home Owner" you get comments such as; 
+          "it's too big", it's too small", it's too fat", it's too thin", "it 
+          looks funny", "I can't read the text", "isn't there a different 
+          color", "why doesn't it do everything"...
+        &lt;/p&gt;
+        &lt;small&gt;Mr. Nightmare&lt;/small&gt;
+      &lt;/div&gt;
+      &lt;div class="span3"&gt;
+        &lt;ul class="media-grid"&gt;
+          &lt;li&gt;
+            &lt;a href="#"&gt;
+              &lt;img class="thumbnail" src="/images/blog/experts/2.png" alt=""&gt;
+            &lt;/a&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;
+    I think this problem arise when you lack on two basic things. 
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;strong&gt;Know what you do&lt;/strong&gt;. Know your 
+        sector and the solutions you can offer. If you don't, clients will start
+        asking for any possible idea they have in mind. 
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;strong&gt;Start by saying no&lt;/strong&gt;. The secret of getting half a product instead 
+        of a half-ass product is &lt;a href="http://gettingreal.37signals.com/ch05_Start_With_No.php"&gt;
+        saying no&lt;/a&gt;. If people complain when you don't adopt 
+        their ideas, remind them why they liked the home automation system you 
+        proposed in the first place. I know this is not easy, but it will pay back.
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/p&gt;
+
+
+  
+  &lt;h4&gt;Group #3. You can not play with me, you are not smart.&lt;/small&gt;&lt;/h4&gt;
+  &lt;blockquote&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="span6"&gt;
+        &lt;p&gt;
+          Home automation needs a lot of time, effort and knowledge 
+          and it's a challenge where not everyone fit out if you have 
+          not the technical knowledge, pragmatic sensibility to deal 
+          with end-users and a strong project management skills...
+        &lt;/p&gt;
+        &lt;small&gt;Mr. Smart&lt;/small&gt;
+      &lt;/div&gt;
+      &lt;div class="span3"&gt;
+        &lt;ul class="media-grid"&gt;
+          &lt;li&gt;
+            &lt;a href="#"&gt;
+              &lt;img class="thumbnail" src="/images/blog/experts/3.png" alt=""&gt;
+            &lt;/a&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;
+    I didn't know home automation was like getting a degree in astrophysics. For sure
+    home automation is not like playing with Lego (not yet) but if we keep making home
+    automation something so difficult to use, we will never see a connected house in our lives. 
+    Wouldn't be better if every single person who has a specific knowledge could improve 
+    domotics? We &lt;a href="/collaborations/"&gt;think so&lt;/a&gt;.
+  &lt;/p&gt;
+
+  &lt;h4&gt;Conclusions&lt;/h4&gt;
+  &lt;p&gt;
+    Of course, there were other answers making up other groups, even interesting 
+    ones, however, these were the ones that made us think the most. It seems that 
+    most experts in the field of home automation have a limited way of thinking, 
+    referring only to the existing market. Our dream, the birth of a home 
+    automation system that is open for everyone, appears to be far this way, and
+    this is the reason we are here, a passionate need to change the rules.
+  &lt;/p&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:lelylan.com,2011-11-18:/blog/sucks/</id>
+    <title type="html">Why home automation sucks</title>
+    <published>2011-11-17T23:00:00Z</published>
+    <updated>2011-11-17T23:00:00Z</updated>
+    <link rel="alternate" href="http://lelylan.com/blog/sucks/"/>
+    <content type="html">&lt;div class="article"&gt;
+
+  &lt;ul class="media-grid"&gt;
+    &lt;li&gt;
+      &lt;a href="/collaborations/"&gt;
+        &lt;img class="thumbnail" src="/images/blog/sucks.png" alt=""&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  
+  &lt;p&gt;
+    When we talk about Lelylan, most of the people just tell us that domotics 
+    already exists.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    As we try to enjoy our time around, we reply with a simple question: &lt;strong&gt;how many 
+    of you have a domotics system, today&lt;/strong&gt;? The answer is always the same, nobody. 
+    To highlight this, it was fun when during a presentation in front of almost 
+    100 people just one hand raised up, clarifying that his domotics system didn't 
+    really work.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    It's true, lots of companies have been working on home automation for many 
+    years. Some of them are well-known names like
+    &lt;a href="http://www.crestron.com/"&gt;Creston&lt;/a&gt;, 
+    &lt;a href="http://control4.com"&gt;Control4&lt;/a&gt; and
+    &lt;a href="http://www.amx.com"&gt;AMX&lt;/a&gt;, 
+    but there is no real market. As there are so few domotics houses, this field looks like
+    a dream for many of us. At this point, the correct question is: 
+    &lt;strong&gt;why home automation sucks so much nowadays!?&lt;/strong&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    People tend to think that the cause for the low domotics penetration is 
+    price. This is both true and false. Actual domotics systems 
+    are quite expensive, but like all technologies, when they start to spread,
+    costs start to get lower and lower. So why, why home automation is not a reality?
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;The real problem are the existing domotics companies&lt;/strong&gt;. 
+    They create devices that are not able to speak to each other, trying in this way 
+    to keep their market share.  
+    The consequences are the impossibility for devices such as lights, appliances, 
+    security and alarm systems, gas and smoke sensors, multimedia systems, heating 
+    systems to communicate with each other, higher complexities, fewer services, 
+    higher prices and more importantly lot of confusion for the final user.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Thinking at home automation as companies do today, will not last long. 
+    &lt;a href="http://www.lelylan.com/blog/why"&gt;Lelylan&lt;/a&gt; and 
+    new Internet of Things related &lt;a href="http://postscapes.com/companies"&gt;Companies&lt;/a&gt;
+    will change the way we think at home automation.
+  &lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;
+      Let everyone experiment new services, remove complexities, make devices 
+      communicate and teach people what home automation really means.
+    &lt;/p&gt;
+    &lt;small&gt;Mr. Lelylan&lt;/small&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;
+    If you think home automation sucks, &lt;a href="/collaborations/"&gt;join us now&lt;/a&gt;. 
+    We envision a future where our houses will be the ones we have dreamed when we where 
+    child. Don't you love this?
+  &lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:lelylan.com,2011-11-03:/blog/iot/</id>
+    <title type="html">What the hell does #IoT means?</title>
+    <published>2011-11-02T23:00:00Z</published>
+    <updated>2011-11-02T23:00:00Z</updated>
+    <link rel="alternate" href="http://lelylan.com/blog/iot/"/>
+    <content type="html">&lt;div class="article"&gt;
+
+  &lt;ul class="media-grid"&gt;
+    &lt;li&gt;
+      &lt;a href="#"&gt;
+        &lt;img class="thumbnail" src="/images/blog/iot.png" alt=""&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  
+  &lt;p&gt;
+    The Internet of Things is a concept, a cool one I would say. The problem is that people 
+    love to complicate things. Thus, there are 
+    &lt;a href="http://postscapes.com/internet-of-things-definition"&gt;different definitions&lt;/a&gt; 
+    describing this concept. Conclusion? Just a "little" confusion, making the Internet of 
+    Things a concept trying to describe everything, and consequently resulting in nothing.
+    But let's take a step back. What the hell does Internet of Things mean?
+  &lt;/p&gt;
+
+  &lt;/br&gt;
+  &lt;blockquote&gt;
+    &lt;strong&gt;A world where physical things are reflected onto the web&lt;/strong&gt;
+  &lt;/blockquote&gt;
+  &lt;/br&gt;
+
+  &lt;p&gt;
+    This is the final definition we came up with. It apparently does not say too much, right? 
+    Well, not really. It completely describes the concept in all its simplicity. So, why this 
+    simple concept is so exciting? Because the #IoT power comes out from the combination of the 
+    physical objects which can affect the real world, and the web which is the fastest growing 
+    technology platform available today. Just two concepts, but two really powerful ones, that 
+    combined can definitely change our lives. 
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Think about the web as it is today. Lot of services, mashups, developers and new ideas popping 
+    up every day. Now, apply all of this to the Internet of Things and try to imagine all the 
+    possible new solutions. Smart meters, smart cities and smart houses are only some of them.
+  &lt;/p&gt;  
+
+  &lt;p&gt;
+    Still, I've many doubts. First, I keep reading the word “smart” too many times, and I think 
+    there is little smart in the #IoT right now. Second, the #IoT is for sure a nice concept, and 
+    I love the idea behind it, but I can't really trust something that can do "everything", just 
+    because there is nothing like that. 
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Our personal opinion is that we don't have to start from the #IoT to make it successful. We 
+    must start from some of its real applications, building new services on top of it. The one 
+    we bet on is the Connected House, but there are lot more out there. Just find the one you 
+    love the most and make the Internet of Things real.
+    And for you, what's the #IoT?&lt;/p&gt;
+
+  &lt;p&gt;
+    If you want to learn more about #IoT you should read 
+    &lt;a href="http://postscapes.com"&gt;postscapes&lt;/a&gt; and check out some articles on 
+    &lt;a href="http://www.readwriteweb.com/archives/internet_of_things_explained_video_intro.php"&gt;ReadWriteWeb&lt;/a&gt;, 
+    &lt;a href="http://bits.blogs.nytimes.com/2010/09/20/you-too-can-join-the-internet-of-things/"&gt;NY Times&lt;/a&gt;, 
+    &lt;a href="http://www.guardian.co.uk/technology/2011/mar/20/the-internet-of-things-john-naughton"&gt;The Guardian&lt;/a&gt; and 
+    &lt;a href="http://www.economist.com/blogs/schumpeter/2010/12/internet_things"&gt;The Economist&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:lelylan.com,2011-10-16:/blog/why/</id>
+    <title type="html">The connected house</title>
+    <published>2011-10-15T22:00:00Z</published>
+    <updated>2011-10-15T22:00:00Z</updated>
+    <link rel="alternate" href="http://lelylan.com/blog/why/"/>
+    <content type="html">&lt;div class="article"&gt;
+
+  &lt;ul class="media-grid"&gt;
+    &lt;li&gt;
+      &lt;a href="#"&gt;
+        &lt;img class="thumbnail" src="/images/blog/why.png" alt=""&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  
+  &lt;p&gt;
+    Lelylan is a project called to life by the need of solving technological limitations that 
+    home automation (aka domotics) is facing today.
+    Nowadays our houses are furnished with numerous devices like appliances, lighting systems, 
+    alarms, irrigation systems, smoke and gas detectors, heating, cooling, audio, video systems 
+    and much more. There is only a problem, well, a big problem: those devices use different 
+    standards and they can't easily communicate with each other.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Lelylan has 3 goals&lt;/strong&gt;
+  &lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Connect your house to the web with a clear and simple set of web services.&lt;/li&gt;
+      &lt;li&gt;Enable all devices to communicate with each other.&lt;/li&gt;
+      &lt;li&gt;Allow everybody to create new services on top of Lelylan, so that we can speed 
+          up innovation in this field.&lt;/li&gt;
+    &lt;ol&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;
+    To make the concept clear, let's think at some of the most important web services available 
+    today, like Facebook and Twitter. They offer APIs to access our social graph or our micro 
+    blogging data. In the same way, Lelylan wants to define a set of simple, clear and consistent
+    APIs to access all resources interacting with your house through the web.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    What we aim to do is to map every device to a unique URI which will provide control over it. 
+    When such a connection is done, technological limitations disappear and devices become 
+    identifiable only through their functionalities.
+  &lt;/p&gt;  
+
+  &lt;p&gt;
+    For the first time you have a real chance to change how home automation works. If you are one 
+    of those crazy innovators, &lt;a href="/collaborations/"&gt;write us about your ideas&lt;/a&gt;.
+  &lt;/p&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+</feed>

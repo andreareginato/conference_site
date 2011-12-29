@@ -1,0 +1,20 @@
+# general 
+text_extensions: [ 'css', 'erb', 'haml', 'htm', 'html', 'js', 'less', 'markdown', 'md', 'php', 'rb', 'sass', 'scss', 'txt', 'xhtml', 'xml' ]
+output_dir: public
+index_filenames: [ 'index.html' ]
+enable_output_diff: false
+base_url: 'http://rubyday.com'
+
+data_sources:
+  -
+    type: filesystem_unified
+    items_root: /
+    layouts_root: /
+
+# google analytics
+google_analytics:
+  domain: rubyday.it
+  site_id: UA-9655468-1-CHANGE-THIS
+
+# DISQUS Site Shortname. Comment out to disable.
+disqus_shortname: rubyday

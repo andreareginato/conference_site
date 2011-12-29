@@ -1,0 +1,10 @@
+        <%# link_to(item[:title], item.path)%>
+        <h1><%= item[:title] %></h1>
+        <span class="sub"><%= item[:subtitle] %></span>
+        <p>
+          Written by <%= item[:author] || 'Lelylan' %> | <%= pretty_time(item[:created_at]) %>
+        </p>
+        <%# render 'partials/addthis', 
+            :title => @item[:title] + ' - ' + @item[:subtitle],
+            :path => 'http://lelylan.com' + @item.path %>
+ 

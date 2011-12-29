@@ -1,0 +1,74 @@
+= Introduction
+
+Repository for http://rubyday.it, a static site built with {nanoc}[http://nanoc.stoneship.org/], 
+a Ruby web publishing system for building small to medium-sized websites.
+
+
+= Requirements
+
+Ruby ~> {1.9.2}[www.ruby-lang.org/en/]
+
+
+= Installation
+
+  bundle install
+
+
+= Usage
+
+Compile the site locally.
+
+  nanoc3 autocompile  # start the autocompiler and run the local server
+
+The web site is now visible at localhost:3000. 
+
+
+= Contribute
+
+Fork the repository on github and issue a pull request with your changes. 
+
+
+== Documentation guidelines
+
+* Do not duplicate existing knowledge.
+* Add the right information in the right place.
+* Update the CHANGELOG
+
+
+= Feedback
+
+Use the {issue tracker}[http://github.com/andreareginato/rubyday_site/issues] for any bug you find and write 
+us a {mail}[mailto:dev@rubyday.com] or a {tweet}[http://twitter.com/rubydayit] for any feature or idea 
+that can improve the project. Feedback is always welcome. Always.
+
+
+
+= Links 
+
+* {GIT Repository}[git://github.com/andreareginato/rubyday_site.git]
+* {Rubyday}[http://rubyday.it]
+
+
+
+= Authors
+
+{Andrea Reginato}[twitter.com/andreareginato]
+
+
+
+= Contributors
+
+See CONTRIBUTORS
+
+
+
+= Changelog
+
+See CHANGELOG
+
+
+
+= Copyright
+
+Copyright (c) 2011 {Andrea Reginato}[twitter.com/andreareginato]. See LICENSE for details.
+

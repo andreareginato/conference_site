@@ -1,0 +1,20 @@
+/*
+
+	[PROJECT] by ERSKINE DESIGN
+	VERSION 1.0
+	IE7 OVERRIDE STYLES
+	
+	CONTENTS ----------
+	
+	    
+	
+    -------------------
+	
+*/
+
+div#content_pri p.intro:first-letter { line-height:85%; }
+div#content_pri p.blurb:first-letter { line-height:85%; }
+
+.journal ul li#biography, .archive ul li#biography, .contact ul li#biography, .biography ul li#journal, .archive ul li#journal, .contact ul li#journal, .biography ul li#archive, .journal ul li#archive, .contact ul li#archive, .biography ul li#contact, .journal ul li#contact, .archive ul li#contact { filter: alpha(opacity=60); }
+
+.journal ul li#biography:hover, .archive ul li#biography:hover, .contact ul li#biography:hover, .biography ul li#journal:hover, .archive ul li#journal:hover, .contact ul li#journal:hover, .biography ul li#archive:hover, .journal ul li#archive:hover, .contact ul li#archive:hover, .biography ul li#contact:hover, .journal ul li#contact:hover, .archive ul li#contact:hover {  }
