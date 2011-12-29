@@ -34,20 +34,19 @@ footer.row a {
   color: #222222; }
 footer.row a:hover {
   text-decoration: underline; }
-  
-
 
 .row.display { background: #f4f4f4; margin-bottom: 10px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; }
 .row.display .column, .row.display .columns { background: #e7e7e7; font-size: 11px; text-indent: 3px; padding-top: 6px; padding-bottom: 6px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; }
 
-.red { 
-  color: #e10000 !important; }
-.small-title {
-   font-size: 36px !important; }
-.small {
-  font-size: 70% !important; }
-.no-border {
-  border: none !important; }
+.red { color: #e10000 !important; }
+.black { color: #000 !important; }
+.subheader { font-size: 18px !important; }
+.big-title { font-size: 56px !important; }
+.small-title { font-size: 36px !important; }
+.small { font-size: 70% !important; }
+.big { font-size: 200% !important; }
+.no-border { border: none !important; }
+.content { margin-top: 50px; }
 
 /* ZURB bar */
 #zurBar {
@@ -86,68 +85,6 @@ footer.row a:hover {
   padding-right: 12px;
 }
 #zurBar strong a.button { padding: 4px 10px; font-weight: bold; }
-
-
-/* -----------------------------------------
-   Orbit Demo CSS
------------------------------------------ */
-/* stuff for ZURB demo but not needed at all for orbit */
-
-#orbitDemo .content {
-	background: url(../images/orbit-demo/coffee.jpg);
-}
-#orbitDemo .content h1 {
-	font-family: 'Helvetica', 'Arial', serif;
-	color: #2f260f; 
-	font-weight: bold !important;
-	text-transform: uppercase; 
-	text-shadow: 
-		1px 1px 0 #f8f0d1,
-		2px 2px 0 #f8f0d1,
-		3px 3px 0 #1a5774;
-	text-align: center; 
-	margin-top: 15%;
-}
-#orbitDemo .content h3 {
-	font-family: 'Helvetica', 'Arial', serif;
-	color: #7f6b37; 
-	font-weight: bold !important;
-	text-align: center; 
-}
-
-#orbitDemo { background: url(../images/spinner.gif) no-repeat center center #000; height: 305px; margin-bottom: 20px; }
-#orbitDemo.orbit { height: auto; }
-#orbitDemo img, #orbitDemo div { display: none; }
-#orbitDemo.orbit img, #orbitDemo.orbit div { display: block; }
-
-@media handheld, only screen and (max-width: 767px) {
-
-	#orbitDemo { height: 165px; }
-	#orbitDemo.orbit { height: auto; }
-
-	dl.nice.tabs.mobile { margin-bottom: 0px; }
-	.nice.tabs.mobile dd a { padding: 12px 20px; }
-	
-	div.foundation-header h1 { font-size: 32px; font-size: 3.2rem; }
-}
-
-
-
-
-/* ZURBjobs */
-
-.jobs { border: 1px solid #eee; padding: 20px; }
-.jobs .location { display: block; color: #555; }
-.jobs ul { margin-bottom: 0px; }
-.jobs h5 { font-weight: bold; font-size: 15px; margin-bottom: 10px; }
-
-.jobs-link { font-size: 13px !important; white-space: nowrap;  text-decoration: underline; font-weight: inherit; margin-bottom: 20px;}
-.jobs-link a { color: # 555 !important;}
-
-.jobs a#via { color: #aaa ;}
-.jobs a#via:hover { color: #555;}
-
-
 
 
 /* Font-Face */
