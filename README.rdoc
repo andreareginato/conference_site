@@ -5,12 +5,12 @@ a Ruby web publishing system for building small to medium-sized websites.
 
 Screenshot for a desktop browser.
 
-http://github.com/andreareginato/conference_site/raw/development/public/screenshots/desktop.png
+https://github.com/andreareginato/conference_site/raw/master/public/screenshots/desktop.png
 
 
 Screenshot for a mobile browser.
 
-http://github.com/andreareginato/conference_site/raw/development/public/screenshots/mobile.png
+https://github.com/andreareginato/conference_site/raw/master/public/screenshots/mobile.png
 
 = Requirements
 
