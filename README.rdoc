@@ -35,6 +35,10 @@ The web site is now visible at localhost:3000.
 
 Fork the repository on github and issue a pull request with your changes. 
 
+== Next steps
+
+* Decouple text content in simpler configuration files (descriptions, forms, registration in primis)
+
 
 == Documentation guidelines
 
