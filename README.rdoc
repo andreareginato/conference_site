@@ -57,7 +57,7 @@ that can improve the project. Feedback is always welcome. Always.
 
 = Links 
 
-* {GIT Repository}[git://github.com/andreareginato/conference_site.git]
+* {GIT Repository}[https://github.com/andreareginato/conference_site]
 * {Rubyday}[http://rubyday.it]
 
 
