@@ -7,9 +7,9 @@ base_url: 'http://rubyday.com'
 
 data_sources:
   -
-    type: 'filesystem_unified'
-    items_root: /
-    layouts_root: /
+     type: 'filesystem_unified'
+     items_root: /
+     layouts_root: /
 
 # google analytics
 google_analytics:
