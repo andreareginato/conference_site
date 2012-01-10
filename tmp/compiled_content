@@ -3062,7 +3062,7 @@ I"+<<?xml version="1.0" encoding="UTF-8"?>
   </div>
   <!-- /ZURBar -->	
 	<div class="container">
-    <div calss="row">
+    <div class="row">
       <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
         <dd><a href="/register/">Register →</a></dd>
         <dd><a href="/info/">Info →</a></dd>
@@ -6082,7 +6082,7 @@ I"�
   </div>
   <!-- /ZURBar -->	
 	<div class="container">
-    <div calss="row">
+    <div class="row">
       <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
         <dd><a href="/register/">Register →</a></dd>
         <dd><a href="/info/">Info →</a></dd>
@@ -6311,7 +6311,7 @@ I"<h3>Send us your ideas</h3>
   </div>
   <!-- /ZURBar -->	
 	<div class="container">
-    <div calss="row">
+    <div class="row">
       <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
         <dd><a href="/register/">Register →</a></dd>
         <dd><a href="/info/">Info →</a></dd>
@@ -6549,7 +6549,7 @@ I"K<h3>Help us volunteer</h3>
   </div>
   <!-- /ZURBar -->	
 	<div class="container">
-    <div calss="row">
+    <div class="row">
       <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
         <dd><a href="/register/">Register →</a></dd>
         <dd><a href="/info/">Info →</a></dd>
@@ -6826,7 +6826,7 @@ I"\<h3>Where is the conference?</h3>
   </div>
   <!-- /ZURBar -->	
 	<div class="container">
-    <div calss="row">
+    <div class="row">
       <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
         <dd><a href="/register/">Register →</a></dd>
         <dd><a href="/info/">Info →</a></dd>
@@ -7055,7 +7055,7 @@ I"�<h3>Get your ticket and join the Ruby community</h3>
   </div>
   <!-- /ZURBar -->	
 	<div class="container">
-    <div calss="row">
+    <div class="row">
       <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
         <dd><a href="/register/">Register →</a></dd>
         <dd><a href="/info/">Info →</a></dd>

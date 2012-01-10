@@ -7,7 +7,7 @@ base_url: 'http://rubyday.com'
 
 data_sources:
   -
-    type: filesystem_unified
+    type: 'filesystem_unified'
     items_root: /
     layouts_root: /
 
