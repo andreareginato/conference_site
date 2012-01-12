@@ -320,7 +320,7 @@
 
 ;	T;
 I"<%= xml_sitemap %>
-;	T;@"/register/{;{	;I"_#<!DOCTYPE html>
+;	T;@"/register/{;{	;I"¼#<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -366,7 +366,7 @@ I"<%= xml_sitemap %>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-      		<a href="/info/">Info</a>
+          <!-- <a href="/info/">Info</a> -->
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -400,10 +400,15 @@ I"<%= xml_sitemap %>
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
-          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h1 class="small-title">
+            <!-- <a href="/info/"> -->
+              Milan<span class="small red-color">June 2012</span>
+            <!-- </a> -->
+          </h1>
           <h4 class="subheader">
-            CNR Department of Ruby Research<br/>
-            Via della Vergine Donna, 69
+            class << self <br>
+            &nbsp;&nbsp;attr_accessor :city, :address<br>
+            end
           </h4>
 				</div>
 			</div>
@@ -1226,7 +1231,7 @@ I"+<%= render('tags', :tag => 'ideas') %>;	T;I"$<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@'"/call/{;{	;I"æ <!DOCTYPE html>
+;	T;@'"/call/{;{	;I"C!<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1272,7 +1277,7 @@ I"+<%= render('tags', :tag => 'ideas') %>;	T;I"$<!DOCTYPE HTML>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-      		<a href="/info/">Info</a>
+          <!-- <a href="/info/">Info</a> -->
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -1306,10 +1311,15 @@ I"+<%= render('tags', :tag => 'ideas') %>;	T;I"$<!DOCTYPE HTML>
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
-          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h1 class="small-title">
+            <!-- <a href="/info/"> -->
+              Milan<span class="small red-color">June 2012</span>
+            <!-- </a> -->
+          </h1>
           <h4 class="subheader">
-            CNR Department of Ruby Research<br/>
-            Via della Vergine Donna, 69
+            class << self <br>
+            &nbsp;&nbsp;attr_accessor :city, :address<br>
+            end
           </h4>
 				</div>
 			</div>
@@ -2813,7 +2823,7 @@ I"<%= atom_feed %>;	T;I"OM<!DOCTYPE HTML>
 
   </body>
 </html>
-;	T;@9"/{;{	;I"ƒ$<!DOCTYPE html>
+;	T;@9"/{;{	;I"à$<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -2859,7 +2869,7 @@ I"<%= atom_feed %>;	T;I"OM<!DOCTYPE HTML>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-      		<a href="/info/">Info</a>
+          <!-- <a href="/info/">Info</a> -->
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -2893,10 +2903,15 @@ I"<%= atom_feed %>;	T;I"OM<!DOCTYPE HTML>
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
-          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h1 class="small-title">
+            <!-- <a href="/info/"> -->
+              Milan<span class="small red-color">June 2012</span>
+            <!-- </a> -->
+          </h1>
           <h4 class="subheader">
-            CNR Department of Ruby Research<br/>
-            Via della Vergine Donna, 69
+            class << self <br>
+            &nbsp;&nbsp;attr_accessor :city, :address<br>
+            end
           </h4>
 				</div>
 			</div>
@@ -4560,7 +4575,7 @@ I"/<%= render('tags', :tag => 'philosofy') %>;	T;I"<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@["/sponsor/{;{	;I"H&<!DOCTYPE html>
+;	T;@["/sponsor/{;{	;I"¥&<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -4606,7 +4621,7 @@ I"/<%= render('tags', :tag => 'philosofy') %>;	T;I"<!DOCTYPE HTML>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-      		<a href="/info/">Info</a>
+          <!-- <a href="/info/">Info</a> -->
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -4640,10 +4655,15 @@ I"/<%= render('tags', :tag => 'philosofy') %>;	T;I"<!DOCTYPE HTML>
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
-          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h1 class="small-title">
+            <!-- <a href="/info/"> -->
+              Milan<span class="small red-color">June 2012</span>
+            <!-- </a> -->
+          </h1>
           <h4 class="subheader">
-            CNR Department of Ruby Research<br/>
-            Via della Vergine Donna, 69
+            class << self <br>
+            &nbsp;&nbsp;attr_accessor :city, :address<br>
+            end
           </h4>
 				</div>
 			</div>
@@ -5770,7 +5790,7 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@r"/info/{;{	;I"Â'<!DOCTYPE html>
+;	T;@r"/info/{;{	;I"(<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -5816,7 +5836,7 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-      		<a href="/info/">Info</a>
+          <!-- <a href="/info/">Info</a> -->
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -5850,10 +5870,15 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
-          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h1 class="small-title">
+            <!-- <a href="/info/"> -->
+              Milan<span class="small red-color">June 2012</span>
+            <!-- </a> -->
+          </h1>
           <h4 class="subheader">
-            CNR Department of Ruby Research<br/>
-            Via della Vergine Donna, 69
+            class << self <br>
+            &nbsp;&nbsp;attr_accessor :city, :address<br>
+            end
           </h4>
 				</div>
 			</div>
@@ -6047,7 +6072,7 @@ I"\<h3>Where is the conference?</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   <a href="#" >Find more  â†’</a>
-</p>;	T;@v"/help/{;{	;I"µ!<!DOCTYPE html>
+</p>;	T;@v"/help/{;{	;I""<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -6093,7 +6118,7 @@ I"\<h3>Where is the conference?</h3>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-      		<a href="/info/">Info</a>
+          <!-- <a href="/info/">Info</a> -->
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -6127,10 +6152,15 @@ I"\<h3>Where is the conference?</h3>
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
-          <h1><a href="/info/" class="small-title">Bologna <span class="small red-color">15.07.2012</span></a></h1>
+          <h1 class="small-title">
+            <!-- <a href="/info/"> -->
+              Milan<span class="small red-color">June 2012</span>
+            <!-- </a> -->
+          </h1>
           <h4 class="subheader">
-            CNR Department of Ruby Research<br/>
-            Via della Vergine Donna, 69
+            class << self <br>
+            &nbsp;&nbsp;attr_accessor :city, :address<br>
+            end
           </h4>
 				</div>
 			</div>
