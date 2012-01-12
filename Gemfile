@@ -2,7 +2,7 @@ source :gemcutter
 
 gem 'rack'
 gem 'rake'
-gem 'nanoc3', '3.0.9'
+gem 'nanoc3'
 gem 'builder'
 
 # Thin to serve content from Heroku

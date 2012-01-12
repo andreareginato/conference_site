@@ -2,10 +2,12 @@ GEM
   remote: http://rubygems.org/
   specs:
     builder (3.0.0)
+    cri (2.0.2)
     daemons (1.1.5)
     eventmachine (0.12.10)
     mime-types (1.17.2)
-    nanoc3 (3.0.9)
+    nanoc3 (3.2.4)
+      cri (~> 2.0)
     rack (1.4.0)
     rack-contrib (1.1.0)
       rack (>= 0.9.1)
@@ -22,7 +24,7 @@ PLATFORMS
 DEPENDENCIES
   builder
   mime-types
-  nanoc3 (= 3.0.9)
+  nanoc3
   rack
   rack-contrib
   rack-rewrite
