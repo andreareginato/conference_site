@@ -280,58 +280,47 @@
     </div>
   </body>
 </html>
-;	T:	last@"/sitemap/{;{;"„<?xml version="1.0" encoding="UTF-8"?>
+;	T:	last@"/sitemap/{;{;I" <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>localhost:3000/sitemap.xml</loc>
-    <lastmod>2012-01-10</lastmod>
-  </url>
-  <url>
-    <loc>localhost:3000/call/</loc>
-    <lastmod>2012-01-10</lastmod>
+    <loc>http://rubyday.com/call/</loc>
+    <lastmod>2012-01-11</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>localhost:3000/register/</loc>
-    <lastmod>2012-01-10</lastmod>
+    <loc>http://rubyday.com/help/</loc>
+    <lastmod>2012-01-11</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>localhost:3000/help/</loc>
-    <lastmod>2012-01-10</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>localhost:3000/sponsor/</loc>
-    <lastmod>2012-01-10</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>localhost:3000/info/</loc>
-    <lastmod>2012-01-10</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>localhost:3000/</loc>
-    <lastmod>2012-01-10</lastmod>
+    <loc>http://rubyday.com/</loc>
+    <lastmod>2012-01-11</lastmod>
     <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rubyday.com/info/</loc>
+    <lastmod>2011-12-29</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rubyday.com/register/</loc>
+    <lastmod>2012-01-11</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rubyday.com/sitemap.xml</loc>
+    <lastmod>2011-12-29</lastmod>
+  </url>
+  <url>
+    <loc>http://rubyday.com/sponsor/</loc>
+    <lastmod>2011-12-29</lastmod>
+    <priority>0.5</priority>
   </url>
 </urlset>
 
-;
-"<%= xml_sitemap %>
-;@"/register/{;{	;"<h3>Get your ticket and join the Ruby community</h3>
-<p class="section">
-  Tickets for the Ruby Day are free and selling fast: reserve your spot now!
-</p>
-
-<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;
-"<h3>Get your ticket and join the Ruby community</h3>
-<p class="section">
-  Tickets for the Ruby Day are free and selling fast: reserve your spot now!
-</p>
-
-<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;"å"<!DOCTYPE html>
+;	T;
+I"<%= xml_sitemap %>
+;	T;@"/register/{;{	;I"å"<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -549,7 +538,18 @@
   </script>
 </body>
 </html>
-;@"/blog/{;{	;I"k
+;	T;
+I"<h3>Get your ticket and join the Ruby community</h3>
+<p class="section">
+  Tickets for the Ruby Day are free and selling fast: reserve your spot now!
+</p>
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;	T;I"<h3>Get your ticket and join the Ruby community</h3>
+<p class="section">
+  Tickets for the Ruby Day are free and selling fast: reserve your spot now!
+</p>
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;	T;@"/blog/{;{	;I"k
   <ul>
     <li>
       <span class="title"><a href="/blog/experts/">Home automation: experts' point of view</a></span> -
@@ -1226,18 +1226,7 @@ I"+<%= render('tags', :tag => 'ideas') %>;	T;I"$<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@'"/call/{;{	;"†<h3>Wanna take the stage?</h3>
-<p class="section">
-  Send your talk proposal before April 1st, we're so curious we can't wait to read about it
-</p>
-
-<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;
-"†<h3>Wanna take the stage?</h3>
-<p class="section">
-  Send your talk proposal before April 1st, we're so curious we can't wait to read about it
-</p>
-
-<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;"l <!DOCTYPE html>
+;	T;@'"/call/{;{	;I"l <!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1455,7 +1444,18 @@ I"+<%= render('tags', :tag => 'ideas') %>;	T;I"$<!DOCTYPE HTML>
   </script>
 </body>
 </html>
-;@-"/features/{;{	;I"ó<div id="textual">
+;	T;
+I"†<h3>Wanna take the stage?</h3>
+<p class="section">
+  Send your talk proposal before April 1st, we're so curious we can't wait to read about it
+</p>
+
+<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;	T;I"†<h3>Wanna take the stage?</h3>
+<p class="section">
+  Send your talk proposal before April 1st, we're so curious we can't wait to read about it
+</p>
+
+<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;	T;@+"/features/{;{	;I"ó<div id="textual">
 
   <div>
     <h2 id="services">Access your house from the web</h2>
@@ -2813,64 +2813,7 @@ I"<%= atom_feed %>;	T;I"OM<!DOCTYPE HTML>
 
   </body>
 </html>
-;	T;@9"/{;{	;"<h3>Why are we here?</h3>
-<p class="section">
-  Ruby is awesome, its community even more: we bring both together for one of the top italian tech events.
-  <a href="/info/" >Join us!  â†’</a>
-</p>
-
-<h3>Be our sponsor.</h3>
-<p class="section">
-  It's a great opportunity to talk about your business to some of the most talented devs around.
-  <a href="/sponsor/" >Don't miss it!  â†’</a>
-</p>
-
-<h3>Suggestions? Wanna help?</h3>
-<p class="section">
-  We're still young, but growing fast: we need your contribution to make the best Ruby Day ever. <br/>
-  Got an idea for the organizers? Don't be shy and ping us at <a href="mailto:info@rubyday.com">info@rubyday.com</a>. <br/>
-  Want to help with your own hands? <a href="/help/" >Find out how  â†’</a>
-</p>
-
-<!--<h3>Call for paper!</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="/call/" >Find more  â†’</a>
-</p>-->
-
-<h3>Students and professors</h3>
-<p class="section">
-  Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
-</p>;
-"<h3>Why are we here?</h3>
-<p class="section">
-  Ruby is awesome, its community even more: we bring both together for one of the top italian tech events.
-  <a href="/info/" >Join us!  â†’</a>
-</p>
-
-<h3>Be our sponsor.</h3>
-<p class="section">
-  It's a great opportunity to talk about your business to some of the most talented devs around.
-  <a href="/sponsor/" >Don't miss it!  â†’</a>
-</p>
-
-<h3>Suggestions? Wanna help?</h3>
-<p class="section">
-  We're still young, but growing fast: we need your contribution to make the best Ruby Day ever. <br/>
-  Got an idea for the organizers? Don't be shy and ping us at <a href="mailto:info@rubyday.com">info@rubyday.com</a>. <br/>
-  Want to help with your own hands? <a href="/help/" >Find out how  â†’</a>
-</p>
-
-<!--<h3>Call for paper!</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="/call/" >Find more  â†’</a>
-</p>-->
-
-<h3>Students and professors</h3>
-<p class="section">
-  Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
-</p>;"$<!DOCTYPE html>
+;	T;@9"/{;{	;I"$<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -3111,7 +3054,64 @@ I"<%= atom_feed %>;	T;I"OM<!DOCTYPE HTML>
   </script>
 </body>
 </html>
-;@?"/blog/sucks/{;{	;I"ú
+;	T;
+I"<h3>Why are we here?</h3>
+<p class="section">
+  Ruby is awesome, its community even more: we bring both together for one of the top italian tech events.
+  <a href="/info/" >Join us!  â†’</a>
+</p>
+
+<h3>Be our sponsor.</h3>
+<p class="section">
+  It's a great opportunity to talk about your business to some of the most talented devs around.
+  <a href="/sponsor/" >Don't miss it!  â†’</a>
+</p>
+
+<h3>Suggestions? Wanna help?</h3>
+<p class="section">
+  We're still young, but growing fast: we need your contribution to make the best Ruby Day ever. <br/>
+  Got an idea for the organizers? Don't be shy and ping us at <a href="mailto:info@rubyday.com">info@rubyday.com</a>. <br/>
+  Want to help with your own hands? <a href="/help/" >Find out how  â†’</a>
+</p>
+
+<!--<h3>Call for paper!</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="/call/" >Find more  â†’</a>
+</p>-->
+
+<h3>Students and professors</h3>
+<p class="section">
+  Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
+</p>;	T;I"<h3>Why are we here?</h3>
+<p class="section">
+  Ruby is awesome, its community even more: we bring both together for one of the top italian tech events.
+  <a href="/info/" >Join us!  â†’</a>
+</p>
+
+<h3>Be our sponsor.</h3>
+<p class="section">
+  It's a great opportunity to talk about your business to some of the most talented devs around.
+  <a href="/sponsor/" >Don't miss it!  â†’</a>
+</p>
+
+<h3>Suggestions? Wanna help?</h3>
+<p class="section">
+  We're still young, but growing fast: we need your contribution to make the best Ruby Day ever. <br/>
+  Got an idea for the organizers? Don't be shy and ping us at <a href="mailto:info@rubyday.com">info@rubyday.com</a>. <br/>
+  Want to help with your own hands? <a href="/help/" >Find out how  â†’</a>
+</p>
+
+<!--<h3>Call for paper!</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="/call/" >Find more  â†’</a>
+</p>-->
+
+<h3>Students and professors</h3>
+<p class="section">
+  Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
+</p>;	T;@="/blog/sucks/{;{	;I"ú
 <div class="article">
 
   <ul class="media-grid">
@@ -4560,94 +4560,7 @@ I"/<%= render('tags', :tag => 'philosofy') %>;	T;I"<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@["/sponsor/{;{	;"ö<h3>Sponsor us.</h3>
-<p class="section">
-  The Italian Ruby Day, is the official annual gathering of Ruby developers in Italy.
-  Founded in 2011, RubyDay 2012 is the 2nd installment of this event. RubyDay has 
-  been the italian venue for announcements regarding the Ruby programming language 
-  usage to show people works, compare notes and involve the community.
-</p>
-
-<h3>Why should you sponsor RubyDay?</h3>
-<p class="section">
-<strong>Visible event</strong>. Many of the most prominent and influential community members 
-present widely publicized and discussed internet-wide. Seats sell out quickly, so sponsorship 
-guarantees a spot. Last, the community provides an opportunity to connect with many Ruby 
-developers one on one. The following sponsorship opportunities are available.
-
-<h3>Golden sponsor | â‚¬ 1.000</h3>
-<ol>
-  <li>Sponsor designation in our marketing efforts</li>
-  <li>Large ad in RubyConf program</li>
-  <li>Large banner style logo on conference website</li>
-  <li>Sponsor may distribute pamphlets at the conference</li>
-  <li>Announcement before the plenary session</li>
-</ol>
-
-<h3>Silver sponsor | â‚¬ 500</h3>
-<ol>
-  <li>Sponsor designation in our marketing efforts</li>
-  <li>Medium ad in RubyConf program</li>
-  <li>Medium banner style logo on conference website</li>
-  <li>Sponsor may distribute pamphlets at the conference</li>
-  <li>Announcement before the plenary session</li>
-</ol>
-
-<h3>Media sponsor | Communication</h3>
-<ol>
-  <li>Sponsor designation in our marketing efforts</li>
-  <li>Small ad in RubyConf program</li>
-  <li>Small banner style logo on conference website</li>
-  <li>Announcement before the plenary session</li>
-</ol>
-
-<p>
-  If you have an idea for a custom sponsorship please contact us. Weâ€™d love to discuss your ideas.
-</p>;
-"ö<h3>Sponsor us.</h3>
-<p class="section">
-  The Italian Ruby Day, is the official annual gathering of Ruby developers in Italy.
-  Founded in 2011, RubyDay 2012 is the 2nd installment of this event. RubyDay has 
-  been the italian venue for announcements regarding the Ruby programming language 
-  usage to show people works, compare notes and involve the community.
-</p>
-
-<h3>Why should you sponsor RubyDay?</h3>
-<p class="section">
-<strong>Visible event</strong>. Many of the most prominent and influential community members 
-present widely publicized and discussed internet-wide. Seats sell out quickly, so sponsorship 
-guarantees a spot. Last, the community provides an opportunity to connect with many Ruby 
-developers one on one. The following sponsorship opportunities are available.
-
-<h3>Golden sponsor | â‚¬ 1.000</h3>
-<ol>
-  <li>Sponsor designation in our marketing efforts</li>
-  <li>Large ad in RubyConf program</li>
-  <li>Large banner style logo on conference website</li>
-  <li>Sponsor may distribute pamphlets at the conference</li>
-  <li>Announcement before the plenary session</li>
-</ol>
-
-<h3>Silver sponsor | â‚¬ 500</h3>
-<ol>
-  <li>Sponsor designation in our marketing efforts</li>
-  <li>Medium ad in RubyConf program</li>
-  <li>Medium banner style logo on conference website</li>
-  <li>Sponsor may distribute pamphlets at the conference</li>
-  <li>Announcement before the plenary session</li>
-</ol>
-
-<h3>Media sponsor | Communication</h3>
-<ol>
-  <li>Sponsor designation in our marketing efforts</li>
-  <li>Small ad in RubyConf program</li>
-  <li>Small banner style logo on conference website</li>
-  <li>Announcement before the plenary session</li>
-</ol>
-
-<p>
-  If you have an idea for a custom sponsorship please contact us. Weâ€™d love to discuss your ideas.
-</p>;"Î%<!DOCTYPE html>
+;	T;@["/sponsor/{;{	;I"Î%<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -4903,7 +4816,94 @@ developers one on one. The following sponsorship opportunities are available.
   </script>
 </body>
 </html>
-;@a"/blog/why/{;{	;I"Œ<div class="article">
+;	T;
+I"ö<h3>Sponsor us.</h3>
+<p class="section">
+  The Italian Ruby Day, is the official annual gathering of Ruby developers in Italy.
+  Founded in 2011, RubyDay 2012 is the 2nd installment of this event. RubyDay has 
+  been the italian venue for announcements regarding the Ruby programming language 
+  usage to show people works, compare notes and involve the community.
+</p>
+
+<h3>Why should you sponsor RubyDay?</h3>
+<p class="section">
+<strong>Visible event</strong>. Many of the most prominent and influential community members 
+present widely publicized and discussed internet-wide. Seats sell out quickly, so sponsorship 
+guarantees a spot. Last, the community provides an opportunity to connect with many Ruby 
+developers one on one. The following sponsorship opportunities are available.
+
+<h3>Golden sponsor | â‚¬ 1.000</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Large ad in RubyConf program</li>
+  <li>Large banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Silver sponsor | â‚¬ 500</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Medium ad in RubyConf program</li>
+  <li>Medium banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Media sponsor | Communication</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Small ad in RubyConf program</li>
+  <li>Small banner style logo on conference website</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<p>
+  If you have an idea for a custom sponsorship please contact us. Weâ€™d love to discuss your ideas.
+</p>;	T;I"ö<h3>Sponsor us.</h3>
+<p class="section">
+  The Italian Ruby Day, is the official annual gathering of Ruby developers in Italy.
+  Founded in 2011, RubyDay 2012 is the 2nd installment of this event. RubyDay has 
+  been the italian venue for announcements regarding the Ruby programming language 
+  usage to show people works, compare notes and involve the community.
+</p>
+
+<h3>Why should you sponsor RubyDay?</h3>
+<p class="section">
+<strong>Visible event</strong>. Many of the most prominent and influential community members 
+present widely publicized and discussed internet-wide. Seats sell out quickly, so sponsorship 
+guarantees a spot. Last, the community provides an opportunity to connect with many Ruby 
+developers one on one. The following sponsorship opportunities are available.
+
+<h3>Golden sponsor | â‚¬ 1.000</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Large ad in RubyConf program</li>
+  <li>Large banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Silver sponsor | â‚¬ 500</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Medium ad in RubyConf program</li>
+  <li>Medium banner style logo on conference website</li>
+  <li>Sponsor may distribute pamphlets at the conference</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<h3>Media sponsor | Communication</h3>
+<ol>
+  <li>Sponsor designation in our marketing efforts</li>
+  <li>Small ad in RubyConf program</li>
+  <li>Small banner style logo on conference website</li>
+  <li>Announcement before the plenary session</li>
+</ol>
+
+<p>
+  If you have an idea for a custom sponsorship please contact us. Weâ€™d love to discuss your ideas.
+</p>;	T;@_"/blog/why/{;{	;I"Œ<div class="article">
 
   <ul class="media-grid">
     <li>
@@ -5770,50 +5770,7 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@r"/info/{;{	;"\<h3>Where is the conference?</h3>
-<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-<br/>
-
-<h3>How to reach the conference.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-
-<h3>Where to eat.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-
-<h3>Where to sleep.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  â†’</a>
-</p>;
-"\<h3>Where is the conference?</h3>
-<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-<br/>
-
-<h3>How to reach the conference.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-
-<h3>Where to eat.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-
-<h3>Where to sleep.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  â†’</a>
-</p>;"H'<!DOCTYPE html>
+;	T;@r"/info/{;{	;I"H'<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -6047,28 +6004,50 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
   </script>
 </body>
 </html>
-;@x"/help/{;{	;"c<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
+;	T;
+I"\<h3>Where is the conference?</h3>
+<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 <p class="section">
-  As you may know, a great event requires a great deal of work. As a volunteer you can help with attendees registration, assistance and video recordings. Don't worry for your favourite talks, send your preferences at <a href="mailto:info@rubyday.com">info@rubyday.com</a> and you should still be able to follow them ;)
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+<br/>
 
+<h3>How to reach the conference.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 </p>
 
-<h3>Spread the word.</h3>
+<h3>Where to eat.</h3>
 <p class="section">
-  Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
-  
-</p>;
-"c<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
-<p class="section">
-  As you may know, a great event requires a great deal of work. As a volunteer you can help with attendees registration, assistance and video recordings. Don't worry for your favourite talks, send your preferences at <a href="mailto:info@rubyday.com">info@rubyday.com</a> and you should still be able to follow them ;)
-
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 </p>
 
-<h3>Spread the word.</h3>
+<h3>Where to sleep.</h3>
 <p class="section">
-  Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
-  
-</p>;";!<!DOCTYPE html>
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  â†’</a>
+</p>;	T;I"\<h3>Where is the conference?</h3>
+<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+<br/>
+
+<h3>How to reach the conference.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to eat.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+
+<h3>Where to sleep.</h3>
+<p class="section">
+  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  <a href="#" >Find more  â†’</a>
+</p>;	T;@v"/help/{;{	;I";!<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -6291,7 +6270,28 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
   </script>
 </body>
 </html>
-;@~"
+;	T;
+I"c<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
+<p class="section">
+  As you may know, a great event requires a great deal of work. As a volunteer you can help with attendees registration, assistance and video recordings. Don't worry for your favourite talks, send your preferences at <a href="mailto:info@rubyday.com">info@rubyday.com</a> and you should still be able to follow them ;)
+
+</p>
+
+<h3>Spread the word.</h3>
+<p class="section">
+  Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
+  
+</p>;	T;I"c<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
+<p class="section">
+  As you may know, a great event requires a great deal of work. As a volunteer you can help with attendees registration, assistance and video recordings. Don't worry for your favourite talks, send your preferences at <a href="mailto:info@rubyday.com">info@rubyday.com</a> and you should still be able to follow them ;)
+
+</p>
+
+<h3>Spread the word.</h3>
+<p class="section">
+  Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
+  
+</p>;	T;@|"
 /tos/{;{	;I"QH<div id="textual">
 
   <div>
