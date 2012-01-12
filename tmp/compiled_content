@@ -320,7 +320,7 @@
 
 ;	T;
 I"<%= xml_sitemap %>
-;	T;@"/register/{;{	;I"å"<!DOCTYPE html>
+;	T;@"/register/{;{	;I"_#<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -460,23 +460,23 @@ I"<%= xml_sitemap %>
 			<div class="four columns">
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
-					<dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 			</div>
@@ -1226,7 +1226,7 @@ I"+<%= render('tags', :tag => 'ideas') %>;	T;I"$<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@'"/call/{;{	;I"l <!DOCTYPE html>
+;	T;@'"/call/{;{	;I"æ <!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1366,23 +1366,23 @@ I"+<%= render('tags', :tag => 'ideas') %>;	T;I"$<!DOCTYPE HTML>
 			<div class="four columns">
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
-					<dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 			</div>
@@ -2813,7 +2813,7 @@ I"<%= atom_feed %>;	T;I"OM<!DOCTYPE HTML>
 
   </body>
 </html>
-;	T;@9"/{;{	;I"	$<!DOCTYPE html>
+;	T;@9"/{;{	;I"ƒ$<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -2976,23 +2976,23 @@ I"<%= atom_feed %>;	T;I"OM<!DOCTYPE HTML>
 			<div class="four columns">
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
-					<dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 			</div>
@@ -4560,7 +4560,7 @@ I"/<%= render('tags', :tag => 'philosofy') %>;	T;I"<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@["/sponsor/{;{	;I"Î%<!DOCTYPE html>
+;	T;@["/sponsor/{;{	;I"H&<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -4738,23 +4738,23 @@ developers one on one. The following sponsorship opportunities are available.
 			<div class="four columns">
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
-					<dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 			</div>
@@ -5770,7 +5770,7 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
     </div>
   </body>
 </html>
-;	T;@r"/info/{;{	;I"H'<!DOCTYPE html>
+;	T;@r"/info/{;{	;I"Â'<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -5926,23 +5926,23 @@ I")<%= render('tags', :tag => 'iot') %>;	T;I"z<!DOCTYPE HTML>
 			<div class="four columns">
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
-					<dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 			</div>
@@ -6047,7 +6047,7 @@ I"\<h3>Where is the conference?</h3>
 <p class="section">
   Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   <a href="#" >Find more  â†’</a>
-</p>;	T;@v"/help/{;{	;I";!<!DOCTYPE html>
+</p>;	T;@v"/help/{;{	;I"µ!<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -6192,23 +6192,23 @@ I"\<h3>Where is the conference?</h3>
 			<div class="four columns">
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active golden">Golden sponsor</a></dd>
-					<dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active silver">Silver sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 				<dl class="nice tabs vertical hide-on-phones">
 					<dd><a href="/sponsor/" class="active">Media sponsor</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
-          <dd><a href="#">Company logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
+          <dd><a href="/sponsor/">Your Company Logo</a></dd>
         </dl>
 
 			</div>
