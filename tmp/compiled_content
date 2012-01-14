@@ -280,39 +280,39 @@
     </div>
   </body>
 </html>
-;	T:	last@"/sitemap/{;{;I" <?xml version="1.0" encoding="UTF-8"?>
+;	T:	last@"/sitemap/{;{;I"™<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://rubyday.com/call/</loc>
+    <loc>http://rubyday.it/call/</loc>
     <lastmod>2012-01-12</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyday.com/help/</loc>
+    <loc>http://rubyday.it/help/</loc>
     <lastmod>2012-01-14</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyday.com/</loc>
+    <loc>http://rubyday.it/</loc>
     <lastmod>2012-01-14</lastmod>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rubyday.com/info/</loc>
+    <loc>http://rubyday.it/info/</loc>
     <lastmod>2012-01-12</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyday.com/register/</loc>
+    <loc>http://rubyday.it/register/</loc>
     <lastmod>2012-01-12</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyday.com/sitemap.xml</loc>
+    <loc>http://rubyday.it/sitemap.xml</loc>
     <lastmod>2012-01-12</lastmod>
   </url>
   <url>
-    <loc>http://rubyday.com/sponsor/</loc>
+    <loc>http://rubyday.it/sponsor/</loc>
     <lastmod>2012-01-12</lastmod>
     <priority>0.5</priority>
   </url>

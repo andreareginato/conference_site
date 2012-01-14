@@ -3,7 +3,7 @@ text_extensions: [ 'css', 'erb', 'haml', 'htm', 'html', 'js', 'less', 'markdown'
 output_dir: public
 index_filenames: [ 'index.html' ]
 enable_output_diff: false
-base_url: 'http://rubyday.com'
+base_url: 'http://rubyday.it'
 
 data_sources:
 - type: 'filesystem_unified'
