@@ -1,4 +1,4 @@
-{:	data{I"/call/:ET{:default{	:	lastI"2"<!DOCTYPE html>
+{:	data{I"/call/:ET{:default{	:	lastI"G"<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -116,8 +116,8 @@
         <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
             <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
-            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
-            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/groups/152463788155829/" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <!--<li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>-->
             <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
           </ul>
         </div>
@@ -265,7 +265,7 @@ z7x3k1.initialize({
 'header':'show'});
 z7x3k1.display();
 </script>;T:	post@
-I"/help/;T{;{	;I"!"<!DOCTYPE html>
+I"/help/;T{;{	;I"6"<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -383,8 +383,8 @@ I"/help/;T{;{	;I"!"<!DOCTYPE html>
         <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
             <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
-            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
-            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/groups/152463788155829/" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <!--<li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>-->
             <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
           </ul>
         </div>
@@ -514,7 +514,7 @@ I"a<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 <p class="section">
   Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
   
-</p>;T;@I"/;T{;{	;I"ï$<!DOCTYPE html>
+</p>;T;@I"/;T{;{	;I"%<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -632,8 +632,8 @@ I"a<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
         <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
             <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
-            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
-            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/groups/152463788155829/" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <!--<li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>-->
             <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
           </ul>
         </div>
@@ -817,7 +817,7 @@ I"<h3>Why are we here?</h3>
 <h3>Students and professors</h3>
 <p class="section">
   Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
-</p>;T;@I"/info/;T{;{	;I"')<!DOCTYPE html>
+</p>;T;@I"/info/;T{;{	;I"<)<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -935,8 +935,8 @@ I"<h3>Why are we here?</h3>
         <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
             <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
-            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
-            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/groups/152463788155829/" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <!--<li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>-->
             <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
           </ul>
         </div>
@@ -1117,7 +1117,7 @@ I"S	<h3>Info about the conderence?</h3>
 <!--<p class="section">-->
   <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
   <!--<a href="#" >Find more  â†’</a>-->
-<!--</p>-->;T;@I"/register/;T{;{	;I"U$<!DOCTYPE html>
+<!--</p>-->;T;@I"/register/;T{;{	;I"j$<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1235,8 +1235,8 @@ I"S	<h3>Info about the conderence?</h3>
         <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
             <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
-            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
-            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/groups/152463788155829/" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <!--<li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>-->
             <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
           </ul>
         </div>
@@ -1409,7 +1409,7 @@ I"“<h3>Where are tickets?</h3>
 
 ;T;	I"<%= xml_sitemap %>
 ;T;
-@(I"/sponsor/;T{;{	;I"¶&<!DOCTYPE html>
+@(I"/sponsor/;T{;{	;I"Ë&<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1527,8 +1527,8 @@ I"“<h3>Where are tickets?</h3>
         <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
             <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
-            <li class="leaf"><a href="https://www.facebook.com/rubydayit" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
-            <li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>
+            <li class="leaf"><a href="https://www.facebook.com/groups/152463788155829/" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
+            <!--<li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>-->
             <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
           </ul>
         </div>
