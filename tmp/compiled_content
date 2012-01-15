@@ -1,4 +1,4 @@
-{:	data{I"/call/:ET{:default{	:	lastI"B!<!DOCTYPE html>
+{:	data{I"/call/:ET{:default{	:	lastI"2"<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -44,7 +44,7 @@
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-          <!-- <a href="/info/">Info</a> -->
+          <a href="/info/">Info</a>
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -66,7 +66,7 @@
 		<div class="row">
 			<div class="six columns">
 				<div class="foundation-header no-border">
-					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+					<h1><a href="/" class="red-color big-title">Italian Ruby Day</a></h1>
           <h4 class="subheader big">
              Spreading the Ruby and Rails way in Italy
           </h4>
@@ -80,7 +80,7 @@
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <!-- <a href="/info/"> -->
-              Milan<span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">June 2012</span>
             <!-- </a> -->
           </h1>
           <h4 class="subheader">
@@ -105,11 +105,11 @@
 			</div>
 
       <div class="four columns">
-        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
-        <h4 class="subheader">
-          Don't miss the Italian conference about Ruby and Rails.
-          <a href="/register/">Register</a> and invite your friends!
-        </h4>
+        <!--<h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>-->
+        <!--<h4 class="subheader">-->
+          <!--Don't miss the Italian conference about Ruby and Rails.-->
+          <!--<a href="/register/">Register</a> and invite your friends!-->
+        <!--</h4>-->
 			</div>
 
       <div class="four columns">
@@ -136,7 +136,18 @@
   Send your talk proposal before April 1st, we're so curious we can't wait to read about it
 </p>
 
-<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>
+<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script type="text/javascript">
+var z7x3k1 = new WufooForm();
+z7x3k1.initialize({
+'userName':'rubyday', 
+'formHash':'z7x3k1', 
+'autoResize':true,
+'height':'647',
+'header':'show'});
+z7x3k1.display();
+</script>
      </div>
 
 
@@ -221,18 +232,40 @@
   </script>
 </body>
 </html>
-;T:rawI"†<h3>Wanna take the stage?</h3>
+;T:rawI"d<h3>Wanna take the stage?</h3>
 <p class="section">
   Send your talk proposal before April 1st, we're so curious we can't wait to read about it
 </p>
 
-<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;T:preI"†<h3>Wanna take the stage?</h3>
+<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script type="text/javascript">
+var z7x3k1 = new WufooForm();
+z7x3k1.initialize({
+'userName':'rubyday', 
+'formHash':'z7x3k1', 
+'autoResize':true,
+'height':'647',
+'header':'show'});
+z7x3k1.display();
+</script>;T:preI"d<h3>Wanna take the stage?</h3>
 <p class="section">
   Send your talk proposal before April 1st, we're so curious we can't wait to read about it
 </p>
 
-<iframe height="577" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://rscmilan.wufoo.com/embed/m7x3p9/"><a href="http://rscmilan.wufoo.com/forms/m7x3p9/">Fill out my Wufoo form!</a></iframe>;T:	post@
-I"/help/;T{;{	;I""<!DOCTYPE html>
+<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script type="text/javascript">
+var z7x3k1 = new WufooForm();
+z7x3k1.initialize({
+'userName':'rubyday', 
+'formHash':'z7x3k1', 
+'autoResize':true,
+'height':'647',
+'header':'show'});
+z7x3k1.display();
+</script>;T:	post@
+I"/help/;T{;{	;I"!"<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -278,7 +311,7 @@ I"/help/;T{;{	;I""<!DOCTYPE html>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-          <!-- <a href="/info/">Info</a> -->
+          <a href="/info/">Info</a>
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -300,7 +333,7 @@ I"/help/;T{;{	;I""<!DOCTYPE html>
 		<div class="row">
 			<div class="six columns">
 				<div class="foundation-header no-border">
-					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+					<h1><a href="/" class="red-color big-title">Italian Ruby Day</a></h1>
           <h4 class="subheader big">
              Spreading the Ruby and Rails way in Italy
           </h4>
@@ -314,7 +347,7 @@ I"/help/;T{;{	;I""<!DOCTYPE html>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <!-- <a href="/info/"> -->
-              Milan<span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">June 2012</span>
             <!-- </a> -->
           </h1>
           <h4 class="subheader">
@@ -339,11 +372,11 @@ I"/help/;T{;{	;I""<!DOCTYPE html>
 			</div>
 
       <div class="four columns">
-        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
-        <h4 class="subheader">
-          Don't miss the Italian conference about Ruby and Rails.
-          <a href="/register/">Register</a> and invite your friends!
-        </h4>
+        <!--<h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>-->
+        <!--<h4 class="subheader">-->
+          <!--Don't miss the Italian conference about Ruby and Rails.-->
+          <!--<a href="/register/">Register</a> and invite your friends!-->
+        <!--</h4>-->
 			</div>
 
       <div class="four columns">
@@ -481,7 +514,7 @@ I"a<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 <p class="section">
   Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
   
-</p>;T;@I"/;T{;{	;I"Ý$<!DOCTYPE html>
+</p>;T;@I"/;T{;{	;I"ï$<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -527,7 +560,7 @@ I"a<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-          <!-- <a href="/info/">Info</a> -->
+          <a href="/info/">Info</a>
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -549,7 +582,7 @@ I"a<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 		<div class="row">
 			<div class="six columns">
 				<div class="foundation-header no-border">
-					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+					<h1><a href="/" class="red-color big-title">Italian Ruby Day</a></h1>
           <h4 class="subheader big">
              Spreading the Ruby and Rails way in Italy
           </h4>
@@ -563,7 +596,7 @@ I"a<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <!-- <a href="/info/"> -->
-              Milan<span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">June 2012</span>
             <!-- </a> -->
           </h1>
           <h4 class="subheader">
@@ -588,11 +621,11 @@ I"a<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 			</div>
 
       <div class="four columns">
-        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
-        <h4 class="subheader">
-          Don't miss the Italian conference about Ruby and Rails.
-          <a href="/register/">Register</a> and invite your friends!
-        </h4>
+        <!--<h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>-->
+        <!--<h4 class="subheader">-->
+          <!--Don't miss the Italian conference about Ruby and Rails.-->
+          <!--<a href="/register/">Register</a> and invite your friends!-->
+        <!--</h4>-->
 			</div>
 
       <div class="four columns">
@@ -784,7 +817,7 @@ I"<h3>Why are we here?</h3>
 <h3>Students and professors</h3>
 <p class="section">
   Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
-</p>;T;@I"/info/;T{;{	;I"(<!DOCTYPE html>
+</p>;T;@I"/info/;T{;{	;I"')<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -830,7 +863,7 @@ I"<h3>Why are we here?</h3>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-          <!-- <a href="/info/">Info</a> -->
+          <a href="/info/">Info</a>
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -852,7 +885,7 @@ I"<h3>Why are we here?</h3>
 		<div class="row">
 			<div class="six columns">
 				<div class="foundation-header no-border">
-					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+					<h1><a href="/" class="red-color big-title">Italian Ruby Day</a></h1>
           <h4 class="subheader big">
              Spreading the Ruby and Rails way in Italy
           </h4>
@@ -866,7 +899,7 @@ I"<h3>Why are we here?</h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <!-- <a href="/info/"> -->
-              Milan<span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">June 2012</span>
             <!-- </a> -->
           </h1>
           <h4 class="subheader">
@@ -891,11 +924,11 @@ I"<h3>Why are we here?</h3>
 			</div>
 
       <div class="four columns">
-        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
-        <h4 class="subheader">
-          Don't miss the Italian conference about Ruby and Rails.
-          <a href="/register/">Register</a> and invite your friends!
-        </h4>
+        <!--<h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>-->
+        <!--<h4 class="subheader">-->
+          <!--Don't miss the Italian conference about Ruby and Rails.-->
+          <!--<a href="/register/">Register</a> and invite your friends!-->
+        <!--</h4>-->
 			</div>
 
       <div class="four columns">
@@ -917,28 +950,34 @@ I"<h3>Why are we here?</h3>
 
 		<div class="row content">
       <div class="eight columns">
-        <h3>Where is the conference?</h3>
-<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-<br/>
+        <h3>Info about the conderence?</h3>
 
-<h3>How to reach the conference.</h3>
 <p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  Stay tuned! Some info will be given really soon!
 </p>
 
-<h3>Where to eat.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
+<!--<h3>Where is the conference?</h3>-->
+<!--<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
+<!--<br/>-->
 
-<h3>Where to sleep.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  â†’</a>
-</p>
+<!--<h3>How to reach the conference.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
+
+<!--<h3>Where to eat.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
+
+<!--<h3>Where to sleep.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+  <!--<a href="#" >Find more  â†’</a>-->
+<!--</p>-->
      </div>
 
 
@@ -1023,50 +1062,62 @@ I"<h3>Why are we here?</h3>
   </script>
 </body>
 </html>
-;T;	I"\<h3>Where is the conference?</h3>
-<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-<br/>
+;T;	I"S	<h3>Info about the conderence?</h3>
 
-<h3>How to reach the conference.</h3>
 <p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  Stay tuned! Some info will be given really soon!
 </p>
 
-<h3>Where to eat.</h3>
+<!--<h3>Where is the conference?</h3>-->
+<!--<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
+<!--<br/>-->
+
+<!--<h3>How to reach the conference.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
+
+<!--<h3>Where to eat.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
+
+<!--<h3>Where to sleep.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+  <!--<a href="#" >Find more  â†’</a>-->
+<!--</p>-->;T;
+I"S	<h3>Info about the conderence?</h3>
+
 <p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  Stay tuned! Some info will be given really soon!
 </p>
 
-<h3>Where to sleep.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  â†’</a>
-</p>;T;
-I"\<h3>Where is the conference?</h3>
-<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
-<br/>
+<!--<h3>Where is the conference?</h3>-->
+<!--<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Via+Gobetti,+101++40129+Bologna&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.345014,114.082031&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Piero+Gobetti,+101,+40129+Bologna,+Emilia+Romagna,+Italy&amp;ll=44.519429,11.33664&amp;spn=0.011857,0.027852&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
+<!--<br/>-->
 
-<h3>How to reach the conference.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
+<!--<h3>How to reach the conference.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
 
-<h3>Where to eat.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</p>
+<!--<h3>Where to eat.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--</p>-->
 
-<h3>Where to sleep.</h3>
-<p class="section">
-  Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  <a href="#" >Find more  â†’</a>
-</p>;T;@I"/register/;T{;{	;I"»#<!DOCTYPE html>
+<!--<h3>Where to sleep.</h3>-->
+<!--<p class="section">-->
+  <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+  <!--<a href="#" >Find more  â†’</a>-->
+<!--</p>-->;T;@I"/register/;T{;{	;I"U$<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1112,7 +1163,7 @@ I"\<h3>Where is the conference?</h3>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-          <!-- <a href="/info/">Info</a> -->
+          <a href="/info/">Info</a>
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -1134,7 +1185,7 @@ I"\<h3>Where is the conference?</h3>
 		<div class="row">
 			<div class="six columns">
 				<div class="foundation-header no-border">
-					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+					<h1><a href="/" class="red-color big-title">Italian Ruby Day</a></h1>
           <h4 class="subheader big">
              Spreading the Ruby and Rails way in Italy
           </h4>
@@ -1148,7 +1199,7 @@ I"\<h3>Where is the conference?</h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <!-- <a href="/info/"> -->
-              Milan<span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">June 2012</span>
             <!-- </a> -->
           </h1>
           <h4 class="subheader">
@@ -1173,11 +1224,11 @@ I"\<h3>Where is the conference?</h3>
 			</div>
 
       <div class="four columns">
-        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
-        <h4 class="subheader">
-          Don't miss the Italian conference about Ruby and Rails.
-          <a href="/register/">Register</a> and invite your friends!
-        </h4>
+        <!--<h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>-->
+        <!--<h4 class="subheader">-->
+          <!--Don't miss the Italian conference about Ruby and Rails.-->
+          <!--<a href="/register/">Register</a> and invite your friends!-->
+        <!--</h4>-->
 			</div>
 
       <div class="four columns">
@@ -1199,12 +1250,18 @@ I"\<h3>Where is the conference?</h3>
 
 		<div class="row content">
       <div class="eight columns">
-        <h3>Get your ticket and join the Ruby community</h3>
+        <h3>Where are tickets?</h3>
+
 <p class="section">
-  Tickets for the Ruby Day are free and selling fast: reserve your spot now!
+  Stay tuned! Tickets will be available soon.
 </p>
 
-<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
+<!--<h3>Get your ticket and join the Ruby community</h3>-->
+<!--<p class="section">-->
+  <!--Tickets for the Ruby Day are free and selling fast: reserve your spot now!-->
+<!--</p>-->
+
+<!--<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>-->
      </div>
 
 
@@ -1289,22 +1346,34 @@ I"\<h3>Where is the conference?</h3>
   </script>
 </body>
 </html>
-;T;	I"<h3>Get your ticket and join the Ruby community</h3>
+;T;	I"“<h3>Where are tickets?</h3>
+
 <p class="section">
-  Tickets for the Ruby Day are free and selling fast: reserve your spot now!
+  Stay tuned! Tickets will be available soon.
 </p>
 
-<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;T;
-I"<h3>Get your ticket and join the Ruby community</h3>
+<!--<h3>Get your ticket and join the Ruby community</h3>-->
+<!--<p class="section">-->
+  <!--Tickets for the Ruby Day are free and selling fast: reserve your spot now!-->
+<!--</p>-->
+
+<!--<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>-->;T;
+I"“<h3>Where are tickets?</h3>
+
 <p class="section">
-  Tickets for the Ruby Day are free and selling fast: reserve your spot now!
+  Stay tuned! Tickets will be available soon.
 </p>
 
-<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>;T;@"I"/sitemap/;T{;{;I"™<?xml version="1.0" encoding="UTF-8"?>
+<!--<h3>Get your ticket and join the Ruby community</h3>-->
+<!--<p class="section">-->
+  <!--Tickets for the Ruby Day are free and selling fast: reserve your spot now!-->
+<!--</p>-->
+
+<!--<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1335124393&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/event/1335124393?ref=etckt" >[Test] Ruby Day 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>-->;T;@"I"/sitemap/;T{;{;I"™<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://rubyday.it/call/</loc>
-    <lastmod>2012-01-11</lastmod>
+    <lastmod>2012-01-15</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
@@ -1319,12 +1388,12 @@ I"<h3>Get your ticket and join the Ruby community</h3>
   </url>
   <url>
     <loc>http://rubyday.it/info/</loc>
-    <lastmod>2011-12-29</lastmod>
+    <lastmod>2012-01-15</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/register/</loc>
-    <lastmod>2012-01-11</lastmod>
+    <lastmod>2012-01-15</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
@@ -1340,7 +1409,7 @@ I"<h3>Get your ticket and join the Ruby community</h3>
 
 ;T;	I"<%= xml_sitemap %>
 ;T;
-@(I"/sponsor/;T{;{	;I"¤&<!DOCTYPE html>
+@(I"/sponsor/;T{;{	;I"¶&<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1386,7 +1455,7 @@ I"<h3>Get your ticket and join the Ruby community</h3>
       <div class="eight columns">
       	<strong class="right hide-on-phones">
       		<a href="/register/">Register</a>
-          <!-- <a href="/info/">Info</a> -->
+          <a href="/info/">Info</a>
           <a href="/call/">Call for paper</a>
           <a href="/sponsor/">Sponsor</a>
       		<a href="/help/">Help us</a>
@@ -1408,7 +1477,7 @@ I"<h3>Get your ticket and join the Ruby community</h3>
 		<div class="row">
 			<div class="six columns">
 				<div class="foundation-header no-border">
-					<h1><a href="/register/" class="red-color big-title">Italian Ruby Day</a></h1>
+					<h1><a href="/" class="red-color big-title">Italian Ruby Day</a></h1>
           <h4 class="subheader big">
              Spreading the Ruby and Rails way in Italy
           </h4>
@@ -1422,7 +1491,7 @@ I"<h3>Get your ticket and join the Ruby community</h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <!-- <a href="/info/"> -->
-              Milan<span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">June 2012</span>
             <!-- </a> -->
           </h1>
           <h4 class="subheader">
@@ -1447,11 +1516,11 @@ I"<h3>Get your ticket and join the Ruby community</h3>
 			</div>
 
       <div class="four columns">
-        <h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>
-        <h4 class="subheader">
-          Don't miss the Italian conference about Ruby and Rails.
-          <a href="/register/">Register</a> and invite your friends!
-        </h4>
+        <!--<h1><a href="/register/" class="small-title black">Register for <span class="red-color">free!</span></a></h1>-->
+        <!--<h4 class="subheader">-->
+          <!--Don't miss the Italian conference about Ruby and Rails.-->
+          <!--<a href="/register/">Register</a> and invite your friends!-->
+        <!--</h4>-->
 			</div>
 
       <div class="four columns">
