@@ -16,7 +16,7 @@
 	<title><%= @item[:title] %></title>
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
 	<link rel="icon" type="image/ico" href="/images/favicon.ico">
- 
+
 	<!-- Included CSS Files -->
   <link rel="stylesheet" href="/stylesheets/foundation.css">
   <link rel="stylesheet" href="/stylesheets/presentation.css">
@@ -52,7 +52,7 @@
       </div>
     </div>
   </div>
-  <!-- /ZURBar -->	
+  <!-- /ZURBar -->
 	<div class="container">
     <div class="row">
       <dl class="nice vertical tabs show-on-phones" style="margin-top:40px;">
@@ -74,7 +74,7 @@
 				</div>
       </div>
       <div class="two columns hide-on-phones" style="margin-top: 30px;">
-        <img src="/images/arrow.png">
+        <img src="/images/arrow.png" alt="arrow">
       </div>
       <div class="four columns">
 				<div class="foundation-header no-border">
@@ -84,7 +84,7 @@
             <!-- </a> -->
           </h1>
           <h4 class="subheader">
-            class << self <br>
+            class &lt;&lt; self <br>
             &nbsp;&nbsp;attr_accessor :city, :address<br>
             end
           </h4>
@@ -99,7 +99,7 @@
         <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
-          <a href="/call/">Send us</a> your cool idea! The 
+          <a href="/call/">Send us</a> your cool idea! The
           deadline is April 1st, 2012 (:april_fool => false).
         </h4>
 			</div>
@@ -115,19 +115,20 @@
       <div class="four columns">
         <div id="menu-social" class="hide-on-phones">
           <ul class="menu">
-            <li class="first leaf"><a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
+            <li class="first leaf">
+              <a href="http://twitter.com/#!/rubydayit" title="Rubyday Twitter handle" class="twitter" target="_blank">Twitter</a></li>
             <li class="leaf"><a href="https://www.facebook.com/groups/152463788155829/" title="Rubyday Facebook page" class="facebook" target="_blank">Facebook</a></li>
             <!--<li class="leaf"><a href="http://www.linkedin.com/groups?home=&amp;gid=1" title="Ruby Linkedin Groupon" class="linkedin" target="_blank">Linkedin</a></li>-->
             <li class="last leaf"><a href="mailto:info@rubyday.it" title="Contattaci tramite il sito!" class="mail">Contattaci</a></li>
           </ul>
         </div>
-        
+
         <!--<h1><a href="#" class="small-title black">Tell everybody</a></h1>-->
         <!-- social icons -->
 			</div>
       <hr>
 		</div>
-    
+
 
 		<div class="row content">
       <div class="eight columns">
@@ -165,15 +166,15 @@
 	    <section class="four columns">
 	      <h5><strong>Made by the Ruby community</strong></h5>
         <p>
-          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all 
+          The Italian Ruby Day is made by a group of Ruby lovers. We are doing all
           this because this language is awesome!
-          </p>
+        </p>
 	    </section>
 
 	    <section class="four columns">
 	      <h5><strong>Be part of the team</strong></h5>
         <p>
-          Let us know how you want to help us on making great the second Italian Ruby Day. 
+          Let us know how you want to help us on making great the second Italian Ruby Day.
           <a href="mailto:info@rubyday.it?subject=I%20want%20to%20help">Get in touch &rarr;</a>
         </p>
 	    </section>
@@ -181,31 +182,31 @@
 	    <section class="four columns">
 	      <h5><strong>Need some help?</strong></h5>
 	      <p>For quick answers or help <a href="mailto:info@rubyday.it">email us &rarr;</a></p>
-
 	      <ul class="block-grid three-up">
-	 			<li>
-			
-	    <iframe allowtransparency="true" frameborder="0" scrolling="no"
-        src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"
-        style="width:65px; height:20px;"></iframe>
-			</li>
-			<li>
-				<iframe src="http://www.facebook.com/plugins/like.php?app_id=273982815961057&amp;href=rubyday.it&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
-			</li>
-		</div>
+	 			  <li>
+            <iframe allowtransparency="true" frameborder="0" scrolling="no"
+              src="http://platform.twitter.com/widgets/follow_button.html?screen_name=rubydayit"
+              style="width:65px; height:20px;"></iframe>
+			    </li>
+			    <li>
+          <iframe src="http://www.facebook.com/plugins/like.php?app_id=273982815961057&amp;href=rubyday.it&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21"
+            scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;"
+            allowTransparency="true"></iframe>
+			    </li>
+        </ul>
 	    </section>
 	  </footer>
 	  <!-- /Footer -->
 	</div>
 
-  <script> 
+  <script>
     <!-- TODO -->
     var _gaq = _gaq || [];
   	_gaq.push(
   	  ['_setAccount', 'UA-2195009-2'],
   	  ['_trackPageview'],
   	  ['b._setAccount', 'UA-2195009-27'],
-  	  ['b._trackPageview'] 
+  	  ['b._trackPageview']
   	);
 
     (function() {
