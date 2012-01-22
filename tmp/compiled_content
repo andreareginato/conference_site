@@ -1373,36 +1373,36 @@ I"“<h3>Where are tickets?</h3>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://rubyday.it/call/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/help/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-16</lastmod>
     <priority>1</priority>
   </url>
   <url>
     <loc>http://rubyday.it/info/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/register/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-16</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/sitemap.xml</loc>
-    <lastmod>2011-12-29</lastmod>
+    <lastmod>2012-01-12</lastmod>
   </url>
   <url>
     <loc>http://rubyday.it/sponsor/</loc>
-    <lastmod>2011-12-29</lastmod>
+    <lastmod>2012-01-22</lastmod>
     <priority>0.5</priority>
   </url>
 </urlset>
