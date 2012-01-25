@@ -10,7 +10,7 @@ p { font-size: 14px !important; line-height: 22px !important; }
 .big-title { font-size: 46px !important; }
 .small-title { font-size: 26px !important; }
 .small { font-size: 70% !important; }
-.big { font-size: 200% !important; }
+.big { font-size: 190% !important; }
 .no-border { border: none !important; }
 .content { margin-top: 30px; }
 .active.golden { background-color: #f5db00 !important; color: #444 !important; margin-top: 10px !important; }
