@@ -56,3 +56,15 @@ p { font-size: 14px !important; line-height: 22px !important; }
   background:url(/images/social.png) -153px -55px no-repeat; }
 #menu-social ul.menu li a:hover {
   background:url(/images/social.png) 0 -55px no-repeat; }
+
+/*	--------------------------------------------------
+	:: MailChimp div
+	-------------------------------------------------- */
+
+#mc_embed_signup.panel {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#mce-EMAIL {
+  width: 95%;
+}
