@@ -1,4 +1,4 @@
-{:	data{I"/call/:ET{:default{	:	lastI"&<!DOCTYPE html>
+{:	data{I"/call/:ET{:default{	:	lastI"E+<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -95,7 +95,7 @@
   	<div class="row">
 
       <div class="four columns">
-        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h1 class="small-title"><a href="/call/" class="black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
           <a href="/call/">Send us</a> your cool idea! The
@@ -108,7 +108,26 @@
         <!--<h4 class="subheader">-->
           <!--Don't miss the Italian conference about Ruby and Rails.-->
           <!--<a href="/register/">Register</a> and invite your friends!-->
-        <!--</h4>-->
+          <!--</h4>-->
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
+              <h4>Subscribe to our mailing list</h4>
+              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+              <div>
+                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
+                <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
+              <!-- </div>-->
+              <!-- <div id="mce-responses" class="clear">-->
+              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
+              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
+              <!-- </div>-->
+              <!-- <div>-->
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
 			</div>
 
       <div class="four columns">
@@ -291,7 +310,7 @@
                     'header':'show'});
   z7x3k1.display();
 </script>;T:	post@
-I"/help/;T{;{	;I"~%<!DOCTYPE html>
+I"/help/;T{;{	;I"Á*<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -388,7 +407,7 @@ I"/help/;T{;{	;I"~%<!DOCTYPE html>
   	<div class="row">
 
       <div class="four columns">
-        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h1 class="small-title"><a href="/call/" class="black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
           <a href="/call/">Send us</a> your cool idea! The
@@ -401,7 +420,26 @@ I"/help/;T{;{	;I"~%<!DOCTYPE html>
         <!--<h4 class="subheader">-->
           <!--Don't miss the Italian conference about Ruby and Rails.-->
           <!--<a href="/register/">Register</a> and invite your friends!-->
-        <!--</h4>-->
+          <!--</h4>-->
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
+              <h4>Subscribe to our mailing list</h4>
+              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+              <div>
+                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
+                <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
+              <!-- </div>-->
+              <!-- <div id="mce-responses" class="clear">-->
+              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
+              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
+              <!-- </div>-->
+              <!-- <div>-->
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
 			</div>
 
       <div class="four columns">
@@ -551,7 +589,7 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 <h3>Spread the word.</h3>
 <p class="section">
   Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
-</p>;T;@I"/;T{;{	;I"P(<!DOCTYPE html>
+</p>;T;@I"/;T{;{	;I"“-<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -648,7 +686,7 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
   	<div class="row">
 
       <div class="four columns">
-        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h1 class="small-title"><a href="/call/" class="black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
           <a href="/call/">Send us</a> your cool idea! The
@@ -661,7 +699,26 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
         <!--<h4 class="subheader">-->
           <!--Don't miss the Italian conference about Ruby and Rails.-->
           <!--<a href="/register/">Register</a> and invite your friends!-->
-        <!--</h4>-->
+          <!--</h4>-->
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
+              <h4>Subscribe to our mailing list</h4>
+              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+              <div>
+                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
+                <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
+              <!-- </div>-->
+              <!-- <div id="mce-responses" class="clear">-->
+              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
+              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
+              <!-- </div>-->
+              <!-- <div>-->
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
 			</div>
 
       <div class="four columns">
@@ -871,7 +928,7 @@ I"<h3>Why are we here?</h3>
 <h3>Students and professors</h3>
 <p class="section">
   Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
-</p>;T;@I"/info/;T{;{	;I"ˆ,<!DOCTYPE html>
+</p>;T;@I"/info/;T{;{	;I"Ë1<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -968,7 +1025,7 @@ I"<h3>Why are we here?</h3>
   	<div class="row">
 
       <div class="four columns">
-        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h1 class="small-title"><a href="/call/" class="black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
           <a href="/call/">Send us</a> your cool idea! The
@@ -981,7 +1038,26 @@ I"<h3>Why are we here?</h3>
         <!--<h4 class="subheader">-->
           <!--Don't miss the Italian conference about Ruby and Rails.-->
           <!--<a href="/register/">Register</a> and invite your friends!-->
-        <!--</h4>-->
+          <!--</h4>-->
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
+              <h4>Subscribe to our mailing list</h4>
+              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+              <div>
+                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
+                <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
+              <!-- </div>-->
+              <!-- <div id="mce-responses" class="clear">-->
+              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
+              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
+              <!-- </div>-->
+              <!-- <div>-->
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
 			</div>
 
       <div class="four columns">
@@ -1188,7 +1264,7 @@ I"S	<h3>Info about the conderence?</h3>
 <!--<p class="section">-->
   <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
   <!--<a href="#" >Find more  â†’</a>-->
-<!--</p>-->;T;@I"/register/;T{;{	;I"¶'<!DOCTYPE html>
+<!--</p>-->;T;@I"/register/;T{;{	;I"ù,<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1285,7 +1361,7 @@ I"S	<h3>Info about the conderence?</h3>
   	<div class="row">
 
       <div class="four columns">
-        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h1 class="small-title"><a href="/call/" class="black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
           <a href="/call/">Send us</a> your cool idea! The
@@ -1298,7 +1374,26 @@ I"S	<h3>Info about the conderence?</h3>
         <!--<h4 class="subheader">-->
           <!--Don't miss the Italian conference about Ruby and Rails.-->
           <!--<a href="/register/">Register</a> and invite your friends!-->
-        <!--</h4>-->
+          <!--</h4>-->
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
+              <h4>Subscribe to our mailing list</h4>
+              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+              <div>
+                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
+                <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
+              <!-- </div>-->
+              <!-- <div id="mce-responses" class="clear">-->
+              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
+              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
+              <!-- </div>-->
+              <!-- <div>-->
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
 			</div>
 
       <div class="four columns">
@@ -1471,22 +1566,22 @@ I"“<h3>Where are tickets?</h3>
   </url>
   <url>
     <loc>http://rubyday.it/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-16</lastmod>
     <priority>1</priority>
   </url>
   <url>
     <loc>http://rubyday.it/info/</loc>
-    <lastmod>2012-01-23</lastmod>
+    <lastmod>2012-01-30</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/register/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-16</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/sitemap.xml</loc>
-    <lastmod>2011-12-29</lastmod>
+    <lastmod>2012-01-12</lastmod>
   </url>
   <url>
     <loc>http://rubyday.it/sponsor/</loc>
@@ -1497,7 +1592,7 @@ I"“<h3>Where are tickets?</h3>
 
 ;T;	I"<%= xml_sitemap %>
 ;T;
-@(I"/sponsor/;T{;{	;I"*<!DOCTYPE html>
+@(I"/sponsor/;T{;{	;I"U/<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1594,7 +1689,7 @@ I"“<h3>Where are tickets?</h3>
   	<div class="row">
 
       <div class="four columns">
-        <h1><a href="/call/" class="small-title black">Call for paper</a></h1>
+        <h1 class="small-title"><a href="/call/" class="black">Call for paper</a></h1>
         <h4 class="subheader">
           Do you have an interesting talk? <br/>
           <a href="/call/">Send us</a> your cool idea! The
@@ -1607,7 +1702,26 @@ I"“<h3>Where are tickets?</h3>
         <!--<h4 class="subheader">-->
           <!--Don't miss the Italian conference about Ruby and Rails.-->
           <!--<a href="/register/">Register</a> and invite your friends!-->
-        <!--</h4>-->
+          <!--</h4>-->
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
+              <h4>Subscribe to our mailing list</h4>
+              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+              <div>
+                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
+                <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
+              <!-- </div>-->
+              <!-- <div id="mce-responses" class="clear">-->
+              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
+              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
+              <!-- </div>-->
+              <!-- <div>-->
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
 			</div>
 
       <div class="four columns">
