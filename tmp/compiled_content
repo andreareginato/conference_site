@@ -1,4 +1,4 @@
-{:	data{I"/call/:ET{:default{	:	lastI"E+<!DOCTYPE html>
+{:	data{I"/call/:ET{:default{	:	lastI")<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -113,16 +113,8 @@
           <div id="mc_embed_signup">
             <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
               <h4>Subscribe to our mailing list</h4>
-              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
               <div>
-                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
                 <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
-              <!-- </div>-->
-              <!-- <div id="mce-responses" class="clear">-->
-              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
-              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
-              <!-- </div>-->
-              <!-- <div>-->
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
               </div>
             </form>
@@ -310,7 +302,7 @@
                     'header':'show'});
   z7x3k1.display();
 </script>;T:	post@
-I"/help/;T{;{	;I"¡*<!DOCTYPE html>
+I"/help/;T{;{	;I"É(<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -425,16 +417,8 @@ I"/help/;T{;{	;I"¡*<!DOCTYPE html>
           <div id="mc_embed_signup">
             <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
               <h4>Subscribe to our mailing list</h4>
-              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
               <div>
-                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
                 <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
-              <!-- </div>-->
-              <!-- <div id="mce-responses" class="clear">-->
-              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
-              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
-              <!-- </div>-->
-              <!-- <div>-->
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
               </div>
             </form>
@@ -589,7 +573,7 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 <h3>Spread the word.</h3>
 <p class="section">
   Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
-</p>;T;@I"/;T{;{	;I"ì-<!DOCTYPE html>
+</p>;T;@I"/;T{;{	;I"U+<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -704,16 +688,8 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
           <div id="mc_embed_signup">
             <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
               <h4>Subscribe to our mailing list</h4>
-              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
               <div>
-                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
                 <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
-              <!-- </div>-->
-              <!-- <div id="mce-responses" class="clear">-->
-              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
-              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
-              <!-- </div>-->
-              <!-- <div>-->
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
               </div>
             </form>
@@ -928,7 +904,7 @@ I"<h3>Why are we here?</h3>
 <h3>Students and professors</h3>
 <p class="section">
   Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  ‚Üí</a>
-</p>;T;@I"/info/;T{;{	;I"À1<!DOCTYPE html>
+</p>;T;@I"/info/;T{;{	;I"ç/<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1043,16 +1019,8 @@ I"<h3>Why are we here?</h3>
           <div id="mc_embed_signup">
             <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
               <h4>Subscribe to our mailing list</h4>
-              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
               <div>
-                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
                 <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
-              <!-- </div>-->
-              <!-- <div id="mce-responses" class="clear">-->
-              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
-              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
-              <!-- </div>-->
-              <!-- <div>-->
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
               </div>
             </form>
@@ -1264,7 +1232,7 @@ I"S	<h3>Info about the conderence?</h3>
 <!--<p class="section">-->
   <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
   <!--<a href="#" >Find more  ‚Üí</a>-->
-<!--</p>-->;T;@I"/register/;T{;{	;I"˘,<!DOCTYPE html>
+<!--</p>-->;T;@I"/register/;T{;{	;I"ª*<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1379,16 +1347,8 @@ I"S	<h3>Info about the conderence?</h3>
           <div id="mc_embed_signup">
             <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
               <h4>Subscribe to our mailing list</h4>
-              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
               <div>
-                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
                 <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
-              <!-- </div>-->
-              <!-- <div id="mce-responses" class="clear">-->
-              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
-              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
-              <!-- </div>-->
-              <!-- <div>-->
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
               </div>
             </form>
@@ -1592,7 +1552,7 @@ I"ì<h3>Where are tickets?</h3>
 
 ;T;	I"<%= xml_sitemap %>
 ;T;
-@(I"/sponsor/;T{;{	;I"U/<!DOCTYPE html>
+@(I"/sponsor/;T{;{	;I"-<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1707,16 +1667,8 @@ I"ì<h3>Where are tickets?</h3>
           <div id="mc_embed_signup">
             <form action="http://rubyday.us4.list-manage.com/subscribe/post?u=c9c6cfcde0d5ae20f60be2174&amp;id=d8e33dce43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="nice" target="_blank" style="display:inline">
               <h4>Subscribe to our mailing list</h4>
-              <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
               <div>
-                <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
                 <input type="email" placeholder="your email here" value="" name="EMAIL" class="input-text" id="mce-EMAIL">
-              <!-- </div>-->
-              <!-- <div id="mce-responses" class="clear">-->
-              <!--   <div class="alert-box error" id="mce-error-response" style="display:none"></div>-->
-              <!--   <div class="alert-box success" id="mce-success-response" style="display:none"></div>-->
-              <!-- </div>-->
-              <!-- <div>-->
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
               </div>
             </form>
