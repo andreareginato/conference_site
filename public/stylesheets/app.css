@@ -69,3 +69,15 @@ p { font-size: 14px !important; line-height: 22px !important; }
 #gmap_canvas {
   border: 2px solid #e10000;
 }
+
+/*	--------------------------------------------------
+	:: MailChimp div
+	-------------------------------------------------- */
+#mc_embed_signup.panel {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#mce-EMAIL {
+  width: 95%;
+}
