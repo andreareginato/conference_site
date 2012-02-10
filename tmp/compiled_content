@@ -1,4 +1,4 @@
-{:	data{I"/call/:ET{:default{	:	lastI"¿(<!DOCTYPE html>
+{:	data{I"/call/:ET{:default{	:	lastI"É(<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -79,12 +79,12 @@
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <a href="/info/">
-              Milan <span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">15 June 2012</span>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza<br />
-            20126
+            Piazza della Scienza </br>
+            20126 Milano
           </h4>
 				</div>
 			</div>
@@ -301,7 +301,7 @@
                     'header':'show'});
   z7x3k1.display();
 </script>;T:	post@
-I"/help/;T{;{	;I";(<!DOCTYPE html>
+I"/help/;T{;{	;I"E(<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -382,12 +382,12 @@ I"/help/;T{;{	;I";(<!DOCTYPE html>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <a href="/info/">
-              Milan <span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">15 June 2012</span>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza<br />
-            20126
+            Piazza della Scienza </br>
+            20126 Milano
           </h4>
 				</div>
 			</div>
@@ -571,7 +571,7 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 <h3>Spread the word.</h3>
 <p class="section">
   Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
-</p>;T;@I"/;T{;{	;I"+<!DOCTYPE html>
+</p>;T;@I"/;T{;{	;I"+<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -652,12 +652,12 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <a href="/info/">
-              Milan <span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">15 June 2012</span>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza<br />
-            20126
+            Piazza della Scienza </br>
+            20126 Milano
           </h4>
 				</div>
 			</div>
@@ -901,7 +901,7 @@ I"<h3>Why are we here?</h3>
 <h3>Students and professors</h3>
 <p class="section">
   Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
-</p>;T;@I"/info/;T{;{	;I",<!DOCTYPE html>
+</p>;T;@I"/info/;T{;{	;I"%,<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -982,12 +982,12 @@ I"<h3>Why are we here?</h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <a href="/info/">
-              Milan <span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">15 June 2012</span>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza<br />
-            20126
+            Piazza della Scienza </br>
+            20126 Milano
           </h4>
 				</div>
 			</div>
@@ -1033,7 +1033,7 @@ I"<h3>Why are we here?</h3>
 
 		<div class="row content">
       <div class="eight columns">
-        <h3>Info about the conderence?</h3>
+        <h3>Info about the conference?</h3>
 
 <p class="section">
   Stay tuned! Some info will be given really soon!
@@ -1174,7 +1174,7 @@ I"<h3>Why are we here?</h3>
   </script>
 </body>
 </html>
-;T;	I")<h3>Info about the conderence?</h3>
+;T;	I")<h3>Info about the conference?</h3>
 
 <p class="section">
   Stay tuned! Some info will be given really soon!
@@ -1203,7 +1203,7 @@ I"<h3>Why are we here?</h3>
   <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
   <!--<a href="#" >Find more  â†’</a>-->
 <!--</p>-->;T;
-I")<h3>Info about the conderence?</h3>
+I")<h3>Info about the conference?</h3>
 
 <p class="section">
   Stay tuned! Some info will be given really soon!
@@ -1231,7 +1231,7 @@ I")<h3>Info about the conderence?</h3>
 <!--<p class="section">-->
   <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
   <!--<a href="#" >Find more  â†’</a>-->
-<!--</p>-->;T;@I"/register/;T{;{	;I"s*<!DOCTYPE html>
+<!--</p>-->;T;@I"/register/;T{;{	;I"}*<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1312,12 +1312,12 @@ I")<h3>Info about the conderence?</h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <a href="/info/">
-              Milan <span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">15 June 2012</span>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza<br />
-            20126
+            Piazza della Scienza </br>
+            20126 Milano
           </h4>
 				</div>
 			</div>
@@ -1524,22 +1524,22 @@ I"“<h3>Where are tickets?</h3>
   </url>
   <url>
     <loc>http://rubyday.it/</loc>
-    <lastmod>2012-01-16</lastmod>
+    <lastmod>2012-01-15</lastmod>
     <priority>1</priority>
   </url>
   <url>
     <loc>http://rubyday.it/info/</loc>
-    <lastmod>2012-02-09</lastmod>
+    <lastmod>2012-02-10</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/register/</loc>
-    <lastmod>2012-01-16</lastmod>
+    <lastmod>2012-01-15</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/sitemap.xml</loc>
-    <lastmod>2012-01-12</lastmod>
+    <lastmod>2011-12-29</lastmod>
   </url>
   <url>
     <loc>http://rubyday.it/sponsor/</loc>
@@ -1550,7 +1550,7 @@ I"“<h3>Where are tickets?</h3>
 
 ;T;	I"<%= xml_sitemap %>
 ;T;
-@(I"/sponsor/;T{;{	;I"Ï,<!DOCTYPE html>
+@(I"/sponsor/;T{;{	;I"Ù,<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1631,12 +1631,12 @@ I"“<h3>Where are tickets?</h3>
 				<div class="foundation-header no-border">
           <h1 class="small-title">
             <a href="/info/">
-              Milan <span class="small red-color">June 2012</span>
+              Milan <span class="small red-color">15 June 2012</span>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza<br />
-            20126
+            Piazza della Scienza </br>
+            20126 Milano
           </h4>
 				</div>
 			</div>
