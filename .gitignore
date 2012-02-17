@@ -1,4 +1,5 @@
 .bundle
+/bin
 /tmp
 *.DS_Store
 *.swp
