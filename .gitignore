@@ -1,5 +1,5 @@
 .bundle
-tmp/**/*
+/tmp
 *.DS_Store
 *.swp
 .rvmrc
