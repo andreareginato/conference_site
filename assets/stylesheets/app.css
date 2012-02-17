@@ -81,3 +81,27 @@ p { font-size: 14px !important; line-height: 22px !important; }
 #mce-EMAIL {
   width: 95%;
 }
+
+/*	--------------------------------------------------
+	:: Credits page
+	-------------------------------------------------- */
+.person {
+  clear: both; 
+  min-height: 6em;
+}
+
+.person a.name:hover {
+  color: #E10000;
+  text-decoration: underline;
+}
+
+.person > img {
+  height: 4.5em; 
+  float: left; 
+  border: 1px solid #e10000; 
+  margin-right: 1em;
+}
+
+.person p {
+  text-align: justify;
+}

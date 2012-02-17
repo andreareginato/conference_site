@@ -192,3 +192,11 @@ def derive_created_at(item)
   date
 end
 
+
+def twitter?(person)
+  person[:twitter] && (!person[:twitter].empty?)
+end
+
+def website?(person)
+  person[:website] && (!person[:website].empty?)
+end
