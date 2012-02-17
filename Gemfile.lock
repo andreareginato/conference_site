@@ -5,6 +5,7 @@ GEM
     cri (2.0.2)
     daemons (1.1.5)
     eventmachine (0.12.10)
+    fssm (0.2.8.1)
     mime-types (1.17.2)
     nanoc3 (3.2.4)
       cri (~> 2.0)
@@ -23,6 +24,7 @@ PLATFORMS
 
 DEPENDENCIES
   builder
+  fssm
   mime-types
   nanoc3
   rack
