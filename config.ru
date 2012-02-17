@@ -3,6 +3,8 @@
 require 'bundler'
 Bundler.require
 
+`bundle exec nanoc3 compile`
+
 use Rack::ETag
 module ::Rack
   class TryStatic < Static
