@@ -1,31 +1,33 @@
 title: Credits
 people:
-  - name: Name 2
-    gravatar_email: example@example.com
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - name: Matteo Collina
+    gravatar_email: matteo.collina@gmail.com
+    description: Visionary, Software Engineer and Ph.D. student.
     ref: {
-      twitter: rubydayit,
-      website: http://www.example.com
+      twitter: matteocollina,
+      website: http://www.matteocollina.com/
     }
-  - name: Name 1
-    description: Lorem ipsum dolor sit amet
+  - name: Andrea Reginato
+    gravatar_email: andrea.reginato@gmail.com
+    description: Web and Home Automation lover, now works in Milan at the <a href="http://lelylan.com" target="_blank">Lelylan</a> project con collaborate with the Statale di Milano University. I've experience in Domotics, Ruby, Rails, Javascript, Actionscript and Arduino.
     ref: {
-      twitter: rubydayit,
-      website: http://www.example.com
+      twitter: andreareginato,
+      website: http://flavors.me/andreareginato,
+      company: http://lelylan.com
     }
-  - name: Name 4
-    gravatar_email: example@example.com
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - name: Name 3
-    gravatar_email: example@example.com
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - name: Andrea Forni
+    gravatar_email: andrea.forni@gmail.com
+    description:
     ref: {
-      twitter: rubydayit
+      twitter: aforni
     }
-  - name: Name 5
-    gravatar_email: example@example.com
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - name: Elia Schito
+    gravatar_email: perlelia@gmail.com
+    description: A Ruby/Rails developer at <a href="http://mikamai.com/" target="_blank">Mikamai</a>, catholic, who loves his beautiful wife and his wonderful children.
     ref: {
-      twitter: rubydayit,
-      website: http://www.example.com
+      twitter: elia,
+      blog: http://elia.tumblr.com/,
+      website: http://elia.github.com/,
+      company: http://mikamai.com/
     }
+
