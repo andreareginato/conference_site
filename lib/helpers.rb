@@ -200,3 +200,7 @@ end
 def website?(person)
   person[:website] && (!person[:website].empty?)
 end
+
+def sort_by_name(people)
+  people.sort{|a, b| a[:name] <=> b[:name]}
+end

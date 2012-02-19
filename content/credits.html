@@ -9,13 +9,15 @@
     <h4>People</h4>
   </div>
 </div>
-<% @item[:people].each_slice(2) do |pair| %>
+<% sort_by_name(@item[:people]).each_slice(2) do |pair| %>
   <div class='row'>
     <div class='six columns'>
       <%= render('/partials/person/', person: pair[0]) %>
     </div>
     <div class='six columns'>
-      <%= render('/partials/person/', person: pair[1]) %>
+      <% unless pair[1].nil? %>
+        <%= render('/partials/person/', person: pair[1]) %>
+      <% end %>
     </div>
   </div>
 <% end %>
