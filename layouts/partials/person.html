@@ -1,18 +1,14 @@
 <div class='person'>
   <img src='/images/avatar.gif' alt="<%= person[:name] %>" />
-  <% if website?(person) %>
-    <a class="name" href='<%= person[:website] %>' target='_blank'>
-      <h5 class='red-color'>
-        <%= person[:name] %> &#x21d7;
-      </h5>
-    </a>
-  <% else %>
-    <h5 class='red-color'><%= person[:name] %></h5>
-  <% end %>
-  <% if twitter?(person) %>
-    <a href='http://twitter.com/<%= person[:twitter] %>' target='_blank'>
-      @<%= person[:twitter] %>
-    </a>
-  <% end %>
+  <h5 class='red-color'><%= person[:name] %></h5>
   <p><%= person[:description] %></p>
+  <% unless person[:ref].nil? %>
+    <dl class="ref">
+      <% person[:ref].each do |key, val| %>
+        <% url, content = url_and_content(key, val) %>
+        <dt><%= key.capitalize %></dt>
+        <dd><a href='<%= url %>' target="_blank" ><%= content %></a></dd>
+      <% end %>
+    </dl>
+  <% end %>
 </div>

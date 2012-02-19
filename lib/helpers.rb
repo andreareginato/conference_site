@@ -179,6 +179,15 @@ def name(item)
   item.identifier.split("/").last 
 end
 
+def sort_by_name(people)
+  people.sort{|a, b| a[:name] <=> b[:name]}
+end
+
+def url_and_content(key, value)
+  return ["http://twitter.com/#{value}", "@#{value}"] if key == :twitter
+  return [value, value]
+end
+
 private
 
 def derive_created_at(item)
@@ -192,15 +201,3 @@ def derive_created_at(item)
   date
 end
 
-
-def twitter?(person)
-  person[:twitter] && (!person[:twitter].empty?)
-end
-
-def website?(person)
-  person[:website] && (!person[:website].empty?)
-end
-
-def sort_by_name(people)
-  people.sort{|a, b| a[:name] <=> b[:name]}
-end

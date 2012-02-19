@@ -1,28 +1,27 @@
 title: Credits
 people:
   - name: Name 2
-    website: http://www.example.com
-    twitter: rubydayit
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    ref: {
+      twitter: rubydayit,
+      website: http://www.example.com
+    }
   - name: Name 1
-    website: http://www.example.com
-    twitter: rubydayit
     description: Lorem ipsum dolor sit amet
+    ref: {
+      twitter: rubydayit,
+      website: http://www.example.com
+    }
   - name: Name 4
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   - name: Name 3
-    website:
-    twitter: rubydayit
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    ref: {
+      twitter: rubydayit
+    }
   - name: Name 5
-    website: http://www.example.com
-    twitter: rubydayit
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - name: Name 6
-    website: http://www.example.com
-    twitter: rubydayit
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - name: Name 8
-    website: http://www.example.com
-    twitter:
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    ref: {
+      twitter: rubydayit,
+      website: http://www.example.com
+    }
