@@ -1,5 +1,5 @@
 <div class='person'>
-  <img src='/images/avatar.gif' alt="<%= person[:name] %>" />
+  <img src='<%= url_avatar(person) %>' alt="<%= person[:name] %>" />
   <h5 class='red-color'><%= person[:name] %></h5>
   <p><%= person[:description] %></p>
   <% unless person[:ref].nil? %>

@@ -1,6 +1,7 @@
 title: Credits
 people:
   - name: Name 2
+    gravatar_email: example@example.com
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     ref: {
       twitter: rubydayit,
@@ -13,13 +14,16 @@ people:
       website: http://www.example.com
     }
   - name: Name 4
+    gravatar_email: example@example.com
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   - name: Name 3
+    gravatar_email: example@example.com
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     ref: {
       twitter: rubydayit
     }
   - name: Name 5
+    gravatar_email: example@example.com
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     ref: {
       twitter: rubydayit,
