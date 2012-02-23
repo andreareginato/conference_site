@@ -34,6 +34,7 @@ function initialize() {
 
   var infoWindowContent = '<div id="gmap_info_window_content">' +
       '<h4 class="red-color">Italian Ruby Day</h4>' +
+      '<strong>Edificio U2</strong><br />' +
       'Piazza della Scienza<br />' +
       '20126, Milano<br />' +
       '<a href="http://maps.google.it/maps/place?q=Universit%C3%A0+degli+Studi+di+Milano-Bicocca,+Piazza+della+Scienza,+20126+Milano,+Lombardia&hl=it&ie=UTF8&ftid=0x4786c747fd941b5d:0x961404e5f7983940" target="_blank">Google Maps &#x2192;</a>' +
