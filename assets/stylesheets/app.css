@@ -103,3 +103,8 @@ p { font-size: 14px !important; line-height: 22px !important; }
   margin-right: 1em;
 }
 
+/*	--------------------------------------------------
+	:: Sponsors' column
+	-------------------------------------------------- */
+dl.tabs.sponsors dd a { text-align: center; }
+dl.tabs.sponsors dd a.active { text-align: left; }
