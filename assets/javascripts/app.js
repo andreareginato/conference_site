@@ -19,7 +19,7 @@ $(document).ready(function () {
 		$(contentLocation).show();
 	}
 
-	$('dl.tabs').each(function () {
+	$('dl.tabs:not(.inactive)').each(function () {
 		//Get all tabs
 		var tabs = $(this).children('dd').children('a');
 		tabs.click(function (e) {
