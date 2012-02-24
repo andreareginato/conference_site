@@ -108,3 +108,7 @@ p { font-size: 14px !important; line-height: 22px !important; }
 	-------------------------------------------------- */
 dl.tabs.sponsors dd a { text-align: center; }
 dl.tabs.sponsors dd a.active { text-align: left; }
+
+div.sponsors img {
+  border: 2px solid #E10000;
+}
