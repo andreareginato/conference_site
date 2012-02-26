@@ -1,0 +1,33 @@
+<div class='row'>
+  <div class='twelve columns'>
+    <h3>Credits</h3>
+    <p class="section">This page gathers all the people and resources which made this event possible.</p>
+  </div>
+</div>
+<div class='row'>
+  <div class='twelve columns'>
+    <hr />
+    <h4>People</h4>
+  </div>
+</div>
+<% sort_by_name(@item[:people]).each_slice(2) do |pair| %>
+  <div class='row'>
+    <div class='six columns'>
+      <%= render('/partials/person/', person: pair[0]) %>
+    </div>
+    <div class='six columns'>
+      <% unless pair[1].nil? %>
+        <%= render('/partials/person/', person: pair[1]) %>
+      <% end %>
+    </div>
+  </div>
+<% end %>
+<div class='row'>
+  <div class='twelve columns'>
+    <hr />
+    <h4>Resources</h4>
+    <p>
+      Thanks to <a href="http://www.fatcow.com" target="_blank">FatCow</a>, and its "<em><a href="http://www.fatcow.com/free-icons" target="_blank" >Farm-Fresh Web Icons</a></em>" icon set, for the ruby icon used as favicon for the website and as Google Maps' pin in the <a href="/info/">info</a> page.
+    </p>
+  </div>
+</div>
