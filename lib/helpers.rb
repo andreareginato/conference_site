@@ -190,7 +190,7 @@ end
 
 def url_avatar(person)
   return gravatar(person[:gravatar_email]) if gravatar?(person)
-  return '/images/avatar.gif'
+  return 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm'
 end
 
 private
