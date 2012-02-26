@@ -17,9 +17,10 @@ people:
     }
   - name: Andrea Forni
     gravatar_email: andrea.forni@gmail.com
-    description:
+    description: Passionate developer, loves web technologies, Ruby, test driven development and writing clean code. Java developer on weekdays, hobbyist photographer on the weekend.
     ref: {
-      twitter: aforni
+      twitter: aforni,
+      website: http://www.andreaforni.com
     }
   - name: Elia Schito
     gravatar_email: perlelia@gmail.com
