@@ -149,8 +149,8 @@ p { font-size: 14px !important; line-height: 22px !important; }
 /*	--------------------------------------------------
 	:: Sponsors' column
 	-------------------------------------------------- */
-dl.tabs.sponsors dd a { text-align: center; }
-dl.tabs.sponsors dd a.active { text-align: left; }
+dl.tabs.companies dd a { text-align: center; }
+dl.tabs.companies dd a.active { text-align: left; }
 
-div.sponsors img {
+div.companies img {
   border: 2px solid #E10000;
