@@ -31,4 +31,12 @@ people:
       website: http://elia.github.com/,
       company: http://mikamai.com/
     }
+  - name: Fabio Cantoni
+    gravatar_email: cover3k@gmail.com
+    description: Startupper &amp; Ruby/Rails developer at day. A vampire at night.
+    ref: {
+      twitter: cover3k,
+      website: http://revoc.net/,
+      company: http://neonisi.com/
+    }
 
