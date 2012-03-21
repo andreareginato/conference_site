@@ -153,5 +153,5 @@ dl.tabs.companies dd a { text-align: center; }
 dl.tabs.companies dd a.active { text-align: left; }
 
 div.companies img {
-  border: 2px solid #E10000;
+  border: 1px solid #E10000;
 }
