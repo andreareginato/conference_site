@@ -13,8 +13,10 @@ p { font-size: 14px !important; line-height: 22px !important; }
 .big { font-size: 190% !important; }
 .no-border { border: none !important; }
 .content { margin-top: 30px; }
-.active.golden { background-color: #f5db00 !important; color: #444 !important; margin-top: 10px !important; }
-.active.silver { background-color: #969696 !important; color: #eee !important; }
+.active.platinum { background-color: gainsboro !important; color: #444 !important; }
+.active.golden { background-color: #f5db00 !important; color: #444 !important; }
+.active.silver { background-color: #969696 !important; color: white !important; }
+.active.bronze { background-color: #A57164 !important; color: white !important; }
 .section { margin-bottom: 40px !important; }
 
 /*	--------------------------------------------------
