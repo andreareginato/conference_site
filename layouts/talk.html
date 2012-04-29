@@ -19,17 +19,13 @@
       </div>
       <div class="description">
         <h4>Description</h4>
-        <% talk[:abstract].each do |p| %>
-        <p><%= p %></p>
-        <% end %>
+        <%= markdown(talk[:abstract]) %>
       </div>
       <div class="authors">
         <h4>Author</h4>
         <div class="author">
           <h5><%= talk[:author][:name] %></h5>
-          <% talk[:author][:bio].each do |p| %>
-          <p><%= p %></p>
-          <% end %>
+          <%= markdown(talk[:author][:bio]) %>
           <h6>Contacts</h6>
           <ul class="contacts">
             <% if talk[:author][:twitter] %>

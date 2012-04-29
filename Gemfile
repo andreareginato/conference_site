@@ -4,6 +4,7 @@ gem 'rack'
 gem 'rake'
 gem 'nanoc3'
 gem 'builder'
+gem 'kramdown'
 
 # Thin to serve content from Heroku
 gem 'thin'

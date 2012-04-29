@@ -4,6 +4,7 @@ include Nanoc3::Helpers::XMLSitemap
 require 'builder'
 require 'fileutils'
 require 'time'
+require 'kramdown'
 
 # Hyphens are converted to sub-directories in the output folder.
 #
@@ -193,7 +194,9 @@ def url_avatar(person)
   return 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm'
 end
 
-private
+def markdown(text)
+  Kramdown::Document.new(text).to_html
+end
 
 def derive_created_at(item)
   parts = item.identifier.gsub('-', '/').split('/')[1,3]

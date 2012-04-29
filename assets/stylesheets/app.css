@@ -159,7 +159,7 @@ div.companies img {
 }
 
 /*	--------------------------------------------------
-	:: Talks' column
+	:: Schedule
 	-------------------------------------------------- */
 div#schedule > .columns > .row > .columns > div {
   padding: 5px 7px;
@@ -196,12 +196,21 @@ div#schedule > .columns > .row > .columns > div.talk a {
   text-decoration: none;
 }
 
+/*	--------------------------------------------------
+	:: Talk
+	-------------------------------------------------- */
 .talk .header .authors {
   margin-bottom: 0;
 }
 
 .talk p {
   text-align: justify;
+}
+
+.talk ul {
+  font-size: 14px !important;
+  margin-left: 30px !important;
+	list-style: disc outside !important;
 }
 
 .talk .authors .author {
