@@ -28,7 +28,7 @@
     :email: andrea.granata@zephirworks.com
 - :id: 5
   :track_num: 0
-  :title: "Se\xC3\xB1or Ruby Hacker at Mikamai"
+  :title: Rails Views for the OO-savvy Rubyist
   :abstract: "Le viste di Rails dovrebbero avere un'API, lo stato corrente dell'implementazione stessa lo suggerisce (<a href='http://elia.tumblr.com/post/17314789432/dont-use-ivars-in-rails-controllers' target='_blank'>Don't use instance variables into Rails controllers</a> e <a href='http://elia.tumblr.com/post/17547757285/another-reason-to-avoid-instance-variables-into-rails' target='_blank'>Another reason to avoid instance variables into Rails controllers</a>), esistono una serie di soluzioni (presenter, helper_method, locals, ...). La talk cercher\xC3\xA0 di aiutare a capire il problema, analizzare le soluzioni disponibili eventualmente suggerendone una in particolare."
   :from: XX:XX
   :to: YY:YY
