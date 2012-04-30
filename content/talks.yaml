@@ -110,3 +110,14 @@
     :twitter: myabc
     :github: myabc
     :email: alex.coles@gmail.com
+- :id: 22
+  :track_num: 0
+  :title: Responsive Webapps and Websites with Rails and Spine.JS
+  :abstract: "Websites and webapps use the same backend but display the content differently. Using some emerging technologies is possible to bind these 2 worlds in the same infrastructure limiting the feature duplications (client and server side) and reduce the risk of SEO penalizations."
+  :from: XX:XX
+  :to: YY:YY
+  :author: 
+    :name: Luigi Maselli
+    :bio: "I'm a technology geek and web developer, I got a Computer Science degree at Università di Torino. I'm involved in many Free and Open Source activities like Linux Day Torino, Open Geek Meeting, I spread my thoughts via my blog and I'm a consultant Freelance."
+    :twitter: grigi0
+    :email: andrea.ribuoli@ngi.it
