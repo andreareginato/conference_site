@@ -198,6 +198,11 @@ def markdown(text)
   Kramdown::Document.new(text).to_html
 end
 
+def flag(lang = :it, size = 16)
+  "<img src='/images/flags/#{lang}_#{size}px.png' alt='#{lang} flag' class='flag'/>"
+end
+
+private
 def derive_created_at(item)
   parts = item.identifier.gsub('-', '/').split('/')[1,3]
   date = '1980/1/1'

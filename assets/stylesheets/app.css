@@ -196,6 +196,11 @@ div#schedule > .columns > .row > .columns > div.talk a {
   text-decoration: none;
 }
 
+div#schedule img.flag {
+  vertical-align:middle;
+  padding-right: 5px;
+}
+
 /*	--------------------------------------------------
 	:: Talk
 	-------------------------------------------------- */
