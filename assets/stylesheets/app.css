@@ -197,13 +197,16 @@ div#schedule > .columns > .row > .columns > div.talk a {
 }
 
 div#schedule img.flag {
-  vertical-align:middle;
+  vertical-align: middle;
   padding-right: 5px;
 }
 
 /*	--------------------------------------------------
 	:: Talk
 	-------------------------------------------------- */
+.talk .header img.flag {
+  padding-right: 0.5em;
+}
 .talk .header .authors {
   margin-bottom: 0;
 }

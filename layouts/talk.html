@@ -27,7 +27,7 @@
   <div class="twelve columns">
     <div>
       <div class="header">
-        <h3 class='red-color'><%= talk[:title] %></h3>
+        <h3 class='red-color'><%= flag(talk[:lang], 32) %><%= talk[:title] %></h3>
         <h3 class='subheader red-color authors'><%= talk[:author][:name]%></h3>
         <h3 class='subheader'>from <%= talk[:from] %> to <%= talk[:to] %></h3>
       </div>
