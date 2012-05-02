@@ -12,9 +12,15 @@ def generate_talks(yaml_file_path)
                                 "/talks/#{talk[:id]}/",
                                 mtime: mtime)
   end
+  add_talks_list_to_schedule_page(data)
 end
 
 private
+def add_talks_list_to_schedule_page(data)
+  schedule_item = @items.find {|item| item.identifier == '/schedule/'}
+  schedule_item.attributes[:talks] = data[:talks]
+end
+
 def load_data_from_file(yaml_file_path)
   content = File.open(yaml_file_path) {|f| f.read}
   return YAML::load(content)

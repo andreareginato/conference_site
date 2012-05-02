@@ -202,6 +202,11 @@ def flag(lang = :it, size = 16)
   "<img src='/images/flags/#{lang}_#{size}px.png' alt='#{lang} flag' class='flag'/>"
 end
 
+def talk_title(id)
+  talk = @item[:talks].find(){|talk| talk[:id] == id}
+  "<a href='/talks/#{id}/' id='talk_#{id}'>#{flag(talk[:lang])}#{talk[:title]}</a>"
+end
+
 private
 def derive_created_at(item)
   parts = item.identifier.gsub('-', '/').split('/')[1,3]
