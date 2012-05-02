@@ -4,20 +4,6 @@
     <hr />
   </div>
 </div>
-<!-- TODO: remove, only for debug: START -->
-<div class="row">
-  <div class="twelve columns" style='font-size: 18px'>
-    <% talks.each do |t| %>
-      <% if t[:id] == talk[:id] %>
-        <strong><%= t[:id] %></strong>
-      <% else %>
-        <a href='/talks/<%= t[:id] %>/'><%= t[:id] %></a>
-      <% end %>
-      &nbsp;&nbsp;
-    <% end %>
-  </div>
-</div>
-<!-- TODO: remove, only for debug: END -->
 <div class='row back_schedule'>
   <div class='twelve columns'>
     <a href='/schedule/#talk_<%= talk[:id] %>'>&#8592; back to schedule</a>

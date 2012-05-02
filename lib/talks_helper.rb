@@ -7,7 +7,7 @@ def generate_talks(yaml_file_path)
   mtime = [yaml_file_path, 'layouts/talk.html'].collect{|f| File.mtime(f)}.max
 
   data[:talks].each do |talk|
-    @items << Nanoc3::Item.new("<%= render 'talk', talk: #{talk}, talks: #{data[:talks]} %>",
+    @items << Nanoc3::Item.new("<%= render 'talk', talk: #{talk} %>",
                                 {title: "Italian Ruby Day | #{talk[:title]}", priority: '0.6'},
                                 "/talks/#{talk[:id]}/",
                                 mtime: mtime)
