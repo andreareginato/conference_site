@@ -122,4 +122,16 @@
     :bio: "I am a 23 year old programmer hailing from Norfolk, Virginia, USA. I work at a Ruby/Rails and iOS consultancy serving clients all around the world. I believe firmly in test driven development, pragmatic programming, and making customers happy. I hold a BS in Electrical Engineering and a MS in Theoretical Mathematics. My hobbies include programming, traveling, and learning languages."
     :twitter: zsiec
     :github: zsiec
+- :id: 40
+  :track_num: 0
+  :lang: it
+  :title: "Lavorare in una startup: un'opportunità concreta"
+  :abstract: "Ancora oggi un gran numero di sviluppatori software italiani non considerano le startup innovative tecnologiche come una seria e concreta possibilità di sviluppo professionale, preferendo di gran lunga, se messi realmente di fronte alla scelta, un posto in aziende più strutturate e di brand riconosciuto. In questo speech si forniranno alcuni elementi che possano aiutare gli sviluppatori a riflettere criticamente su una scelta che può avere una grande influenza sul proseguo del proprio cammino professionale."
+  :from: XX:XX
+  :to: YY:YY
+  :author:
+    :name: Augusto Coppola
+    :bio: ""
+    :twitter:
+    :github:
 
