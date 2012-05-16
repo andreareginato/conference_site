@@ -38,18 +38,6 @@
     :bio: A Ruby/Rails developer, catholic, who loves his beautiful wife and his wonderful children.
     :twitter: elia
     :github: elia
-- :id: 10
-  :track_num: 0
-  :lang: en
-  :title: Message in a bottle
-  :abstract: What does really happen when we call a method? How do the different Ruby implementations actually figure out what code to execute? What plumbing is going on under the hood to get a speedy dispatch? In this talk we will have alook at the internals of the the major Ruby implementations, focusing on their dispatch. From look-up tables and call site caches, to inlining and what on earth is invokedynamic? Fear not, all will be explained!
-  :from: XX:XX
-  :to: YY:YY
-  :author:
-    :name: Konstantin Haase
-    :bio: As current maintainer of Sinatra, Konstantin is an Open Source developer by heart. Ruby has become his language of choice since 2005. He regularly contributes to different widespread projects, like Rubinius, Rack, Travis, Rails and MRI. He currently holds the position of "Berry Sparkling Lord" at Travis CI.
-    :twitter: konstantinhaase
-    :github: rkh
 - :id: 11
   :track_num: 0
   :lang: en
@@ -64,7 +52,7 @@
     :github: joaomdmoura
 - :id: 13
   :track_num: 0
-  :lang: en
+  :lang: 
   :title: Enter the App Era with Ruby on Rails
   :abstract: Have you ever built a mobile app? Or a web app? Do you know how to build a single backend for supporting your web and mobile needs? In this speech we will discover how to build a simple application as a REST API in Ruby on Rails, and expose it as a web and a mobile app. We will see how to design and test REST APIs in a pure BDD style, using Cucumber and RSpec.
   :from: XX:XX
@@ -74,18 +62,6 @@
     :bio: "I\xE2\x80\x99m a software engineer with a passion for coding, distributed architecture and agile methodologies. I\xE2\x80\x99ve worked with a wide range of technologies (Java, Ruby, Javascript, Node.js) applying them to various fields (bank, turism, real estate). In 2011 I held a talk about mobile web development with Sencha Touch and Ruby at the WhyMCA and RubyDay.it conferences. I'm also one of the organizers of the RubyDay.it conference."
     :twitter: matteocollina
     :github: mcollina
-- :id: 20
-  :track_num: 0
-  :lang: en
-  :title: Evented Ruby vs Node.js
-  :abstract: "While Node.js is the hot new kid on the block, evented libraries like EventMachine for Ruby and Twisted for Python have existed for a long time. When does it make sense to use one over the other? What are the advantages and disadvantages to using node over ruby? In this talk, you will learn how to get the same power of concurrency enjoyed by Node.js while continuing to write in the language you know and love. Topics covered will include pubsub with redis or faye, building evented rack applications, and running evented applications alongside existing Rails apps. Notes: The talk assumes some basic knowledge of evented libraries, but will cover the basic concepts in the intro. The talk is targeted at ruby developers who would like to gain the performance benefits of node.js, but still continue to write ruby. I'll show popular node.js examples and how to accomplish the same tasksin ruby. Some of the technologies I'd like to showcase:\n\n* Rack::FiberPool - making any rack app fiber aware\n\n* Redis pubsub\n\n* Faye pubsub - rackable pubsub library with ruby and javascript clients\n\n* Sinatra::Synchrony - async sinatra\n\n* Faraday - http client with async adapter, with an example of how to write async rack middleware\n\n* Grape - ruby API framework that can deliver json responses to popular JS frameworks like Backbone and Ember.js"
-  :from: XX:XX
-  :to: YY:YY
-  :author:
-    :name: Jerry Cheung
-    :bio: Jerry Cheung splits his time as a co-founder of Opperator and a developer atIntridea. He is a co-author of the upcoming MacRuby in Action book, and likes contributing to open source. He's currently dabbling in evented Ruby and Grape driven webapps. When he's not coding, he stalks awesome cars in Southern California and writes about them in RockyRoadBlog.
-    :twitter: whatcodecraves
-    :github: jch
 - :id: 25
   :track_num: 0
   :lang: it
@@ -134,4 +110,27 @@
     :bio: ""
     :twitter:
     :github:
-
+- :id: 22
+  :track_num: 0
+  :lang: it
+  :title: "Responsive Webapps and Websites with Rails and Spine.JS"
+  :abstract: "Websites and webapps use the same backend but display the content differently. Using some emerging technologies is possible to bind these 2 worlds in the same infrastructure limiting the feature duplications (client and server side) and reduce the risk of SEO penalizations."
+  :from: XX:XX
+  :to: YY:YY
+  :author:
+    :name: Luigi Maselli
+    :bio: "I'm a technology geek and web developer, I got a Computer Science degree at Università di Torino. I'm involved in many Free and Open Source activities like Linux Day Torino, Open Geek Meeting, I spread my thoughts via my blog and I'm a consultant Freelance."
+    :twitter: grigi0
+    :github:
+- :id: 50
+  :track_num: 0
+  :lang: en
+  :title: "Guerrilla Teamwork"
+  :abstract: "Autonomy is vital for smart self-starters and young companies often get this right; but scaling makes it's easy to revert to traditional management styles that takes away this freedom. Key to our success, Guerrilla Teamwork lets us capitalize on our growing talent pool while keeping our autonomy. In this talk, I'll share how GitHub manages to stay productive and organized without managers or a rigid hierarchy, from the perspective of the individual."
+  :from: XX:XX
+  :to: YY:YY
+  :author:
+    :name: Matt Todd
+    :bio: "Matt Todd, a Developer at GitHub, is an experienced and passionate Open Source advocate. Originally from Atlanta, Matt moved to San Francisco last year to help build the next generation of GitHub's Enterprise product. Building web applications and development tools for the past decade, he's driven to share his experiences and the knowledge gained. "
+    :twitter: 
+    :github:
