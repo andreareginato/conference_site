@@ -1,0 +1,49 @@
+<div class='row'>
+  <div class='twelve columns'>
+    <h2><%= talk[:track] %></h2>
+    <hr />
+  </div>
+</div>
+<div class='row back_schedule'>
+  <div class='twelve columns'>
+    <a href='/schedule/#talk_<%= talk[:id] %>'>&#8592; back to schedule</a>
+  </div>
+</div>
+<div class="row talk">
+  <div class="twelve columns">
+    <div>
+      <div class="header">
+        <h3 class='red-color'><%= flag(talk[:lang], 32) %><%= talk[:title] %></h3>
+        <h3 class='subheader red-color authors'><%= talk[:author][:name]%></h3>
+        <h3 class='subheader'>from <%= talk[:from] %> to <%= talk[:to] %></h3>
+      </div>
+      <div class="description">
+        <h4>Description</h4>
+        <%= markdown(talk[:abstract]) %>
+      </div>
+      <div class="authors">
+        <h4>Author</h4>
+        <div class="author">
+          <h5><%= talk[:author][:name] %></h5>
+          <%= markdown(talk[:author][:bio]) %>
+          <% if talk[:author][:twitter] || talk[:author][:github] %>
+          <h6>Contacts</h6>
+          <ul class="contacts">
+            <% if talk[:author][:twitter] %>
+            <li>Twitter: <a href='http://twitter.com/<%= talk[:author][:twitter] %>' target="_blank">@<%=talk[:author][:twitter]%></a></li>
+            <% end %>
+            <% if talk[:author][:github] %>
+            <li>Github: <a href='https://github.com/<%= talk[:author][:github] %>' target="_blank">https://github.com/<%= talk[:author][:github] %></a></li>
+            <% end %>
+          </ul>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='row back_schedule'>
+  <div class='twelve columns'>
+    <a href='/schedule/#talk_<%= talk[:id] %>'>&#8592; back to schedule</a>
+  </div>
+</div>

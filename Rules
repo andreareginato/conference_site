@@ -3,8 +3,13 @@
 # General
 preprocess do
   copy_static # add assets to the output directory
+  generate_talks('content/talks.yaml') # generate the talks' page dynamically
 end
 
+# The /talks/index.html must not be generated
+route '/talks/' do
+  nil
+end
 
 # Sitemap
 compile '/sitemap/' do
@@ -16,7 +21,7 @@ route '/sitemap/' do
 end
 
 
-# General 
+# General
 compile '*' do
   filter :erb
   layout 'default'

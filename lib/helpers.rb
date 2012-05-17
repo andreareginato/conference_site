@@ -4,6 +4,7 @@ include Nanoc3::Helpers::XMLSitemap
 require 'builder'
 require 'fileutils'
 require 'time'
+require 'kramdown'
 
 # Hyphens are converted to sub-directories in the output folder.
 #
@@ -193,8 +194,21 @@ def url_avatar(person)
   return 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm'
 end
 
-private
+def markdown(text)
+  Kramdown::Document.new(text).to_html
+end
 
+def flag(lang = :it, size = 16)
+  return "&lt;NULL&gt; " if lang.nil?
+  "<img src='/images/flags/#{lang}_#{size}px.png' alt='#{lang} flag' class='flag'/>"
+end
+
+def talk_title(id)
+  talk = @item[:talks].find(){|talk| talk[:id] == id}
+  "<a href='/talks/#{id}/' id='talk_#{id}'>#{flag(talk[:lang])}#{talk[:title]}</a>"
+end
+
+private
 def derive_created_at(item)
   parts = item.identifier.gsub('-', '/').split('/')[1,3]
   date = '1980/1/1'

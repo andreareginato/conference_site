@@ -6,6 +6,7 @@ GEM
     daemons (1.1.5)
     eventmachine (0.12.10)
     fssm (0.2.8.1)
+    kramdown (0.13.5)
     mime-types (1.17.2)
     nanoc3 (3.2.4)
       cri (~> 2.0)
@@ -25,6 +26,7 @@ PLATFORMS
 DEPENDENCIES
   builder
   fssm
+  kramdown
   mime-types
   nanoc3
   rack
