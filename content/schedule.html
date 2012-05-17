@@ -12,16 +12,16 @@ priority: 0.5
   <div class='twelve columns'>
     <div class='row'>
       <div class='two columns'></div>
-      <div class='five columns'><div><h5>Track #1 - Ruby Mine</h5></div></div>
-      <div class='five columns'><div><h5>Track #2 - Ruby Space</h5></div></div>
+      <div class='five columns'><div><h5>Track #1 - Ruby Space</h5></div></div>
+      <div class='five columns'><div><h5>Track #2 - Ruby Mine</h5></div></div>
     </div>
     <div class='row'>
       <div class='two columns'><div class='interval'>8.30 - 9.00</div></div>
-      <div class='ten columns'><div class='break'>Registrazione</div></div>
+      <div class='ten columns'><div class='break'>Registration</div></div>
     </div>
     <div class='row'>
       <div class='two columns'><div class='interval'>9.00 - 9.40</div></div>
-      <div class='ten columns'><div class='talk'>Giovanni Intini - Presentazione RubyDay.it, la storia della comunità Ruby in Italia.</div></div>
+      <div class='ten columns'><div class='talk'>Initial greetings</div></div>
     </div>
     <div class='row'>
       <div class='two columns'><div class='interval'>9.40 - 10.10</div></div>
@@ -29,57 +29,47 @@ priority: 0.5
     </div>
     <div class='row'>
       <div class='two columns'><div class='interval'>10.10 - 11.10</div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(2) %></div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(13) %></div></div>
       <div class='five columns'><div class='talk'><%= talk_title(4) %></div></div>
     </div>
     <div class='row'>
       <div class='two columns'><div class='interval'>11.10 - 12.10</div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(5) %></div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(5) %></div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(22) %></div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(12) %></div></div>
     </div>
     <div class='row'>
       <div class='two columns'><div class='interval'>12.10 - 13.10</div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(5) %></div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(2) %></div></div>
+    </div>
+    <div class='row'>
+      <div class='two columns'><div class='interval'>13.10 - 14.30</div></div>
+      <div class='ten columns'><div class='break'>Lunch</div></div>
+    </div>
+    <div class='row'>
+      <div class='two columns'><div class='interval'>14.30 - 15.30</div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(50) %></div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(25) %></div></div>
+    </div>
+    <div class='row'>
+      <div class='two columns'><div class='interval'>15.30 - 16.30</div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(40) %></div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(26) %></div></div>
+    </div>
+    <div class='row'>
+      <div class='two columns'><div class='interval'>16.30 - 17.30</div></div>
+      <div class='five columns'><div class='talk'><%= talk_title(51) %></div></div>
       <div class='five columns'><div class='talk'><%= talk_title(11) %></div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(13) %></div></div>
     </div>
     <div class='row'>
-      <div class='two columns'><div class='interval'>13.10 - 14.10</div></div>
-      <div class='ten columns'><div class='break'>Pausa pranzo</div></div>
+      <div class='two columns'><div class='interval'>17.30 - 18.00</div></div>
+      <div class='ten columns'><div class='break'>Final greetings and prizes</div></div>
+    </div>
+    <div class='row'>&nbsp;
     </div>
     <div class='row'>
-      <div class='two columns'><div class='interval'>14.10 - 15.10</div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(25) %></div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(25) %></div></div>
+      <div class='two columns'><div class='interval'>19.30+</div></div>
+      <div class='ten columns'><div class='break'>Dinner</div></div>
     </div>
-    <div class='row'>
-      <div class='two columns'><div class='interval'>15.10 - 16.10</div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(26) %></div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(12) %></div></div>
-    </div>
-    <div class='row'>
-      <div class='two columns'><div class='interval'>16.10 - 17.10</div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(26) %></div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(12) %></div></div>
-    </div>
-    <div class='row'>
-      <div class='two columns'><div class='interval'>17.10 - 18.10</div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(2) %></div></div>
-      <div class='five columns'><div class='talk'><%= talk_title(2) %></div></div>
-    </div>
-    <div class='row'>
-      <div class='two columns'><div class='interval'>18.10 - 18.30</div></div>
-      <div class='ten columns'><div class='break'>Saluti finali e distribuzione premi</div></div>
-    </div>
-  </div>
-</div>
-
-<div class='row'>
-  <div class='twelve columns'>
-    <h3>Talks (temporary, only for debug purpose)</h3>
-    <ul class="circle">
-      <% @item[:talks].each do |talk| %>
-      <li><%= talk_title(talk[:id].to_i) %></li>
-      <% end %>
-    </ul>
   </div>
 </div>
