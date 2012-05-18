@@ -105,10 +105,10 @@
   :title: "Lavorare in una startup: un'opportunità concreta"
   :abstract: "Ancora oggi un gran numero di sviluppatori software italiani non considerano le startup innovative tecnologiche come una seria e concreta possibilità di sviluppo professionale, preferendo di gran lunga, se messi realmente di fronte alla scelta, un posto in aziende più strutturate e di brand riconosciuto. In questo speech si forniranno alcuni elementi che possano aiutare gli sviluppatori a riflettere criticamente su una scelta che può avere una grande influenza sul proseguo del proprio cammino professionale."
   :from: "15:30"
-  :to: "16:30"
+  :to: "16:00"
   :author:
-    :name: Augusto Coppola + Sergio Berisso
-    :bio: "<p>Augusto:<br />Imprenditore e manager con un focus sull'execution. Ha fatto parte del team di fondatori di due start-up internazionali, spendendo una parte consistente degli ultimi 15 anni a presentare le proprie aziende a clienti, partner ed investitori in molti paesi europei, in America, Asia ed Africa. Questo background lo ha portato a maturare una solida esperienza nello sviluppo di aziende di prodotto riuscendo a coniugare gli aspetti tecnici e marketing, di team management e business development. Oltre che essere uno degli ideatori di InnovAction Lab, Augusto è co-chair della Governance di BAIA Italia, membro del comitato scientifico di Italia Camp, advisor di start-up ed investitori privati, consulente nonché speaker sui temi dell'innovazione e del rapporto tra start-up e Venture Capital. Laureato in Ingegneria, nel tempo libero ama stare in famiglia, i piaceri conviviali, la conversazione brillante e le lunghe passeggiate.</p><p>Sergio:<br />Sergio è appassionato di informatica e sviluppo software da tempo immemorabile. Ha iniziato giocando e scrivendo i primi programmi in basic su un Commodore VIC 20, a colpi di PEEK e POKE ha scoperto il fascino del linguaggio macchina e dei microprocessori 6502 – Z80. Da lì in poi è stato un susseguirsi di computer (C64, Amiga 500, Apple II C, i primi IBM PC compatibili) e di linguaggi (Pascal, Fortran, C, C++ , Modula 2, Lisp) passando per i gloriosi PDP-11 del centro di calcolo universitario. Fedeli compagni di questo tragitto le prime BBS, riviste come MC Microcomputer, Doctor Dobb’s Journal, i “garagisti” californiani Steve Wozniak & Steve Jobs. Catturato negli anni 90 da mega progetti enterprise dell’industria del software ha vagato per anni alla ricerca della vecchia passione che stava scemando finché nel 2004 si è scontrato con XP, Kent Beck ed i metodi agili. Un amore a prima vista ? Forse … o forse tutto riacquistava senso e la passione poteva coniugarsi nuovamente col lavoro. Oggi si diletta fra progetti software, Scrum, XP, Lean Development e startup.</p>"
+    :name: Augusto Coppola
+    :bio: "Imprenditore e manager con un focus sull'execution. Ha fatto parte del team di fondatori di due start-up internazionali, spendendo una parte consistente degli ultimi 15 anni a presentare le proprie aziende a clienti, partner ed investitori in molti paesi europei, in America, Asia ed Africa. Questo background lo ha portato a maturare una solida esperienza nello sviluppo di aziende di prodotto riuscendo a coniugare gli aspetti tecnici e marketing, di team management e business development. Oltre che essere uno degli ideatori di InnovAction Lab, Augusto è co-chair della Governance di BAIA Italia, membro del comitato scientifico di Italia Camp, advisor di start-up ed investitori privati, consulente nonché speaker sui temi dell'innovazione e del rapporto tra start-up e Venture Capital. Laureato in Ingegneria, nel tempo libero ama stare in famiglia, i piaceri conviviali, la conversazione brillante e le lunghe passeggiate."
     :twitter: 5anatre
     :github:
 - :id: 22
@@ -146,4 +146,16 @@
     :name: "Marco Ottolini + TBA"
     :bio: "<p>Marco:<br />Imprenditore seriale e giornalista. Ha fondato Italia Online e Travel Online. E’ stato CEO di ZDNet e diretto PC Magazine. Ha molto imparato da insuccessi come Euposia e Small Formats</p>"
     :twitter: 
+    :github:
+- :id: 52
+  :track_num: 0
+  :lang: it
+  :title: "Vita di startup: cosa potrebbe capitarvi come developer nei primi anni di vita dell'impresa"
+  :abstract: "TBA"
+  :from: "16:00"
+  :to: "16:30"
+  :author:
+    :name: Sergio Berisso
+    :bio: "Sergio è appassionato di informatica e sviluppo software da tempo immemorabile. Ha iniziato giocando e scrivendo i primi programmi in basic su un Commodore VIC 20, a colpi di PEEK e POKE ha scoperto il fascino del linguaggio macchina e dei microprocessori 6502 – Z80. Da lì in poi è stato un susseguirsi di computer (C64, Amiga 500, Apple II C, i primi IBM PC compatibili) e di linguaggi (Pascal, Fortran, C, C++ , Modula 2, Lisp) passando per i gloriosi PDP-11 del centro di calcolo universitario. Fedeli compagni di questo tragitto le prime BBS, riviste come MC Microcomputer, Doctor Dobb’s Journal, i “garagisti” californiani Steve Wozniak & Steve Jobs. Catturato negli anni 90 da mega progetti enterprise dell’industria del software ha vagato per anni alla ricerca della vecchia passione che stava scemando finché nel 2004 si è scontrato con XP, Kent Beck ed i metodi agili. Un amore a prima vista ? Forse … o forse tutto riacquistava senso e la passione poteva coniugarsi nuovamente col lavoro. Oggi si diletta fra progetti software, Scrum, XP, Lean Development e startup."
+    :twitter: sergioberisso
     :github:
