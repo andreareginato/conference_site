@@ -10,8 +10,8 @@
   :abstract: "Ruby spesso viene associato a Rails per lo sviluppo di web application. Ruby \xC3\xA8 utilizzato per\xC3\xB2 anche nel campo dell'application security come swiss army knife per il testing di applicazioni web. Durante il talk verranno mostrate delle gemme opensource (alcune scritte anche dal relatore) per il test di applicazioni web e come partire da 0 ed arrivare a compromettere un'applicazione web usando ruby."
   :from: "12:10"
   :to: "13:10"
-  :author:
-    :name: Paolo Perego
+  :authors:
+  - :name: Paolo Perego
     :bio: "Dal 1976 ai giorni nostri Paolo nasce in un caldo pomeriggio del 1976 a Milano. Gi\xC3\xA0 in tenera et\xC3\xA0; Paolo inizia a smontare i propri giochi per capirne il funzionamento. Purtroppo raramente fu in grado di rimontare i pezzi al loro posto. La sua infanzia fu quindi piena di giochi rotti ed inutilizzabili, tuttavia a 5 anni sapeva cosa muoveva le sue macchinine. Possiamo chiamare questa fase della vita di Paolo: \xE2\x80\x98Breaking the law\xE2\x80\x99. Scoperto il C, Linux e la fine arte di creare software, Paolo fu subito affascinato dall\xE2\x80\x99attivit\xC3\xA0 di riparare tutto ci\xC3\xB2 che\xE2\x80\xA6 inavvertitamente veniva rotto. Inizi\xC3\xB2 mettendo patch ai buffer overflow, format bug e altre amenit\xC3\xA0 tipiche dei tool C dei primi anni \xE2\x80\x9890. Nel 1996 Paolo scopre il networking e la programmazione in kernel land. Erano gli anni in cui i Pink Floyd erano in loop nel suo walkman. Possiamo chiamare questa fase della vita di Paolo: \xE2\x80\x98Quindi mi stai dicendo che il tuo instruction Pointer \xC3\xA8 pieno di 0x41?\xE2\x80\x99. Nel nuovo millennio, Paolo ha focalizzato il proprio interesse nel fare revisioni del codice e scriverne fix per correggere problemi di sicurezza. Ama ancora creare web application e lo fa principalmente con Ruby ed il framework Rails utilizzando tecniche di Behaviour Driven Development. Questo lo ha trasformato in un application security specialist intento a trsformare il ciclo di vita del software della pi\xC3\xB9 realt\xC3\xA0 italiana in campo media-broadcasting, aggiungendo tocchi di sicurezza qui e l\xC3\xAC. \xC3\x88 coinvolto in Owasp come project leader di Owasp Orizon (un motore open per code review) e per Owasp Esapi Ruby - il porting delle librerie ESAPI in Ruby. Paolo \xC3\xA8 membro del board di Owasp Italia. Sono gli anni in cui i Pearl Jam e metal anni \xE2\x80\x9880 riempiono il lettore MP3 di Paolo che \xC3\xA8 anche un marito, un padre orgoglioso, un chitarrista ed un\xE2\x80\x99aspirante cintura nera di Taekwondo-ITF. Possiamo chiamare questa fase della vita di Paolo: \xE2\x80\x98Stay hungry, stay foolish\xE2\x80\x99."
     :twitter: thesp0nge
     :github: thesp0nge
@@ -22,8 +22,8 @@
   :abstract: "Stufi di essere svegliati alle 2 del mattino dai colleghi del team di operation perch\xC3\xA9 il deployment in produzione \xC3\xA8 andato male? Allora questo \xC3\xA8 il talk che fa per voi. Attraverso un caso concreto nel talk verr\xC3\xA0 illustrato come in ZephirWorks gestiamo il processo di continuous deployment per il nostro progetto Savory.io. Vedremo come del software scritto in Ruby viene deployato da Chef (un tools di configuration management scritto in Ruby) su Cloud Foundry (una PaaS scritta in ruby).  Robe da Rubyday. :)"
   :from: "10:10"
   :to: "11:10"
-  :author:
-    :name: Andrea C. Granata
+  :authors:
+  - :name: Andrea C. Granata
     :bio: "Andrea C. Granata (@andreacgranata) ha pigiato i primi tasti su un bianco VIC20 quando ancora Internet era in fasce. Un po\xE2\x80\x99 sistemista un po\xE2\x80\x99 sviluppatore, ha una passione per FreeBSD, programmazione in Ruby e metodologie Agile, passione che condivide con i colleghi di ZephirWorks, l\xE2\x80\x99azienda di cui \xC3\xA8 cofondatore. Al momento si dedica alla diffusione presso le aziende italiane dei principi del movimento DevOps. Nel tempo libero si divide tra la passione per la cucina, il pattinaggio di figura e i viaggi in Oriente. Last but not least: \xC3\xA8 articolista per la webzine della storica casa editrice Apogeo."
     :twitter: andreacgranata
     :github: zephirworks
@@ -34,8 +34,8 @@
   :abstract: "Le viste di Rails dovrebbero avere un'API, lo stato corrente dell'implementazione stessa lo suggerisce (<a href='http://elia.tumblr.com/post/17314789432/dont-use-ivars-in-rails-controllers' target='_blank'>Don't use instance variables into Rails controllers</a> e <a href='http://elia.tumblr.com/post/17547757285/another-reason-to-avoid-instance-variables-into-rails' target='_blank'>Another reason to avoid instance variables into Rails controllers</a>), esistono una serie di soluzioni (presenter, helper_method, locals, ...). La talk cercher\xC3\xA0 di aiutare a capire il problema, analizzare le soluzioni disponibili eventualmente suggerendone una in particolare."
   :from: "12:10"
   :to: "13:10"
-  :author:
-    :name: Elia Schito
+  :authors:
+  - :name: Elia Schito
     :bio: A Ruby/Rails developer, catholic, who loves his beautiful wife and his wonderful children.
     :twitter: elia
     :github: elia
@@ -46,8 +46,8 @@
   :abstract: As faster as new technologies are coming, the market are looking for innovation. Okay, everyone know's that the internet is about being connected, it isn't the point anymore, now the question is about do it faster, smarter and easier. But what a Socket Application can offer? It isn't just about performance. If you start to look to your server as a middle-point between all users trough your application, you'll realize that you have the possibility to integrate all users, letting some user actions reflect in everyone experience, interacting each other by the application interface. With this new concept we are able to build not only chats and games but dynamic and user-oriented applications. There is some great ways to build a socket application using Ruby ( RoR ) and others cutting-edge technologies like Node.JS. This talk will be about what is websockets, why we -developers- should use it, and how implement it with Ruby on Rails ( and even other technologies ) using Eventmachine, Juggernaut ( a gem made by Alex MacCaw ) and more. This is the concept of Socket Applications, a new way of interact, share and build, the developers love it, and the users need it. And it's just the beginning, there is more to talk and explain about how sockets really work, why it started to be used, the C10K Problem, Reactor Pattern and more. I already gave this talk twice and the reaction was great, I hope you guys let me surprise the Italian Ruby Day too.
   :from: "16:30"
   :to: "17:30"
-  :author:
-    :name: "Jo\xC3\xA3o Moura"
+  :authors:
+  - :name: "Jo\xC3\xA3o Moura"
     :bio: "I'm a Brazilian developer, currently living in S\xC3\xA3o Paulo, working on Codeminer42 as consultant and developer w/ systems engineering and a enthusiast technologist that love open source development. I already have spoken in some events in Brazil and I'm used to deal with people, developers to executives, and techniques of interactive and incremental development."
     :twitter: joaomdmoura
     :github: joaomdmoura
@@ -58,8 +58,8 @@
   :abstract: Have you ever built a mobile app? Or a web app? Do you know how to build a single backend for supporting your web and mobile needs? In this speech we will discover how to build a simple application as a REST API in Ruby on Rails, and expose it as a web and a mobile app. We will see how to design and test REST APIs in a pure BDD style, using Cucumber and RSpec.
   :from: "10:10"
   :to: "11:10"
-  :author:
-    :name: Matteo Collina
+  :authors:
+  - :name: Matteo Collina
     :bio: "I\xE2\x80\x99m a software engineer with a passion for coding, distributed architecture and agile methodologies. I\xE2\x80\x99ve worked with a wide range of technologies (Java, Ruby, Javascript, Node.js) applying them to various fields (bank, turism, real estate). In 2011 I held a talk about mobile web development with Sencha Touch and Ruby at the WhyMCA and RubyDay.it conferences. I'm also one of the organizers of the RubyDay.it conference."
     :twitter: matteocollina
     :github: mcollina
@@ -70,8 +70,8 @@
   :abstract: "Analizzeremo le varie possibilit\xC3\xA0 di concurrency in Ruby, dal forking ai fibers, passando per i threads, evidenziando potenzialit\xC3\xA0 e limiti di ogni tecnica. Ci soffermeremo poi sul Reactor Pattern, implementato in Ruby attraverso EventMachine: scopriremo cos'\xC3\xA8 e impareremo ad usare i fibers per scrivere codice ad eventi, eliminando i tempi di attesa di I/O e sfruttando al massimo la potenza che le moderne CPU."
   :from: "14:30"
   :to: "15:30"
-  :author:
-    :name: Marco Borromeo
+  :authors:
+  - :name: Marco Borromeo
     :bio: "Sviluppo software da diversi anni, e una delle mie passioni pi\xC3\xB9 grosse \xC3\xA8 scrivere codice ottimizzato, sfruttando tutte le peculiarit\xC3\xA0 dell'interprete che uso. Lavoro di giorno come sviluppatore presso eBay Annunci, di notte come wannabe entrepreneur e nel tempo libero (??) mi rilasso tentando di lasciare una traccia del mio passaggio sul divano."
     :twitter: borros
     :github:
@@ -82,8 +82,8 @@
   :abstract: "This talk will discuss why you might, when you set out to design a system, want to stop thinking about persistence. Rather than kicking off a project generating models that subclass `ActiveRecord::Base`, I will suggest beginning your application development by modeling behaviour with <strong>Plain Old Ruby Objects (POROs)</strong>. While including ideas from <a href='http://about.avdi.org/' target='_blank'>Avdi Grimm</a>'s <a href='http://objectsonrails.com/' target='_blank'>Objects on Rails</a>, the talk will primarily be based around my personal experience refactoring an-ActiveResource based system with Plain Old Ruby Objects and <a href='https://github.com/apotonick/roar' target='_blank'>roar</a>. Included in this talk will be an exploration of:\n\n* patterns, such as <a href='http://martinfowler.com/eaaCatalog/repository.html' target='_blank'>Repository</a> and <a href='http://martinfowler.com/eaaCatalog/dataMapper.html' target='_blank'>Data Mapper</a>, as coined by Martin Fowler,\n\n* how upcoming libraries - Curator, Virtus and Veritas - fit in with these patterns,\n\n* the parts of these libraries that are usable today,\n\n* how to make this methodology workable in the context of TDD (keeping components as testable as possible).\n\nThere will also be a discussion about the stage when you should begin implementing persistence."
   :from: "15:30"
   :to: "16:30"
-  :author:
-    :name: Alex Coles
+  :authors:
+  - :name: Alex Coles
     :bio: "Alex Coles (<a href='http://twitter.com/myabc' target='_blank'>@myabc</a>) is the Lead Developer of Payango GmbH. He\xE2\x80\x99s active in the open-source community, and has been involved with the DataMapper project since shortly after its inception. He has also contributed extensively to many other projects including RefineryCMS, Friendly ID and RakeCompiler. When not writing code, he is involved with the community in other ways \xE2\x80\x93 i.e. last year he organised eurucamp, an unconference for those who were unable to get tickets to EuRuKo in Berlin."
     :twitter: myabc
     :github: myabc
@@ -94,8 +94,8 @@
   :abstract: "Cucumber is a useful tool that is often used incorrectly. Many people abandon it altogether without understanding its true potential. Whether you are working for a client or on an internal product, clear and concise tests will reduce confusion and ensure you stay on the right track with your development. In this talk, we will explore what should and should not be a 'step'. We'll also look at how to properly test your front end javascript and the gotchas surrounding headless browsers. We will see how easy it is to test external APIs in isolation with VCR, and more. The acceptance tests we write can do so much more than test our code. We will examine how cucumber will make communication with your stakeholder smoother, help you brainstorm more effectively, and give you excellent project visibility."
   :from: "11:10"
   :to: "12:10"
-  :author:
-    :name: Thomas Symborski
+  :authors:
+  - :name: Thomas Symborski
     :bio: "I am a 23 year old programmer hailing from Norfolk, Virginia, USA. I work at a Ruby/Rails and iOS consultancy serving clients all around the world. I believe firmly in test driven development, pragmatic programming, and making customers happy. I hold a BS in Electrical Engineering and a MS in Theoretical Mathematics. My hobbies include programming, traveling, and learning languages."
     :twitter: zsiec
     :github: zsiec
@@ -106,8 +106,8 @@
   :abstract: "Ancora oggi un gran numero di sviluppatori software italiani non considerano le startup innovative tecnologiche come una seria e concreta possibilità di sviluppo professionale, preferendo di gran lunga, se messi realmente di fronte alla scelta, un posto in aziende più strutturate e di brand riconosciuto. In questo speech si forniranno alcuni elementi che possano aiutare gli sviluppatori a riflettere criticamente su una scelta che può avere una grande influenza sul proseguo del proprio cammino professionale."
   :from: "15:30"
   :to: "16:00"
-  :author:
-    :name: Augusto Coppola
+  :authors:
+  - :name: Augusto Coppola
     :bio: "Imprenditore e manager con un focus sull'execution. Ha fatto parte del team di fondatori di due start-up internazionali, spendendo una parte consistente degli ultimi 15 anni a presentare le proprie aziende a clienti, partner ed investitori in molti paesi europei, in America, Asia ed Africa. Questo background lo ha portato a maturare una solida esperienza nello sviluppo di aziende di prodotto riuscendo a coniugare gli aspetti tecnici e marketing, di team management e business development. Oltre che essere uno degli ideatori di InnovAction Lab, Augusto è co-chair della Governance di BAIA Italia, membro del comitato scientifico di Italia Camp, advisor di start-up ed investitori privati, consulente nonché speaker sui temi dell'innovazione e del rapporto tra start-up e Venture Capital. Laureato in Ingegneria, nel tempo libero ama stare in famiglia, i piaceri conviviali, la conversazione brillante e le lunghe passeggiate."
     :twitter: 5anatre
     :github:
@@ -118,8 +118,8 @@
   :abstract: "Websites and webapps use the same backend but display the content differently. Using some emerging technologies is possible to bind these 2 worlds in the same infrastructure limiting the feature duplications (client and server side) and reduce the risk of SEO penalizations."
   :from: "11:10"
   :to: "12:10"
-  :author:
-    :name: Luigi Maselli
+  :authors:
+  - :name: Luigi Maselli
     :bio: "I'm a technology geek and web developer, I got a Computer Science degree at Università di Torino. I'm involved in many Free and Open Source activities like Linux Day Torino, Open Geek Meeting, I spread my thoughts via my blog and I'm a consultant Freelance."
     :twitter: grigi0
     :github:
@@ -130,8 +130,8 @@
   :abstract: "Autonomy is vital for smart self-starters and young companies often get this right; but scaling makes it's easy to revert to traditional management styles that takes away this freedom. Key to our success, Guerrilla Teamwork lets us capitalize on our growing talent pool while keeping our autonomy. In this talk, I'll share how GitHub manages to stay productive and organized without managers or a rigid hierarchy, from the perspective of the individual."
   :from: "14:30"
   :to: "15:30"
-  :author:
-    :name: Matt Todd
+  :authors:
+  - :name: Matt Todd
     :bio: "Matt Todd, a Developer at GitHub, is an experienced and passionate Open Source advocate. Originally from Atlanta, Matt moved to San Francisco last year to help build the next generation of GitHub's Enterprise product. Building web applications and development tools for the past decade, he's driven to share his experiences and the knowledge gained. "
     :twitter: mtodd
     :github: mtodd
@@ -142,9 +142,13 @@
   :abstract: "TBA"
   :from: "16:30"
   :to: "17:30"
-  :author:
-    :name: "Marco Ottolini + TBA"
-    :bio: "<p>Marco:<br />Imprenditore seriale e giornalista. Ha fondato Italia Online e Travel Online. E’ stato CEO di ZDNet e diretto PC Magazine. Ha molto imparato da insuccessi come Euposia e Small Formats</p>"
+  :authors:
+  - :name: "Marco Ottolini"
+    :bio: "<p>Imprenditore seriale e giornalista. Ha fondato Italia Online e Travel Online. E’ stato CEO di ZDNet e diretto PC Magazine. Ha molto imparato da insuccessi come Euposia e Small Formats</p>"
+    :twitter: 
+    :github:
+  - :name: "TBA"
+    :bio: "<i>TBA</i>"
     :twitter: 
     :github:
 - :id: 52
@@ -154,8 +158,8 @@
   :abstract: "TBA"
   :from: "16:00"
   :to: "16:30"
-  :author:
-    :name: Sergio Berisso
+  :authors:
+  - :name: Sergio Berisso
     :bio: "Sergio è appassionato di informatica e sviluppo software da tempo immemorabile. Ha iniziato giocando e scrivendo i primi programmi in basic su un Commodore VIC 20, a colpi di PEEK e POKE ha scoperto il fascino del linguaggio macchina e dei microprocessori 6502 – Z80. Da lì in poi è stato un susseguirsi di computer (C64, Amiga 500, Apple II C, i primi IBM PC compatibili) e di linguaggi (Pascal, Fortran, C, C++ , Modula 2, Lisp) passando per i gloriosi PDP-11 del centro di calcolo universitario. Fedeli compagni di questo tragitto le prime BBS, riviste come MC Microcomputer, Doctor Dobb’s Journal, i “garagisti” californiani Steve Wozniak & Steve Jobs. Catturato negli anni 90 da mega progetti enterprise dell’industria del software ha vagato per anni alla ricerca della vecchia passione che stava scemando finché nel 2004 si è scontrato con XP, Kent Beck ed i metodi agili. Un amore a prima vista ? Forse … o forse tutto riacquistava senso e la passione poteva coniugarsi nuovamente col lavoro. Oggi si diletta fra progetti software, Scrum, XP, Lean Development e startup."
     :twitter: sergioberisso
     :github:

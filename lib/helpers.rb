@@ -208,6 +208,18 @@ def talk_title(id)
   "<a href='/talks/#{id}/' id='talk_#{id}'>#{flag(talk[:lang])}#{talk[:title]}</a>"
 end
 
+def talk_authors(authors, last_word_connector = ' and ')
+  names = authors.collect{|a| a[:name]}
+  case names.length
+  when 0
+    ''
+  when 1
+    names[0].to_s
+  else
+    "#{names[0...-1].join(', ')}#{last_word_connector}#{names[-1]}"
+  end
+end
+
 private
 def derive_created_at(item)
   parts = item.identifier.gsub('-', '/').split('/')[1,3]

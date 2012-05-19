@@ -14,7 +14,7 @@
     <div>
       <div class="header">
         <h3 class='red-color'><%= flag(talk[:lang], 32) %><%= talk[:title] %></h3>
-        <h3 class='subheader red-color authors'><%= talk[:author][:name]%></h3>
+        <h3 class='subheader red-color authors'><%= talk_authors(talk[:authors])%></h3>
         <h3 class='subheader'>from <%= talk[:from] %> to <%= talk[:to] %></h3>
       </div>
       <div class="description">
@@ -22,8 +22,10 @@
         <%= markdown(talk[:abstract]) %>
       </div>
       <div class="authors">
-        <h4>Author</h4>
-          <%= render('/partials/author/', author: talk[:author]) %>
+        <h4>Author<%=talk[:authors].size > 1 ? 's' : ''%></h4>
+          <% talk[:authors].each do |author| %>
+            <%= render('/partials/author/', author: author) %>
+          <% end %>
       </div>
     </div>
   </div>
