@@ -17,6 +17,7 @@ p { font-size: 14px !important; line-height: 22px !important; }
 .active.gold { background-color: #f5db00 !important; color: #444 !important; }
 .active.silver { background-color: #969696 !important; color: white !important; }
 .active.bronze { background-color: #A57164 !important; color: white !important; }
+.active.red { background-color: #E10000 !important; color: white !important; }
 .section { margin-bottom: 40px !important; }
 
 /*	--------------------------------------------------
