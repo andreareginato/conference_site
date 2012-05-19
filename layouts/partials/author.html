@@ -1,0 +1,15 @@
+<div class="author">
+  <h5><%= author[:name] %></h5>
+  <%= markdown(author[:bio]) %>
+  <% if author[:twitter] || author[:github] %>
+  <h6>Contacts</h6>
+  <ul class="contacts">
+    <% if author[:twitter] %>
+    <li>Twitter: <a href='http://twitter.com/<%= author[:twitter] %>' target="_blank">@<%=author[:twitter]%></a></li>
+    <% end %>
+    <% if author[:github] %>
+    <li>Github: <a href='https://github.com/<%= author[:github] %>' target="_blank">https://github.com/<%= author[:github] %></a></li>
+    <% end %>
+  </ul>
+  <% end %>
+</div>

@@ -23,21 +23,7 @@
       </div>
       <div class="authors">
         <h4>Author</h4>
-        <div class="author">
-          <h5><%= talk[:author][:name] %></h5>
-          <%= markdown(talk[:author][:bio]) %>
-          <% if talk[:author][:twitter] || talk[:author][:github] %>
-          <h6>Contacts</h6>
-          <ul class="contacts">
-            <% if talk[:author][:twitter] %>
-            <li>Twitter: <a href='http://twitter.com/<%= talk[:author][:twitter] %>' target="_blank">@<%=talk[:author][:twitter]%></a></li>
-            <% end %>
-            <% if talk[:author][:github] %>
-            <li>Github: <a href='https://github.com/<%= talk[:author][:github] %>' target="_blank">https://github.com/<%= talk[:author][:github] %></a></li>
-            <% end %>
-          </ul>
-          <% end %>
-        </div>
+          <%= render('/partials/author/', author: talk[:author]) %>
       </div>
     </div>
   </div>
