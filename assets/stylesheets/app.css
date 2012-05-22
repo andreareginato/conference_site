@@ -236,3 +236,57 @@ div#schedule img.flag {
 .back_schedule {
   text-align: right;
 }
+
+
+
+
+/*	--------------------------------------------------
+	:: Header and background
+	-------------------------------------------------- */
+
+#rubyday-background-container { position: relative !important; }
+#rubyday-background-container > #rubyday-background {
+  background: url('/images/logo.jpg') 0 0 no-repeat;
+  position:       absolute  !important;
+  top:               0px    !important;
+  left:           -300px    !important;
+  
+  height:          800px    !important;
+  margin-bottom:  -800px    !important;
+  
+  width:           800px    !important;
+  margin-right:   -800px    !important;
+  
+  z-index: -1;
+}
+
+#rubyday-title > .foundation-header {
+  height: 144px !important;
+  width:  374px !important;
+}
+
+
+/* Stolen from bourbon: github.com/thoughtbot/bourbon */
+#rubyday-title > .foundation-header > h4, 
+#rubyday-title > .foundation-header > h1 > a {
+  background-color: transparent !important;
+  border:           0           !important;
+  color:            transparent !important;
+  font:             0/0 a       !important;
+  text-shadow:      none        !important;
+}
+
+@media handheld, only screen and (max-width: 767px) {
+  #rubyday-background-container { display: none; }
+  #rubyday-title > .foundation-header > h4, 
+  #rubyday-title > .foundation-header > h1 > a {
+    font:             inherit !important;
+  }
+  #rubyday-title > .foundation-header > h4 {
+    color:            #aaa !important;
+  }
+  #rubyday-title > .foundation-header > h1 > a {
+    color:            red !important;
+  }
+}
+
