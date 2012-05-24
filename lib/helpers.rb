@@ -185,8 +185,13 @@ def sort_by_name(people)
 end
 
 def url_and_content(key, value)
-  return ["http://twitter.com/#{value}", "@#{value}"] if key == :twitter
-  return [value, value]
+  return value.collect do |v|
+    if key == :Twitter
+      ["http://twitter.com/#{v}", "@#{v}"]
+    else
+      [v, v]
+    end
+  end
 end
 
 def url_avatar(person)

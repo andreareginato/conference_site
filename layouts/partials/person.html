@@ -5,9 +5,11 @@
   <% unless person[:ref].nil? %>
     <dl class="ref">
       <% person[:ref].each do |key, val| %>
-        <% url, content = url_and_content(key, val) %>
-        <dt><%= key.capitalize %></dt>
-        <dd><a href='<%= url %>' target="_blank" ><%= content %></a></dd>
+        <% contents = url_and_content(key, val) %>
+        <% contents.each do |url, content| %>
+          <dt><%= key %></dt>
+          <dd><a href='<%= url %>' target="_blank" ><%= content %></a></dd>
+        <% end %>
       <% end %>
     </dl>
   <% end %>

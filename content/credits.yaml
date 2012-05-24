@@ -3,40 +3,64 @@ people:
   - name: Matteo Collina
     gravatar_email: matteo.collina@gmail.com
     description: Visionary, Software Engineer and Ph.D. student.
-    ref: {
-      twitter: matteocollina,
-      website: http://www.matteocollina.com/
-    }
+    ref:
+      Twitter:
+      - matteocollina
+      Website:
+      - http://www.matteocollina.com/
   - name: Andrea Reginato
     gravatar_email: andrea.reginato@gmail.com
     description: Web and Home Automation lover, now works in Milan at the <a href="http://lelylan.com" target="_blank">Lelylan</a> project con collaborate with the Statale di Milano University. I've experience in Domotics, Ruby, Rails, Javascript, Actionscript and Arduino.
-    ref: {
-      twitter: andreareginato,
-      website: http://flavors.me/andreareginato,
-      company: http://lelylan.com
-    }
+    ref:
+      Twitter:
+      - andreareginato
+      Website:
+      - http://flavors.me/andreareginato
+      Company:
+      - http://lelylan.com
   - name: Andrea Forni
     gravatar_email: andrea.forni@gmail.com
     description: Passionate developer, loves web technologies, Ruby, test driven development and writing clean code. Java developer on weekdays, hobbyist photographer on the weekend.
-    ref: {
-      twitter: aforni,
-      website: http://www.andreaforni.com
-    }
+    ref:
+      Twitter:
+      - aforni
+      Website:
+      - http://www.andreaforni.com
   - name: Elia Schito
     gravatar_email: perlelia@gmail.com
     description: A Ruby/Rails developer at <a href="http://mikamai.com/" target="_blank">Mikamai</a>, catholic, who loves his beautiful wife and his wonderful children.
-    ref: {
-      twitter: elia,
-      blog: http://elia.tumblr.com/,
-      website: http://elia.github.com/,
-      company: http://mikamai.com/
-    }
+    ref:
+      Twitter:
+      - elia
+      Blog:
+      - http://elia.tumblr.com/
+      Website:
+      - http://elia.github.com/
+      Company:
+      - http://mikamai.com/
   - name: Fabio Cantoni
     gravatar_email: cover3k@gmail.com
     description: Startupper &amp; Ruby/Rails developer at day. A vampire at night.
-    ref: {
-      twitter: cover3k,
-      website: http://revoc.net/,
-      company: http://neonisi.com/
-    }
+    ref:
+      Twitter:
+      - cover3k
+      Website:
+      - http://revoc.net/
+      Company:
+      - http://neonisi.com/
+  - name: Raoul J.P. Bonnal
+    gravatar_email: ilpuccio.febo@gmail.com
+    description: BioInformatician, Developer, Ruby lover, Creative Programming.
+    ref:
+      Twitter:
+      - ilpuccio
+      GitHub:
+      - https://github.com/helios
+      - https://github.com/bioruby/bioruby
+  - name: Sergio Berisso
+    gravatar_email:
+    description: C64 Programmer, Analyst, Manager, Entrepreneur, Java, Scala, Python, Ruby lover ... techno crazy man :-)
+    ref:
+      Twitter:
+      - sergioberisso
 
