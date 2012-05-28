@@ -13,7 +13,7 @@ p { font-size: 14px !important; line-height: 22px !important; }
 .big { font-size: 190% !important; }
 .no-border { border: none !important; }
 .content { margin-top: 30px; }
-.active.platinum { background-color: gainsboro !important; color: #444 !important; }
+.active.platinum { background-color: #DCDCDC !important; color: #444 !important; }
 .active.gold { background-color: #f5db00 !important; color: #444 !important; }
 .active.silver { background-color: #969696 !important; color: white !important; }
 .active.bronze { background-color: #A57164 !important; color: white !important; }
@@ -249,7 +249,7 @@ div#schedule img.flag {
   background: url('/images/logo.jpg') 0 0 no-repeat;
   position:       absolute  !important;
   top:               0px    !important;
-  left:           -300px    !important;
+  left:           -291px    !important;
   
   height:          800px    !important;
   margin-bottom:  -800px    !important;
@@ -274,6 +274,10 @@ div#schedule img.flag {
   color:            transparent !important;
   font:             0/0 a       !important;
   text-shadow:      none        !important;
+}
+
+#rubyday-place {
+  top: -2px;
 }
 
 @media handheld, only screen and (max-width: 767px) {

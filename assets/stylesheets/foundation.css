@@ -200,7 +200,7 @@
 
 	.container { padding: 0 20px; }
 	
-	.row { width: 100%; max-width: 980px; min-width: 727px; margin: 0 auto; }
+	.row { width: 100%; max-width: 760px; min-width: 627px; margin: 0 auto; }
 	/* To fix the grid into a certain size, set max-width to width */
 	.row .row { min-width: 0; }
 	
