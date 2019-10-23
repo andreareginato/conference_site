@@ -8,7 +8,7 @@ GEM
     mime-types (1.17.2)
     nanoc3 (3.2.4)
       cri (~> 2.0)
-    rack (1.4.0)
+    rack (1.6.11)
     rack-contrib (1.1.0)
       rack (>= 0.9.1)
     rack-rewrite (1.2.1)
